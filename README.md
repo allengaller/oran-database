@@ -57,8 +57,13 @@ This knowledge base is designed specifically for cloud platform operations profe
 
 - **learning-path/** - Structured Learning Journey
   - **01-fundamentals/** - Phase 1: O-RAN Fundamentals (1-2 weeks)
-    - Core concepts, architecture overview, key components, interface standards
-    - Production environment best practices and troubleshooting guides
+    - **Architecture System**: Reference architecture, evolution, layered architecture, functional distribution, elastic scaling, O-Cloud architecture
+    - **Core Components**: RU, DU, CU, CUCP/CUUP coordination, RIC, SMO detailed analysis
+    - **Interface Standards**: F1, O-FH, E2, A1, O1, O2, OAM interface protocols and best practices
+    - **Disaggregation Options**: 8 disaggregation options, fronthaul splits, deployment scenarios, performance impact, cost-benefit analysis
+    - **Cloud Integration**: Cloud-native architecture, container orchestration, microservices architecture, automated deployment, monitoring integration
+    - **Working Groups**: O-RAN Alliance working groups overview and detailed responsibilities
+    - Production environment best practices and troubleshooting guides from O-RAN expert perspective
   - **02-architecture/** - Phase 2: Technical Architecture & Interfaces (2-3 weeks)
     - Detailed architecture, interface protocols, disaggregation options, cloud platform integration
     - Interface testing strategies and performance optimization
@@ -104,9 +109,9 @@ To become an O-RAN expert, you'll need to develop these additional skills:
 ## Learning Path for Cloud Platform Professionals
 
 ### Phase 1: O-RAN Fundamentals (1-2 weeks)
-- **Focus**: Architecture overview, core components, interface standards, disaggregation options
-- **Activities**: Study O-RAN reference architecture, identify network elements and interfaces, understand disaggregation trade-offs
-- **Resources**: o-ran-fundamentals/ folder, learning-path/01-fundamentals/
+- **Focus**: Architecture overview, core components, interface standards, disaggregation options, cloud integration, working groups
+- **Activities**: Study O-RAN reference architecture, identify network elements and interfaces, understand disaggregation trade-offs, explore cloud-native integration, learn about O-RAN Alliance working groups
+- **Resources**: learning-path/01-fundamentals/ with comprehensive expert content including architecture system, core components, interface standards, disaggregation options, cloud integration, and working groups
 
 ### Phase 2: Technical Architecture & Interfaces (2-3 weeks)
 - **Focus**: Detailed architecture, interface protocols, disaggregation options, cloud platform integration
