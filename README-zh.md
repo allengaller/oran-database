@@ -183,6 +183,16 @@
 - **30-best-practices/** - 最佳实践汇编
   - 架构设计实践、部署实施实践、运维管理实践、团队协作实践
 
+### AI-RAN 融合（2026 新增）
+
+- **31-ai-ran-convergence/** - AI-RAN 融合：2026 全景概览
+  - **🆕 基于 MWC 2026、GTC 2026、O-RAN Alliance 2026 春季发布、IEEE ICC 2026**
+  - **alliance-ecosystem/** - AI-RAN Alliance、O-RAN AI/ML 规范、NVIDIA 10 亿美元投资、行业合作
+  - **architecture-platforms/** - NVIDIA ARC/ARC-Compact、GPU 加速基带（cuMAC）、AI-with-RAN 共享基础设施
+  - **agentic-ai/** - 多尺度 Agentic AI 框架（arXiv 2602.14117）、LLM 驱动自主智能体、安全护栏
+  - **digital-twin/** - NVIDIA AODT、6G-TWIN 框架、闭环优化、VIAVI 验证
+  - **6g-ai-native/** - AI 原生 RAN 设计、太赫兹 AI、联邦学习、物理约束 ML
+
 ### 资源
 
 - **resources/** - 学习资源
@@ -347,6 +357,17 @@
 - 相关主题和概念之间的交叉引用
 - 增强的内容可搜索性和可发现性
 
+### 🆕 2026 年 5 月更新：AI-RAN 融合
+- **新章节 31**：AI-RAN 融合 — 全面覆盖 2026 年 AI-RAN 全景
+  - AI-RAN Alliance 生态、NVIDIA ARC 平台、GPU 加速基带
+  - 多尺度 Agentic AI 框架（arXiv 2602.14117，2026 年 2 月）
+  - NVIDIA AODT 数字孪生、6G-TWIN 框架
+  - 6G AI-Native 架构、太赫兹 AI、联邦学习
+- **更新 AI 入门指南**：oran-ai-head-first.md 和 oran-llm-head-first.md 加入 2026 内容
+- **更新 RIC 开发**：Agentic AI 智能体取代传统 xApp 规则引擎
+- **更新未来发展**：AI-RAN 融合时间线和行业里程碑
+- **来源**：MWC 2026、GTC 2026、O-RAN Alliance 2026 春季、IEEE ICC 2026、最新学术论文
+
 ## 入门指南
 
 1. **从转型指南开始** - 了解您现有的云技能如何映射到 O-RAN 专业知识
@@ -356,6 +377,6 @@
 
 ---
 
-*最后更新：2026年2月*
+*最后更新：2026年5月（AI-RAN 融合更新）*
 *内容由 O-RAN 行业专家定期维护和扩展*
 *专为希望转型为 O-RAN 专家的云平台专业人员设计*

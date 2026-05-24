@@ -60,6 +60,42 @@
 - 未来研究方向
 - 最新技术综述
 
+### 2026 AI-RAN 论文 (`/ai-ran-2026`)  ← **2026年5月新增**
+2026 年发表的 **AI-RAN 融合**前沿论文，涵盖 Agentic AI、数字孪生、6G AI 原生设计、后量子安全和真实部署案例。
+- **Agentic AI** — 多层自治代理（战略/战术/反应层）
+- **数字孪生** — NVIDIA AODT、实时同步、预验证
+- **6G AI 原生** — 太赫兹、语义通信、物理信息机器学习
+- **联邦学习** — 跨运营商隐私保护训练
+- **安全** — 对抗攻击、后量子密码、AI-RAN 零信任
+- **案例研究** — SoftBank、Nokia+MWC、Elisa、SynaXG+Eridan、LITEON、VIAVI
+
+**完整论文目录**：参见 [AI-RAN 2026 论文索引](./ai-ran-2026/)
+**深度解读**：参见 [31-ai-ran-convergence/paper-deep-dive](../31-ai-ran-convergence/paper-deep-dive/)
+
+---
+
+## 2026 AI-RAN 论文亮点（快速参考）
+
+### 里程碑论文
+
+| 论文 | 来源 | 年份 | 深度解读 |
+|:---|:---|:---|:---|
+| **Toward Autonomous O-RAN: Multi-Scale Agentic AI Framework** | arXiv 2602.14117 | 2026.2 | [阅读](../31-ai-ran-convergence/paper-deep-dive/arxiv-2602-14117.md) |
+| **AI for Next-Generation 6G Technologies and Networks** | Springer | 2026.2 | [阅读](../31-ai-ran-convergence/paper-deep-dive/springer-6g-ai.md) |
+| **AI-RAN: The Pathway to Future Wireless Networks** | ScienceDirect (ICT Express) | 2026 | [阅读](../31-ai-ran-convergence/paper-deep-dive/sciencedirect-2026.md) |
+| **AI-Based Resource Management for O-RAN: Survey** | ScienceDirect (Ad Hoc Networks) | 2026.4 | [阅读](../31-ai-ran-convergence/paper-deep-dive/sciencedirect-survey-2026.md) |
+
+### 2026 关键主题
+
+1. **Agentic AI** — 基于 LLM 的战略代理 + DRL 战术代理 + 快速反应代理
+2. **数字孪生成为基础** — AODT 和定制孪生现已成为安全的强制要求
+3. **AI-RAN 作为平台** — 运营商通过 B2B AI 服务变现基站 GPU
+4. **6G AI 原生设计** — AI 设计入物理层，而非外挂
+5. **AI 安全** — 新威胁模型：AI 攻击 AI
+6. **后量子过渡** — NIST PQC 标准（Kyber、Dilithium）集成到 O-RAN 接口
+
+---
+
 ## 论文元数据格式
 
 每个论文条目应包括：

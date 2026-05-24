@@ -93,4 +93,78 @@ O-RAN 的 AI 运作机制完全一样：
 3.  你把它作为一个 **xApp** 部署到 Near-RT RIC 的 Namespace 下。
 4.  这个 Pod 开始自动接管基站的扩缩容策略。
 
-这就是为什么说 O-RAN 是电信行业的“云原生革命”——它把封闭的硬件控制权，交给了软件和 AI。
+这就是为什么说 O-RAN 是电信行业的”云原生革命”——它把封闭的硬件控制权，交给了软件和 AI。
+
+---
+
+## 🔥 2026 年重大更新：AI-RAN 融合时代到来
+
+> **以下内容基于 2026 年 MWC、GTC、O-RAN Alliance 最新发布**
+
+### 从 O-RAN 到 AI-RAN：不只是优化，而是基础设施革命
+
+2026 年，行业最大的变化不是”AI 优化了 RAN”，而是 **RAN 本身变成了 AI 基础设施**。
+
+#### 三大范式（2026 年分类法）
+
+| 范式 | 含义 | 类比 K8S |
+|:---|:---|:---|
+| **AI-for-RAN** | AI 优化 RAN（节能、移动性、干扰） | HPA/VPA 自动扩缩容 |
+| **AI-on-RAN** | 基站 GPU 承载第三方 AI 推理服务 | K8S 上跑 AI 推理 Pod 对外服务 |
+| **AI-with-RAN** | RAN 和 AI 动态共享同一 GPU | 同一个 Node 上混部在线+离线任务 |
+
+#### 关键事件
+
+1. **NVIDIA 投资 Nokia 10 亿美元**（2025.10）—— 推动 GPU 基带商用
+2. **NVIDIA ARC-Compact**（GTC 2026）—— 72W L4 GPU + Grace CPU，专为基站设计
+3. **SoftBank 宣布 2026 年商用 AI-RAN** —— 基站 = 边缘 AI 数据中心
+4. **Agentic AI 框架**（arXiv 2026.02）—— 从 xApp 规则引擎进化到 LLM 自主智能体
+5. **NVIDIA AODT 数字孪生**（2026.02）—— 城市级 6G 网络仿真平台
+
+### 基站 = 微型 AI 数据中心
+
+2026 年的核心概念变化：
+
+```
+2024: 基站 → 处理无线信号的设备
+2026: 基站 → GPU 加速的边缘 AI 平台，恰好也处理无线信号
+```
+
+**NVIDIA ARC 架构**：
+```
+NVIDIA ARC-Compact（72W 基站侧）
+├── Grace CPU (ARM) → 运行 K8S + 控制面
+├── L4 GPU → 同时运行:
+│   ├── cuMAC (GPU 加速的 L2 调度器)
+│   ├── cuPHY (GPU 加速的物理层)
+│   └── AI 推理服务 (TensorRT)
+└── BlueField DPU → 网络加速 + 安全
+```
+
+### Agentic AI：从 xApp 到自主智能体
+
+2026 年最前沿的变化——RIC 中的应用不再是”写死规则的 xApp”，而是 **LLM 驱动的自主智能体**：
+
+| 维度 | 传统 xApp (2023) | Agentic AI Agent (2026) |
+|:---|:---|:---|
+| **逻辑** | if-else 规则 + ML 模型 | LLM 推理 + 工具调用 |
+| **适应性** | 固定行为集 | 能生成全新策略 |
+| **交互** | 被动响应事件 | 主动预判问题 |
+| **解释性** | 日志 | 自然语言推理链 |
+
+**三层智能体层级**（来自 2026 年 2 月 arXiv 论文）：
+```
+Tier 1: Non-RT RIC → 战略智能体（LLM 推理，>1s 时间尺度）
+Tier 2: Near-RT RIC → 战术智能体（DRL 决策，10ms-1s）
+Tier 3: O-DU → 反应智能体（GPU 基带，<10ms）
+```
+
+### 给 K8S 运维的 2026 行动指南
+
+你现在需要关注的新技术栈：
+1. **NVIDIA GPU Operator + MIG**：在 K8S 上管理 GPU 资源分区（基带 vs AI）
+2. **Telecom-tuned SLM**：在 Non-RT RIC 部署电信微调小模型（7B-13B）
+3. **数字孪生同步**：K8S 上运行 Twin Sync Agent，实时同步物理网络状态
+4. **Agentic AI 安全护栏**：为自主智能体设置安全边界和回滚机制
+
+📚 详细参见：[31-ai-ran-convergence](./31-ai-ran-convergence/)

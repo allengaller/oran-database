@@ -1,7 +1,16 @@
 # O-RAN Advanced Technologies
 
+> **Updated: 2026-05** | Now incorporating Agentic AI, NVIDIA ARC GPU baseband, and multi-scale agent frameworks from MWC 2026 and GTC 2026.
+
 ## Overview
 This section covers O-RAN advanced technologies, focusing on RIC architecture, xApps/rApps development, intelligent algorithms, and performance optimization. Drawing on your cloud platform expertise, you'll learn how to leverage these advanced technologies to enhance O-RAN network performance and capabilities. This content is based on the latest O-RAN Alliance technical specifications, combined with practical application experience from production environments, providing you with in-depth technical insights.
+
+### 🆕 2026 Additions
+- **Agentic AI in RIC**: Multi-scale agent framework (arXiv 2602.14117) replacing traditional xApp/rApp rules
+- **GPU-Accelerated RIC**: NVIDIA ARC platform enabling AI-with-RAN at cell sites
+- **Digital Twin Integration**: NVIDIA AODT for action pre-validation before live deployment
+- **Telecom-tuned LLMs**: Qwen2.5/Llama-3.1 SLMs for intent translation and root cause analysis
+- **See also**: [31-ai-ran-convergence](../31-ai-ran-convergence/) for comprehensive AI-RAN coverage
 
 ## Key Topics
 
@@ -360,7 +369,104 @@ At the end of this phase, you should be able to:
   - Conduct performance analysis and tuning to identify bottlenecks
   - Design application architecture reasonably to avoid single points of failure
 
-## References
+## 2026: The Agentic AI Revolution in RIC
+
+### From xApps/rApps to Autonomous Agents
+
+The most significant change in 2026 is the transition from **rule-based xApps/rApps** to **LLM-powered autonomous agents**. This is driven by the **Multi-Scale Agentic AI Framework** (arXiv 2602.14117, February 2026).
+
+### Three-Tier Agent Hierarchy
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Tier 1: Strategic Agents (Non-RT RIC, >1s)                  │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  LLM reasoning (Qwen2.5-7B / Llama-3.1-8B)          │    │
+│  │  • Intent translation (NL → policy YAML)             │    │
+│  │  • Cross-network strategy planning                   │    │
+│  │  • Root cause analysis with 3GPP knowledge           │    │
+│  └─────────────────────────────────────────────────────┘    │
+├─────────────────────────────────────────────────────────────┤
+│  Tier 2: Tactical Agents (Near-RT RIC, 10ms-1s)             │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  DRL decision models (PPO/DQN/SAC)                   │    │
+│  │  • Interprets strategic policies from Tier 1         │    │
+│  │  • Real-time optimization via E2 interface           │    │
+│  │  • Multi-agent coordination (interference mgmt)      │    │
+│  └─────────────────────────────────────────────────────┘    │
+├─────────────────────────────────────────────────────────────┤
+│  Tier 3: Reactive Agents (O-DU/ARC, <10ms)                  │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  GPU baseband (NVIDIA cuMAC + cuPHY)                 │    │
+│  │  • Ultra-low-latency signal processing               │    │
+│  │  • Safety guardrail enforcement                      │    │
+│  │  • Local anomaly detection                           │    │
+│  └─────────────────────────────────────────────────────┘    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Agent vs. Traditional xApp Comparison
+
+| Dimension | Traditional xApp | Agentic AI Agent (2026) |
+|:---|:---|:---|
+| Logic | Pre-programmed rules + ML | LLM reasoning + tool calling |
+| Adaptability | Fixed behavior set | Generates novel strategies |
+| Scope | Single optimization task | Multi-objective coordination |
+| Interaction | Reactive (event-driven) | Proactive (anticipates issues) |
+| Explainability | Log files | Natural language reasoning chains |
+| Validation | Manual testing | Digital twin pre-validation |
+
+### Safety Guardrails for Agentic AI
+
+Critical for production deployment (per WG11 Secure AI specifications):
+1. **Digital Twin Pre-validation**: Every action simulated in NVIDIA AODT before execution
+2. **Hard-coded Bounds**: Physical parameter limits that cannot be overridden by AI
+3. **Gradual Rollout**: Start with 5% of cells, expand if positive outcomes
+4. **Human-in-the-loop**: High-impact decisions require operator approval
+5. **Kill Switch**: Immediate manual override capability
+
+### GPU-Accelerated RIC Platform (NVIDIA ARC)
+
+The RIC platform in 2026 runs on GPU-accelerated infrastructure:
+
+```yaml
+# K8S deployment for AI-RAN RIC with GPU
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: near-rt-ric-agent
+  namespace: ric-platform
+spec:
+  template:
+    spec:
+      containers:
+      - name: agentic-xapp
+        image: ric/agentic-agent:2026.1
+        resources:
+          limits:
+            nvidia.com/mig-1g.10gb: 1  # MIG partition
+        env:
+        - name: LLM_ENDPOINT
+          value: "http://vllm-service:8000"
+        - name: DIGITAL_TWIN_API
+          value: "http://aodt-service:9090"
+        - name: E2_INTERFACE
+          value: "e2term:36421"
+        - name: SAFETY_MODE
+          value: "strict"
+```
+
+### References (2026 Additions)
+
+- [arXiv 2602.14117: Multi-Scale Agentic AI Framework for O-RAN (Feb 2026)](https://arxiv.org/html/2602.14117v1)
+- [IEEE CAI 2026: Agentic AI, AI-RAN, and Future 6G Tutorial](https://www.ieeesmc.org/cai-2026/tutorial-1-agentic-ai-ai-ran-ai-core-networks-and-future-6g/)
+- [ZTE AIR RAN: Agentic AI Architecture (2026)](https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/mediares/magazine/publication/tech_en/pdf/ZTE%20%20TECHNOLOGIES%20(NO.%201)%202026%20(AIR%20RAN).pdf)
+- [NVIDIA ARC-Compact Deployment](https://developer.nvidia.com/blog/deploy-ai-ran-at-cell-sites-with-nvidia-arc-compact/)
+- [O-RAN 71 New Documents Released (Feb 2026)](https://www.o-ran.org/blog/71-new-or-updated-o-ran-technical-documents-released-since-november-2025)
+- [O-RAN Alliance Security Update 2026: Secure AI](https://www.o-ran.org/blog/o-ran-alliance-security-update-2026)
+- [AI-RAN Alliance Demonstrations (MWC 2026)](https://ai-ran.org/demonstrations)
+
+## References (Original)
 
 - [O-RAN Alliance RIC Architecture Specifications](https://www.o-ran.org/)
 - [InfoQ Writing Community - Building Secure Open RAN](https://xie.infoq.cn/article/0d05aeb6cea07b679f3b7642f)

@@ -60,6 +60,42 @@ Comprehensive survey papers providing overview of O-RAN technology landscape.
 - Future research directions
 - State-of-the-art reviews
 
+### 2026 AI-RAN Papers (`/ai-ran-2026`)  ← **NEW May 2026**
+Cutting-edge papers on **AI-RAN convergence** published in 2026, covering agentic AI, digital twins, 6G AI-native design, post-quantum security, and real-world deployments.
+- **Agentic AI** — Multi-tier autonomous agents (Strategic/Tactical/Reactive)
+- **Digital Twins** — NVIDIA AODT, real-time sync, pre-validation
+- **6G AI-Native** — Terahertz, semantic comm, physics-informed ML
+- **Federated Learning** — Cross-operator privacy-preserving training
+- **Security** — Adversarial attacks, PQC, Zero Trust for AI-RAN
+- **Case Studies** — SoftBank, Nokia+MWC, Elisa, SynaXG+Eridan, LITEON, VIAVI
+
+**Full paper catalog**: See [AI-RAN 2026 Paper Index](./ai-ran-2026/)
+**Deep dives**: See [31-ai-ran-convergence/paper-deep-dive](../31-ai-ran-convergence/paper-deep-dive/)
+
+---
+
+## 2026 AI-RAN Paper Highlights (Quick Reference)
+
+### Landmark Papers
+
+| Paper | Source | Year | Deep Dive |
+|:---|:---|:---|:---|
+| **Toward Autonomous O-RAN: Multi-Scale Agentic AI Framework** | arXiv 2602.14117 | Feb 2026 | [Read](../31-ai-ran-convergence/paper-deep-dive/arxiv-2602-14117.md) |
+| **AI for Next-Generation 6G Technologies and Networks** | Springer | Feb 2026 | [Read](../31-ai-ran-convergence/paper-deep-dive/springer-6g-ai.md) |
+| **AI-RAN: The Pathway to Future Wireless Networks** | ScienceDirect (ICT Express) | 2026 | [Read](../31-ai-ran-convergence/paper-deep-dive/sciencedirect-2026.md) |
+| **AI-Based Resource Management for O-RAN: Survey** | ScienceDirect (Ad Hoc Networks) | Apr 2026 | [Read](../31-ai-ran-convergence/paper-deep-dive/sciencedirect-survey-2026.md) |
+
+### Key 2026 Themes
+
+1. **Agentic AI** — LLM-based strategic agents + DRL tactical agents + fast reactive agents
+2. **Digital Twin as Foundation** — AODT and custom twins are now mandatory for safety
+3. **AI-RAN as Platform** — Operators monetize cell site GPU via B2B AI services
+4. **6G AI-Native Design** — AI designed into PHY, not bolted on
+5. **Security for AI** — New threat model: AI attacking AI
+6. **Post-Quantum Transition** — NIST PQC standards (Kyber, Dilithium) integrated into O-RAN interfaces
+
+---
+
 ## Paper Metadata Format
 
 Each paper entry should include:

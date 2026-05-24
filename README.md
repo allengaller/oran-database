@@ -244,6 +244,16 @@ This knowledge base is designed specifically for cloud platform operations profe
   - **operations-practices/** - Operational excellence frameworks and management best practices
   - **team-collaboration/** - Cross-functional team collaboration and project management practices
 
+### AI-RAN Convergence (2026 New)
+
+- **31-ai-ran-convergence/** - AI-RAN Convergence: The 2026 Landscape
+  - **🆕 Based on MWC 2026, GTC 2026, O-RAN Alliance Spring 2026, IEEE ICC 2026**
+  - **alliance-ecosystem/** - AI-RAN Alliance, O-RAN AI/ML specs, NVIDIA $1B investment, industry partnerships
+  - **architecture-platforms/** - NVIDIA ARC/ARC-Compact, GPU-accelerated baseband (cuMAC), AI-with-RAN shared infrastructure
+  - **agentic-ai/** - Multi-Scale Agentic AI Framework (arXiv 2602.14117), LLM-powered autonomous agents, safety guardrails
+  - **digital-twin/** - NVIDIA AODT, 6G-TWIN framework, closed-loop optimization, VIAVI validation
+  - **6g-ai-native/** - AI-native RAN design, terahertz AI, federated learning, physics-informed ML
+
 ### Transition Guide
 
 - **transition-guide/** - Cloud Platform to O-RAN Expert Transition Guide
@@ -458,6 +468,17 @@ This knowledge base has been significantly enhanced with comprehensive professio
 - **Phase 11 Complete**: Monitoring/alerting, security threats, and best practices compilation completed
 - **Final Phase Complete**: All 30 major knowledge areas now contain professional-grade bilingual documentation
 
+### 🆕 May 2026 Update: AI-RAN Convergence
+- **New Chapter 31**: AI-RAN Convergence — comprehensive coverage of the 2026 AI-RAN landscape
+  - AI-RAN Alliance ecosystem, NVIDIA ARC platform, GPU-accelerated baseband
+  - Multi-Scale Agentic AI Framework (arXiv 2602.14117, Feb 2026)
+  - NVIDIA AODT digital twin, 6G-TWIN framework
+  - 6G AI-Native architecture, terahertz AI, federated learning
+- **Updated AI Head-First Guides**: oran-ai-head-first.md and oran-llm-head-first.md with 2026 content
+- **Updated RIC Development**: Agentic AI agents replacing traditional xApp rules
+- **Updated Future Development**: AI-RAN convergence timeline and industry milestones
+- **Sources**: MWC 2026, GTC 2026, O-RAN Alliance Spring 2026, IEEE ICC 2026, latest academic papers
+
 ## Getting Started
 
 1. **Begin with the Transition Guide** - Understand how your existing cloud skills map to O-RAN expertise
@@ -467,6 +488,6 @@ This knowledge base has been significantly enhanced with comprehensive professio
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: May 2026 (AI-RAN Convergence Update)*
 *Content regularly maintained and expanded by O-RAN industry experts*
 *Designed for cloud platform professionals transitioning to O-RAN expertise*

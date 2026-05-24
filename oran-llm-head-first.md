@@ -168,3 +168,117 @@
 **核心结论：**
 *   **边缘 (Near-RT)** 选 **DRL (PPO/DQN)** —— 追求快、准、狠。
 *   **中心 (Non-RT)** 选 **Llama 3 / TimesFM** —— 追求懂人话、懂趋势。
+
+---
+
+## 🔥 2026 年重大更新：Agentic AI 与电信垂直模型爆发
+
+> **以下内容基于 2026 年 MWC、GTC、IEEE CAI 2026 及最新学术论文**
+
+### 1. 2026 年模型选型重大变化
+
+#### Near-RT RIC（边缘侧）：新增 Agentic AI Agent
+
+2026 年最大的变化是 xApp 不再只是"规则+小模型"，而是 **LLM 驱动的自主智能体**：
+
+```
+2024 年的 xApp:
+  if SINR < threshold:
+      reduce_power(2dB)
+
+2026 年的 Agentic xApp:
+  LLM 分析当前网络状态 →
+  调用 DRL 模型计算最优功率 →
+  在数字孪生中预验证 →
+  生成自然语言解释 →
+  执行并监控效果
+```
+
+**新增推荐模型**：
+| 模型类型 | 2026 推荐 | 用途 |
+|:---|:---|:---|
+| **Agentic SLM** | Qwen2.5-7B-Instruct / Llama-3.1-8B | 智能体推理引擎（Non-RT） |
+| **Decision Transformer** | Decision Transformer (DT) | 边缘侧序列决策 |
+| **多模态电信模型** | Telecom-VLM（2026 新方向） | 处理 RF 频谱图 + 文本日志 |
+
+#### Non-RT RIC（中心侧）：电信垂直模型成熟
+
+2026 年电信垂直 LLM 已从概念验证走向生产部署：
+
+| 模型 | 基座 | 参数量 | 2026 状态 |
+|:---|:---|:---|:---|
+| **Telecom-LLM** | Llama-3 | 8B/70B | 生产就绪 |
+| **Qwen-Telecom** | Qwen-2.5 | 7B/14B/72B | 中文电信场景首选 |
+| **Mistral-Telco** | Mixtral MoE | 8x7B | 高性价比推理 |
+| **NVIDIA TelecomFM** | 自研 | 未公开 | NVIDIA Aerial 生态集成 |
+
+### 2. Agentic AI 工具调用模式（2026 最佳实践）
+
+2026 年的核心范式：**LLM 不直接控制基站，而是调用专业工具**：
+
+```python
+# 2026 年 Agentic AI 架构
+agent_tools = {
+    "predict_traffic":   TimesFM,           # 时序预测
+    "optimize_power":    PPO_Policy,        # 强化学习
+    "check_interference": GNN_Model,        # 图神经网络
+    "simulate_action":   NVIDIA_AODT,       # 数字孪生
+    "query_metrics":     Prometheus,        # 监控数据
+    "execute_command":   E2_Interface,      # O-RAN E2
+}
+
+# LLM 推理过程
+"""
+观察: Cell_Stadium_01 流量 5 分钟内增长 300%
+思考: 这符合演唱会开场模式。需要:
+  1. 调用 predict_traffic 确认预测
+  2. 调用 simulate_action 评估激活休眠基站的效果
+  3. 如果仿真通过，调用 execute_command 执行
+行动: 执行上述计划
+"""
+```
+
+### 3. 物理约束 AI（Physics-Informed ML）—— 2026 新方向
+
+2026 年的一个重要趋势：**AI 模型必须遵守物理定律**。
+
+通用 LLM 可能建议"无限增大功率"，但通信有物理约束：
+- 最大功率限制（3GPP 规范）
+- 邻区干扰约束（电磁兼容）
+- 天线阵列物理极限
+
+**解决方案**：Physics-Informed Neural Networks (PINNs)
+- 训练时将物理约束编入 loss function
+- 确保 AI 输出始终在物理可行域内
+- 2026 年 Springer 论文已验证：PINN 比纯数据驱动模型准确率提升 15-20%
+
+### 4. 2026 年完整工具箱（更新版）
+
+| 类别 | 工具/框架 | 2026 状态 | K8S 视角 |
+|:---|:---|:---|:---|
+| **仿真与训练** | **NVIDIA Sionna** | 已集成 AODT 数字孪生 | GPU Job + K8S batch |
+| **推理引擎** | **Intel OpenVINO / NVIDIA TensorRT** | 支持 MIG GPU 分区 | DaemonSet on GPU nodes |
+| **模型服务** | **KServe / vLLM** | 支持 Telecom-LLM 部署 | KNative + GPU autoscaling |
+| **Agentic AI** | **LangChain / CrewAI** | 电信垂直集成 | Deployment + Tool APIs |
+| **数字孪生** | **NVIDIA AODT** | 2026.02 发布 @ AWS | K8S on AWS + GPU |
+| **GPU 基带** | **NVIDIA Aerial SDK** | cuMAC + cuPHY | Container + Device Plugin |
+| **联邦学习** | **Flower / NVIDIA FLARE** | 异步 FL 支持 | Federated K8S clusters |
+| **开源项目** | **O-RAN SC** | 2026 spec 更新 | Helm Charts |
+
+### 5. 给 K8S 运维的 2026 行动清单
+
+**立即可做**：
+1. 在 Non-RT RIC K8S 集群部署 **vLLM + Qwen2.5-7B** 做日志分析
+2. 用 **NVIDIA GPU Operator** 配置 MIG 分区（基带 vs AI）
+3. 部署 **DCGM Exporter** 监控 GPU 使用率
+
+**进阶目标**：
+4. 部署 **LangChain Agent** 作为 rApp，实现意图翻译（自然语言 → 策略 YAML）
+5. 集成 **NVIDIA AODT** 做 xApp 上线前的数字孪生验证
+6. 实现 **联邦学习** pipeline，多个边缘 RIC 协同训练模型
+
+**前沿探索**：
+7. 研究 **Agentic AI 安全护栏**：数字孪生预验证 + 硬编码安全限制
+8. 探索 **Physics-Informed ML** 在功率控制中的应用
+
+📚 详细参见：[31-ai-ran-convergence/agentic-ai](./31-ai-ran-convergence/agentic-ai/)
