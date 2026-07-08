@@ -479,6 +479,14 @@ This knowledge base has been significantly enhanced with comprehensive professio
 - **Updated Future Development**: AI-RAN convergence timeline and industry milestones
 - **Sources**: MWC 2026, GTC 2026, O-RAN Alliance Spring 2026, IEEE ICC 2026, latest academic papers
 
+### 🆕 July 2026 Update: 2025-2026 Industry Trends Snapshot
+- **新增 [LATEST_TRENDS.md](./LATEST_TRENDS.md)**：2025-2026 年 O-RAN 与电信行业关键趋势汇总
+  - Open RAN 大规模商用部署、AI-RAN 联盟与 GPU 加速基带
+  - O-RAN Alliance AI 赋能与 6G 愿景
+  - 5G-Advanced 商用与 6G 通感一体化预研
+  - 电信 GPUaaS 与安全 AI 化
+  - 云平台工程师技能迁移建议
+
 ## Getting Started
 
 1. **Begin with the Transition Guide** - Understand how your existing cloud skills map to O-RAN expertise
