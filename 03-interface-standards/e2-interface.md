@@ -1,34 +1,46 @@
 # E2 接口
 
-## 基于 SCTP/STREAMS 协议的服务化接口
+## 基于 SCTP 的标准化应用层接口
 
-E2 接口是 O-RAN 架构中 RAN Intelligent Controller (RIC) 与 CU/DU 之间的标准化接口，基于 SCTP/STREAMS 协议，支持服务化架构。本文档详细说明 E2 接口的功能、协议栈、技术实现以及生产环境中的部署考量。
+E2 接口是 O-RAN 架构中 Near-RT RIC 与 E2 Node（CU-CP、CU-UP、DU）之间的标准化接口，协议栈为 SCTP 承载 E2AP（E2 Application Protocol），E2SM（E2 Service Model）定义具体服务能力与数据上报模型。本文档依据 O-RAN.WG3.E2AP-v03.00 和 E2SM 规范说明 E2 接口的协议栈、过程模型、技术实现以及生产环境部署考量。
 
-## 核心功能
+## E2AP 过程模型
 
-### 1. 服务化接口功能
+### 1. 接口建立与配置
 
-E2 接口采用服务化架构设计，其核心功能包括：
+- **E2 Setup**
+  - E2 Node（CU/DU）向 Near-RT RIC 发送 E2 SETUP REQUEST，携带支持的 E2SM 服务列表
+  - RIC 回复 E2 SETUP RESPONSE，确认接受或拒绝
+  - 支持 E2 Node Configuration Update 后续配置变更通知
 
-- **服务发现**
-  - 支持 RIC 发现 CU/DU 提供的服务
-  - 支持 CU/DU 发现 RIC 提供的服务
-  - 服务能力的动态更新和通知
+- **E2 Reset**
+  - 故障恢复时 E2 Node 或 RIC 发起 E2 RESET，清除所有活跃会话
+  - RIC 随后重新执行 RIC Service Query 恢复服务发现
 
-- **服务调用**
-  - 支持 RIC 调用 CU/DU 的服务
-  - 支持 CU/DU 调用 RIC 的服务
-  - 同步和异步服务调用模式
+### 2. 服务模型与订阅
 
-- **事件通知**
-  - 支持 CU/DU 向 RIC 发送事件通知
-  - 支持 RIC 向 CU/DU 发送事件通知
-  - 事件过滤和优先级管理
+- **RIC Service Query**
+  - RIC 向 E2 Node 查询其支持的 E2SM 服务类型（KPM、RC、NI、MAC 等）
+  - E2 Node 回复 RIC SERVICE UPDATE，声明当前可用服务
 
-- **订阅管理**
-  - 支持 RIC 订阅 CU/DU 的事件
-  - 支持订阅的创建、修改和删除
-  - 订阅的生命周期管理
+- **RIC Subscription（订阅）**
+  - RIC 向 E2 Node 发送 RIC SUBSCRIPTION REQUEST，指定 E2SM 类型、触发条件、动作（Action）
+  - E2 Node 回复 RIC SUBSCRIPTION RESPONSE，并按条件上报 RIC Indication
+  - 支持 RIC Subscription Delete/Modify 进行订阅生命周期管理
+
+### 3. 控制与指示
+
+- **RIC Indication（指示上报）**
+  - E2 Node 在订阅触发条件满足时（周期/事件型）上报 RIC INDICATION，携带 KPM 测量值或触发事件
+  - xApp 基于 Indication 数据执行算法决策
+
+- **RIC Control（控制下发）**
+  - xApp 通过 RIC 向 E2 Node 发送 RIC CONTROL REQUEST，下发参数调整或流程干预
+  - E2 Node 回复 RIC CONTROL ACK/NACK
+
+- **RIC Insert（流程内介入）**
+  - RIC 可在 E2 Node 的特定协议流程（如切换、承载建立）中插入自定义决策逻辑
+  - 用于实现 xApp 在 RRC/PDCP 流程中的实时干预
 
 ### 2. 协议栈功能
 
@@ -46,46 +58,62 @@ E2 接口基于 SCTP/STREAMS 协议栈，其核心功能包括：
   - 消息编解码
   - 错误处理和异常管理
 
-### 3. 服务模型
+### 2. E2SM 服务模型
 
-E2 接口定义了标准化的服务模型，包括：
+E2AP 通过 E2SM（E2 Service Model）定义具体服务能力，当前标准化的服务模型包括：
 
-- **E2SM (E2 Service Model)**
-  - 定义服务的接口、消息格式和行为
-  - 支持不同类型的服务，如移动性管理、资源管理、性能管理等
-  - 服务模型的版本管理和演进
+- **E2SM-KPM（Key Performance Measurement）**
+  - 定义性能测量数据的上报格式（吞吐量、时延、PRB 利用率等）
+  - 支持周期性与事件触发两种上报模式
+  - xApp 基于 KPM 数据执行智能优化决策
 
-- **E2AP (E2 Application Protocol)**
-  - 提供服务模型的应用层协议
-  - 支持服务的注册、发现和调用
-  - 消息路由和处理
+- **E2SM-RC（RAN Control）**
+  - 定义 RIC 对 E2 Node 的控制服务（参数调整、流程介入）
+  - 支持 RIC Control 和 RIC Insert 两种控制类型
+  - 用于波束管理、切换控制、承载参数调整等
+
+- **E2SM-NI（Network Information）**
+  - 定义网络拓扑、小区配置等静态信息的上报
+  - 支持 Network Information Changed 触发订阅
+
+- **E2SM-MRO/MO（Mobility Robustness/Optimization）**
+  - 移动鲁棒性优化：A3 事件报告、切换失败报告
+  - 移动优化：基于 MRO 数据的切换参数自动调整
+
+- **E2SM-MAC/RLC/PDCP**
+  - 定义 L2 层内部状态的暴露（MAC CE、RLC AM/UM 状态、PDCP 统计）
+  - 支持 xApp 执行 L2 级精细优化（HARQ、ARQ、调度）
 
 ## 技术架构
 
 ### 1. 协议栈架构
 
-E2 接口的协议栈架构从上到下包括：
+E2 接口的协议栈架构（O-RAN.WG3.E2AP-v03.00）从上到下包括：
 
-- **应用层**：E2AP 和 E2SM
-- **传输层**：SCTP
-- **网络层**：IP
-- **数据链路层**：以太网
+- **应用层**：E2AP（E2 Application Protocol，基于 ASN.1 PER 编码）+ E2SM 服务模型插件
+- **传输层**：SCTP（Stream Control Transmission Protocol），提供可靠、有序的消息传输，E2 端口 36422
+- **网络层**：IPv4/IPv6
+- **数据链路层**：以太网（通常为 10/25/100 GE）
 
-### 2. 接口端点
+### 2. 接口端点角色
 
-- **E2 服务器**：通常部署在 CU/DU 侧，提供服务
-- **E2 客户端**：通常部署在 RIC 侧，调用服务
+在 E2AP 过程中，两个端点的角色如下：
+
+- **E2 Node（CU/DU/CU-CP/CU-UP）**：发起 E2 Setup 向 RIC 注册，暴露 E2SM 服务能力，按 RIC Subscription 上报 KPM 数据，在 RIC Control/Insert 指令下执行 RAN 功能调整
+- **Near-RT RIC**：运行 E2 Termination 功能，处理 E2 Node 的 Setup 请求，发起 RIC Subscription/Control/Insert 过程，承载 xApp 运行环境
 
 ### 3. 消息类型
 
-E2 接口支持多种消息类型，包括：
+E2AP 支持以下标准化的消息/过程类型（O-RAN.WG3.E2AP-v03.00）：
 
-- **初始化消息**：用于接口建立和初始化
-- **服务注册消息**：用于服务的注册和发现
-- **服务调用消息**：用于服务的调用和响应
-- **事件通知消息**：用于事件的通知和处理
-- **订阅管理消息**：用于订阅的创建、修改和删除
-- **错误处理消息**：用于错误的报告和处理
+- **E2 Setup / E2 Node Configuration Update**：E2 Node 注册与配置更新
+- **RIC Service Query / RIC Service Update**：E2SM 服务发现
+- **RIC Subscription / RIC Subscription Delete**：订阅生命周期管理
+- **RIC Indication**：E2 Node → RIC 的数据上报（KPM、触发事件、Insert 指示）
+- **RIC Control Request / RIC Control Ack**：RIC → E2 Node 的控制指令
+- **RIC Insert Request / RIC Insert Ack**：RIC → E2 Node 的流程内介入
+- **E2 Reset**：故障恢复时的状态重置
+- **Error Indication / Setup Failure**：错误与失败处理
 
 ## 生产环境中的部署考量
 

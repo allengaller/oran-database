@@ -82,6 +82,26 @@ AI and RAN workloads share the same GPU infrastructure dynamically:
 - Physics-informed ML for wireless
 - Springer 2026: AI for next-generation 6G
 
+### 6. [Industry Analysis](./industry-analysis/)
+- AI-RAN market definition and boundaries (AI-for-RAN, AI-on-RAN, AI-with-RAN)
+- 2024-2030 market size and growth projections
+- Value chain analysis (chip → software → platform → application → integration → operations)
+- Vendor market share and competitive landscape
+- Operator procurement strategy evolution
+- Policy and regulatory environment (US, EU, Japan, China, India)
+- Technical economics of AI-RAN convergence
+- Investment opportunity and risk assessment
+
+### 7. [Product Solutions](./product-solutions/)
+- NVIDIA ecosystem (ARC/ARC-Compact, cuMAC, Aerial SDK, AODT)
+- Ericsson AI/ML products and RAN Compute
+- Samsung vRAN 3.0 and AI-RAN solutions
+- Nokia AirScale and MantaRay NM
+- Mavenir Open RAN AI and RIC integration
+- Cloud provider solutions (AWS Wavelength, Azure Private 5G, Google Distributed Cloud)
+- Open source ecosystem (O-RAN SC, OpenAirInterface)
+- Comparison framework and selection guidance
+
 ---
 
 ## 2026 Key Milestones Timeline
@@ -154,7 +174,9 @@ The transition from traditional O-RAN to AI-RAN means:
 2. **Understand the hardware**: [Architecture & Platforms](./architecture-platforms/) for NVIDIA ARC and GPU baseband
 3. **Explore the software**: [Agentic AI in RAN](./agentic-ai/) for the cutting-edge autonomous framework
 4. **See the big picture**: [Digital Twin](./digital-twin/) for simulation and validation
-5. **Look ahead**: [6G AI-Native](./6g-ai-native/) for the future direction
+5. **Analyze the market**: [Industry Analysis](./industry-analysis/) for market trends, investment outlook, and competitive dynamics
+6. **Compare solutions**: [Product Solutions](./product-solutions/) for vendor-specific platforms and selection guidance
+7. **Look ahead**: [6G AI-Native](./6g-ai-native/) for the future direction
 
 ## References
 

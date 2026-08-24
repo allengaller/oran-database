@@ -108,7 +108,7 @@ T-Mobile 的"Un-carrier"战略通过 AI-RAN 试验探索动态 GPU 分区、实�
 
 ---
 
-### 7. [VIAVI + NVIDIA — 数字孪生测试集成](./viava-nvidia.md)
+### 7. [VIAVI + NVIDIA — 数字孪生测试集成](./viavi-nvidia.md)
 **地点**：全球 | **状态**：2025-2026 战略合作伙伴关系
 
 **VIAVI Solutions**（网络测试和测量设备领导者）在 2025-2026 年深化了与 **NVIDIA** 的合作，为 AI-RAN 提供**集成测试和数字孪生解决方案**。该组合 **VIAVI + NVIDIA AODT** 平台使运营商能够预验证 AI 代理操作、生成训练数据、运行合规测试和模拟故障场景。
@@ -119,7 +119,7 @@ T-Mobile 的"Un-carrier"战略通过 AI-RAN 试验探索动态 GPU 分区、实�
 - 合规工件生成（O-RAN WG11、GDPR）
 - CI/CD 管道集成
 
-[阅读完整案例研究](./viava-nvidia.md)
+[阅读完整案例研究](./viavi-nvidia.md)
 
 ---
 

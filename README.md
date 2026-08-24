@@ -262,35 +262,23 @@ This knowledge base is designed specifically for cloud platform operations profe
   - Learning Path - Phased learning path and time planning
   - Certification and Career Development - Certification paths and career development
 
-- **21-case-studies/** - Case Studies
-  - Operator deployment cases, vertical industry applications, technology innovation cases, best practice summaries
+### AI-RAN Security (2026 New)
 
-- **22-tool-platforms/** - Tools and Platforms
-  - Development toolset, management platform systems, monitoring and analysis systems, utility programs
+- **32-ai-ran-security/** - AI-RAN Security: Threats, Defenses, and Future-Proofing
+  - **adversarial-attacks/** - Adversarial ML attack vectors on RIC, defense strategies, robustness evaluation
+  - **agentic-safety/** - Agentic AI safety guardrails, autonomous agent risk containment for O-RAN
+  - **post-quantum/** - Post-quantum cryptography migration for O-RAN interfaces (ML-KEM, ML-DSA, SLH-DSA)
+  - **zero-trust/** - Zero trust architecture for open RAN, micro-segmentation, continuous verification
 
-- **23-international-deployment/** - International Deployment
-  - Regional deployment strategies, localization adaptation, cross-cultural management, international operations
+### Beginner's Guide
 
-- **24-sustainable-development/** - Sustainable Development
-  - Environmental protection, social responsibility, corporate governance, long-term development planning
-
-- **25-legal-regulations/** - Legal Regulations and Compliance
-  - International laws and regulations, regional regulatory requirements, compliance management system, implementation guides
-
-- **26-performance-optimization/** - Performance Optimization and Tuning
-  - Network layer optimization, compute layer optimization, application layer tuning, capacity planning, monitoring toolchain
-
-- **27-troubleshooting-diagnosis/** - Troubleshooting and Diagnosis
-  - Hardware fault handling, software fault troubleshooting, network problem diagnosis, diagnostic tool usage, fault case library
-
-- **28-monitoring-alerting/** - Monitoring and Alerting System
-  - Monitoring metric system, alert strategy design, visualization display, monitoring toolchain
-
-- **29-security-threats/** - Security Threats and Protection
-  - Threat analysis, attack protection, incident response, security tools
-
-- **30-best-practices/** - Best Practices Compilation
-  - Architecture design practices, deployment implementation practices, operations management practices, team collaboration practices
+- **33-oran-for-dummies/** - O-RAN for Dummies: Simple Introduction Guide
+  - **concepts/** - What is O-RAN explained in plain language
+  - **architecture/** - Easy-to-understand network architecture overview
+  - **examples/** - Real-world O-RAN examples and applications
+  - **glossary/** - Simple O-RAN terminology dictionary
+  - **faq/** - Common questions about O-RAN
+  - **getting-started/** - First steps into the O-RAN world
 
 ### Resources
 
@@ -496,6 +484,6 @@ This knowledge base has been significantly enhanced with comprehensive professio
 
 ---
 
-*Last Updated: May 2026 (AI-RAN Convergence Update)*
+*Last Updated: August 2026 (Structural Fixes & AI-RAN Content Update)*
 *Content regularly maintained and expanded by O-RAN industry experts*
 *Designed for cloud platform professionals transitioning to O-RAN expertise*

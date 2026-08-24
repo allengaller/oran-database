@@ -525,7 +525,7 @@ This directory indexes the **most significant papers on AI-RAN** published in 20
 - NITRO test automation
 - Compliance artifact generation
 
-**Case Study**: [Read full analysis](../../31-ai-ran-convergence/case-studies/viava-nvidia.md)
+**Case Study**: [Read full analysis](../../31-ai-ran-convergence/case-studies/viavi-nvidia.md)
 
 ---
 
