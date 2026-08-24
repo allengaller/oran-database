@@ -9,10 +9,22 @@
 - [31-ai-ran-convergence/agentic-ai/readme.md](file://31-ai-ran-convergence/agentic-ai/readme.md)
 - [31-ai-ran-convergence/digital-twin/readme.md](file://31-ai-ran-convergence/digital-twin/readme.md)
 - [31-ai-ran-convergence/6g-ai-native/readme.md](file://31-ai-ran-convergence/6g-ai-native/readme.md)
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md)
+- [31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md](file://31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md)
+- [31-ai-ran-convergence/case-studies/softbank.md](file://31-ai-ran-convergence/case-studies/softbank.md)
 - [07-ric-development/readme.md](file://07-ric-development/readme.md)
 - [02-core-components/o-ric.md](file://02-core-components/o-ric.md)
 - [01-architecture-system/o-cloud-architecture.md](file://01-architecture-system/o-cloud-architecture.md)
 </cite>
+
+## 更新摘要
+**所做更改**
+- 新增AI-RAN行业分析章节，包含市场规模预测、价值链分析和竞争格局评估
+- 新增供应商解决方案全景文档，涵盖NVIDIA、Ericsson、Samsung、Nokia等厂商详细评估
+- 更新案例研究部分，增加MWC 2026和GTC 2026的实际部署案例
+- 增强技术经济学分析，包含ROI模型和TCO对比
+- 扩展政策与监管环境分析，覆盖全球主要市场
 
 ## 目录
 1. [引言](#引言)
@@ -20,18 +32,26 @@
 3. [核心组件](#核心组件)
 4. [架构总览](#架构总览)
 5. [详细组件分析](#详细组件分析)
-6. [依赖关系分析](#依赖关系分析)
-7. [性能考量](#性能考量)
-8. [故障排查指南](#故障排查指南)
-9. [结论](#结论)
-10. [附录](#附录)
+6. [行业分析与市场展望](#行业分析与市场展望)
+7. [供应商解决方案全景](#供应商解决方案全景)
+8. [实际部署案例](#实际部署案例)
+9. [依赖关系分析](#依赖关系分析)
+10. [性能考量](#性能考量)
+11. [故障排查指南](#故障排查指南)
+12. [结论](#结论)
+13. [附录](#附录)
 
 ## 引言
-本文件聚焦“AI-RAN融合”主题，基于仓库中2026年最新资料，系统梳理AI与RAN的融合范式、平台架构、智能体（Agentic AI）体系、数字孪生闭环以及面向6G的AI原生演进路径。文档同时结合O-RAN RIC与O-Cloud基础设施，为云平台工程师提供从Kubernetes编排到GPU资源调度、从xApp/rApp到自治Agent的完整技术视角。
+本文件聚焦"AI-RAN融合"主题，基于仓库中2026年最新资料，系统梳理AI与RAN的融合范式、平台架构、智能体（Agentic AI）体系、数字孪生闭环以及面向6G的AI原生演进路径。文档同时结合O-RAN RIC与O-Cloud基础设施，为云平台工程师提供从Kubernetes编排到GPU资源调度、从xApp/rApp到自治Agent的完整技术视角。
+
+**更新** 新增全面的行业分析和供应商解决方案评估，为决策者提供市场洞察和技术选型指导。
 
 ## 项目结构
 该知识库围绕O-RAN全栈知识组织，其中与AI-RAN融合直接相关的章节集中在：
 - 31-ai-ran-convergence：AI-RAN融合全景（联盟生态、架构平台、智能体、数字孪生、6G AI原生）
+- 31-ai-ran-convergence/industry-analysis：AI-RAN行业分析（市场预测、价值链、竞争格局）
+- 31-ai-ran-convergence/product-solutions：供应商解决方案全景（厂商产品对比、选型指南）
+- 31-ai-ran-convergence/case-studies：实际部署案例（运营商试验、商业验证）
 - 07-ric-development：RIC开发、E2/A1接口、智能算法与安全
 - 02-core-components/o-ric.md：Near-RT RIC与Non-RT RIC职责、部署与运维要点
 - 01-architecture-system/o-cloud-architecture.md：O-Cloud云原生基础设施层
@@ -43,21 +63,18 @@ A["AI-RAN融合总览<br/>31-ai-ran-convergence/readme.md"] --> B["架构与平�
 A --> C["智能体AI<br/>agentic-ai/readme.md"]
 A --> D["数字孪生<br/>digital-twin/readme.md"]
 A --> E["6G AI原生<br/>6g-ai-native/readme.md"]
-F["RIC开发与高级技术<br/>07-ric-development/readme.md"] --> G["O-RIC核心组件<br/>02-core-components/o-ric.md"]
-H["O-Cloud架构<br/>01-architecture-system/o-cloud-architecture.md"] --> G
-I["行业趋势速览<br/>LATEST_TRENDS.md"] --> A
+A --> F["行业分析<br/>industry-analysis/ai-ran-industry-analysis.md"]
+A --> G["供应商方案<br/>product-solutions/vendor-solutions-landscape.md"]
+H["RIC开发与高级技术<br/>07-ric-development/readme.md"] --> I["O-RIC核心组件<br/>02-core-components/o-ric.md"]
+J["O-Cloud架构<br/>01-architecture-system/o-cloud-architecture.md"] --> I
+K["行业趋势速览<br/>LATEST_TRENDS.md"] --> A
+L["案例研究<br/>case-studies/*.md"] --> A
 ```
 
 **图表来源**
-- [31-ai-ran-convergence/readme.md:1-177](file://31-ai-ran-convergence/readme.md#L1-L177)
-- [31-ai-ran-convergence/architecture-platforms/readme.md:1-318](file://31-ai-ran-convergence/architecture-platforms/readme.md#L1-L318)
-- [31-ai-ran-convergence/agentic-ai/readme.md:1-327](file://31-ai-ran-convergence/agentic-ai/readme.md#L1-L327)
-- [31-ai-ran-convergence/digital-twin/readme.md:1-240](file://31-ai-ran-convergence/digital-twin/readme.md#L1-L240)
-- [31-ai-ran-convergence/6g-ai-native/readme.md:1-298](file://31-ai-ran-convergence/6g-ai-native/readme.md#L1-L298)
-- [07-ric-development/readme.md:1-474](file://07-ric-development/readme.md#L1-L474)
-- [02-core-components/o-ric.md:1-437](file://02-core-components/o-ric.md#L1-L437)
-- [01-architecture-system/o-cloud-architecture.md:1-238](file://01-architecture-system/o-cloud-architecture.md#L1-L238)
-- [LATEST_TRENDS.md:1-107](file://LATEST_TRENDS.md#L1-L107)
+- [31-ai-ran-convergence/readme.md:1-199](file://31-ai-ran-convergence/readme.md#L1-L199)
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:1-331](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L1-L331)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:1-498](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L1-L498)
 
 **章节来源**
 - [README.md:247-480](file://README.md#L247-L480)
@@ -241,6 +258,144 @@ C --> D["6G 完全AI原生"]
 - [31-ai-ran-convergence/6g-ai-native/readme.md:27-117](file://31-ai-ran-convergence/6g-ai-native/readme.md#L27-L117)
 - [31-ai-ran-convergence/6g-ai-native/readme.md:169-189](file://31-ai-ran-convergence/6g-ai-native/readme.md#L169-L189)
 
+## 行业分析与市场展望
+
+### 市场定义与边界
+AI-RAN与Open RAN的区别在于核心目标、架构焦点和关键硬件的不同。AI-RAN是Open RAN的演进方向，在此基础上引入"智能内生"能力。两者互补而非替代。
+
+**AI-RAN三大支柱：**
+- **AI-for-RAN**：利用AI优化RAN功能，成熟度高，已在生产环境广泛部署
+- **AI-on-RAN**：基站基础设施承载第三方AI工作负载，成熟度中等，新收入模式
+- **AI-with-RAN**：AI与RAN动态共享同一GPU计算资源，成熟度低，技术突破期
+
+### 市场规模与增长预测（2024-2030）
+| 年份 | 市场规模（亿美元） | 同比增长率 | 关键驱动事件 |
+|:---|:---|:---|:---|
+| **2024** | 15-20 | — | 概念验证期，NVIDIA投资Nokia |
+| **2025** | 30-40 | ~100% | AI-RAN Alliance成立，首批试点 |
+| **2026E** | 60-80 | ~80% | MWC/GTC产品发布，SoftBank商用 |
+| **2027E** | 120-150 | ~90% | 多运营商规模部署 |
+| **2030E** | 150-200 | — | Dell'Oro：AI-RAN成为RAN主流架构 |
+
+### 价值链分析
+AI-RAN价值链从上游芯片到下游运营服务，各环节价值分布清晰：
+- **芯片（GPU/SoC）**：~25%价值占比，利润率60-70%，主要玩家NVIDIA、Qualcomm
+- **基础软件**：~15%价值占比，利润率70-80%，NVIDIA Aerial SDK主导
+- **平台**：~20%价值占比，利润率40-50%，NVIDIA ARC、云服务商
+- **应用（xApp/rApp）**：~10%价值占比，利润率50-60%，ISV、运营商自研
+- **系统集成**：~20%价值占比，利润率20-30%，Ericsson、Nokia、Accenture
+- **运营服务**：~10%价值占比，利润率15-25%，运营商、MSP
+
+### 主要厂商市场份额与竞争格局
+| 厂商 | 传统RAN份额 | AI-RAN份额 | 2026 AI-RAN策略 |
+|:---|:---|:---|:---|
+| **Ericsson** | ~28% | ~20% | 与NVIDIA合作，RAN Compute平台 |
+| **Nokia** | ~22% | ~30% | 全面拥抱GPU RAN，NVIDIA $1B投资 |
+| **Samsung** | ~15% | ~15% | vRAN 3.0 + AI-RAN解决方案 |
+| **华为** | ~30% | — | 受限于地缘政治，聚焦国内市场 |
+| **中兴** | ~8% | ~10% | AIR RAN Agentic AI架构 |
+| **Mavenir** | ~3% | ~10% | Open RAN AI先锋 |
+| **NEC/Fujitsu** | ~5% | ~10% | 日本市场主导 + 海外扩张 |
+
+**章节来源**
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:7-45](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L7-L45)
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:47-83](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L47-L83)
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:85-142](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L85-L142)
+
+## 供应商解决方案全景
+
+### NVIDIA生态系统
+NVIDIA是AI-RAN基础设施的核心推动者，其ARC（Aerial RAN Computer）平台是当前AI-RAN硬件的事实标准。
+
+**NVIDIA ARC平台家族：**
+- **NVIDIA ARC（全尺寸版）**：Grace CPU + L40S/H100 GPU，支持最高100 MHz × 4扇区
+- **NVIDIA ARC-Compact**：针对典型基站优化的低功耗平台，72W TDP，适配300W基站功耗预算
+
+**核心组件：**
+- **cuMAC**：GPU加速L2调度器，亚毫秒级调度决策，支持数百个UE
+- **Aerial SDK**：GPU加速RAN软件开发套件，包含cuMAC、cuPHY、pyAerial
+- **AODT**：AI开放数字孪生，城市级6G网络仿真
+
+### Ericsson
+Ericsson采取"混合AI/RAN"策略，将AI能力逐步集成到传统RAN产品中。
+
+**主要产品组合：**
+- **Ericsson RAN Compute**：基带处理平台，支持AI辅助调度
+- **Ericsson Intelligent Network**：网络自动化平台，AI驱动的网络优化
+- **Ericsson AI Engine**：AI/ML推理引擎，实时网络数据分析
+
+### Samsung
+Samsung的虚拟化RAN平台已演进至支持AI-RAN，与NVIDIA深度合作。
+
+**vRAN 3.0特性：**
+- 纯软件vRAN，运行在通用服务器上
+- 内置AI/ML推理引擎
+- 完整的Near-RT RIC和Non-RT RIC支持
+- 与NVIDIA ARC平台集成
+
+### Nokia
+Nokia是NVIDIA在AI-RAN领域最重要的合作伙伴，$10亿投资建立深度合作关系。
+
+**AirScale产品线：**
+- **AirScale Baseband**：基带处理单元，集成NVIDIA ARC GPU
+- **AirScale Radio**：射频单元，支持AI辅助射频优化
+- **MantaRay NM**：AI驱动的网络管理平台
+
+### Mavenir
+Mavenir是Open RAN软件的纯正玩家，其AI-RAN方案聚焦于软件层面。
+
+**差异化优势：**
+- 纯软件路线，不依赖特定硬件
+- Open RAN原生设计
+- 云原生架构，基于Kubernetes
+- 成本优势，软件许可模式降低运营商CAPEX
+
+### 云服务商方案
+**AWS Wavelength**：边缘计算平台，支持NVIDIA GPU实例和AWS SageMaker边缘推理
+**Azure Private 5G**：微软私有5G + 边缘AI平台，集成Azure AI服务
+**Google Distributed Cloud**：谷歌分布式云平台，支持Vertex AI边缘推理
+
+**章节来源**
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:13-91](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L13-L91)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:93-131](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L93-L131)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:133-167](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L133-L167)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:169-209](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L169-L209)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:211-240](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L211-L240)
+- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:277-325](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L277-L325)
+
+## 实际部署案例
+
+### Nokia + NVIDIA MWC 2026现场演示
+在MWC巴塞罗那2026上，Nokia和NVIDIA展示了首个公开的AI-with-RAN演示，在同一GPU上同时运行5G基带处理和AI推理工作负载。
+
+**演示规格：**
+- **硬件**：NVIDIA ARC-Compact（L4 GPU + Grace CPU）
+- **软件**：NVIDIA Aerial SDK（cuMAC + cuPHY）、Triton Inference Server
+- **场景**：正常操作（60% RAN, 40% AI）、流量尖峰（85% RAN, 15% AI）、低谷期（30% RAN, 70% AI）
+
+**关键结果：**
+- RAN延迟保持在2.8ms（目标<5ms）✓
+- GPU利用率从45%提升到92%
+- 功率效率提升30%
+- 收入潜力提升130%（含AI服务）
+
+### SoftBank商业AI-RAN启动
+SoftBank是首家宣布计划于2026年推出商业AI-RAN服务的主要运营商。该计划将基站重新构想为多功能AI + RAN +边缘计算平台。
+
+**商业模式：**
+- **传统连接**：现有5G数据套餐
+- **边缘AI即服务**：B2B客户在SoftBank基站上部署AI推理工作负载
+- **数字孪生服务**：企业订阅城市级数字孪生数据
+
+**技术实现：**
+- 时间感知GPU分区模型，确保RAN始终有保证的资源
+- Kubernetes集群，每个租户命名空间隔离
+- MIG（Multi-Instance GPU）隔离技术
+
+**章节来源**
+- [31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md:1-228](file://31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md#L1-L228)
+- [31-ai-ran-convergence/case-studies/softbank.md:1-198](file://31-ai-ran-convergence/case-studies/softbank.md#L1-L198)
+
 ## 依赖关系分析
 - O-RIC依赖E2/A1接口与CU/DU、SMO协作；xApp/rApp运行于RIC平台。
 - GPU基带与AI推理共享同一GPU资源，需严格隔离与时序保障。
@@ -293,12 +448,16 @@ K8S --> GPU
 - [31-ai-ran-convergence/digital-twin/readme.md:197-228](file://31-ai-ran-convergence/digital-twin/readme.md#L197-L228)
 
 ## 结论
-AI-RAN融合在2026已从概念走向商业验证，形成“AI-for/on/with RAN”三范式并存格局。以NVIDIA ARC为代表的GPU加速基带、三层智能体架构与数字孪生闭环，使RAN成为分布式智能平台。对云平台工程师而言，掌握K8S+GPU调度、RIC应用开发与智能体安全护栏，是进入AI-RAN的关键技能迁移点。未来向6G AI原生演进将强调内生AI、语义通信与自组织智能。
+AI-RAN融合在2026已从概念走向商业验证，形成"AI-for/on/with RAN"三范式并存格局。以NVIDIA ARC为代表的GPU加速基带、三层智能体架构与数字孪生闭环，使RAN成为分布式智能平台。对云平台工程师而言，掌握K8S+GPU调度、RIC应用开发与智能体安全护栏，是进入AI-RAN的关键技能迁移点。未来向6G AI原生演进将强调内生AI、语义通信与自组织智能。
+
+**更新** 新增的行业分析和供应商解决方案评估显示，AI-RAN市场正处于快速增长期，预计2030年将达到150-200亿美元规模。NVIDIA、Nokia、Ericsson等主要厂商都在积极布局，SoftBank等运营商已开始商业部署。对于技术决策者而言，理解市场格局、技术成熟度和投资回报至关重要。
 
 ## 附录
 - 学习路径建议：先理解联盟生态与平台，再深入智能体与数字孪生，最后展望6G AI原生。
 - 实践建议：在K8S上部署Near-RT RIC与xApp，接入E2/A1；引入数字孪生进行行动预验证；逐步引入智能体与安全护栏。
+- 投资决策：关注GPU基带芯片、AI-RAN软件平台、边缘AI应用等领域的投资机会。
 
 **章节来源**
 - [31-ai-ran-convergence/readme.md:151-157](file://31-ai-ran-convergence/readme.md#L151-L157)
 - [31-ai-ran-convergence/agentic-ai/readme.md:290-313](file://31-ai-ran-convergence/agentic-ai/readme.md#L290-L313)
+- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:238-270](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L238-L270)

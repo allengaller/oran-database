@@ -280,6 +280,21 @@ This knowledge base is designed specifically for cloud platform operations profe
   - **faq/** - Common questions about O-RAN
   - **getting-started/** - First steps into the O-RAN world
 
+### Vendor Profiles
+
+- **34-vendor-profiles/** - O-RAN/AI-RAN Major Vendor Profiles
+  - **Ericsson/** - Ericsson O-RAN/AI-RAN product line and capabilities
+  - **Nokia/** - Nokia AirScale, ReefShark, and MantaRay NM
+  - **Samsung/** - Samsung vRAN 3.0 and AI-RAN solutions
+  - **Mavenir/** - Cloud RAN, Open RAN, and RIC integration
+  - **Huawei/** - 5G RAN, O-RAN compatible solutions, and AI capabilities
+  - **ZTE/** - 5G RAN, UniSeer, and intelligent network solutions
+  - **NVIDIA/** - ARC/ARC-Compact, cuMAC, Aerial SDK, and GPU-accelerated RAN
+  - **Qualcomm/** - FSM, QCS, baseband chips, and edge AI
+  - **Intel/** - FlexRAN, Xeon, and vRAN solutions
+  - **Viavi Solutions/** - TM500, T-BERD, NITRO, and O-RAN testing solutions
+  - **Keysight Technologies/** - UXM, PathWave, Open RAN Studio, and testing solutions
+
 ### Resources
 
 - **resources/** - Learning Resources
