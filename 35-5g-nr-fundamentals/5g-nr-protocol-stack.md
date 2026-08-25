@@ -1,3 +1,13 @@
+---
+title: "5G NR 协议栈技术文档"
+description: "详细描述5G NR协议栈架构、各层功能、协议格式和实现细节，面向具有通信协议背景的技术人员。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G', 'NR', '协议栈', 'MAC', 'RLC', 'PDCP', 'RRC']
+---
+
 # 5G NR 协议栈技术文档
 
 本文档详细描述5G NR (New Radio) 协议栈架构、各层功能、协议格式和实现细节。面向具有通信协议背景的技术人员，提供深入的协议栈技术分析。

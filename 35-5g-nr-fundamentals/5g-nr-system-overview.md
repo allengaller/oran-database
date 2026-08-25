@@ -1,3 +1,13 @@
+---
+title: "5G NR (New Radio) 系统概述"
+description: "为云平台运维背景的读者提供5G NR系统的全面技术概述，涵盖架构、性能、频谱、部署和演进等关键领域。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G', 'NR', 'New Radio', '系统概述', '架构']
+---
+
 # 5G NR (New Radio) 系统概述
 
 本文档为云平台运维背景的读者提供5G NR系统的全面技术概述，涵盖架构、性能、频谱、部署和演进等关键领域。

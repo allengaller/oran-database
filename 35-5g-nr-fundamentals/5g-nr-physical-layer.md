@@ -1,3 +1,13 @@
+---
+title: "5G NR 物理层 (Layer 1) 技术文档"
+description: "详细描述5G NR物理层的技术原理、处理流程、物理信道、MIMO和波束赋形等关键技术。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G', 'NR', '物理层', 'Layer 1', 'OFDM', 'MIMO']
+---
+
 # 5G NR 物理层 (Layer 1) 技术文档
 
 ## 1. 物理层概述

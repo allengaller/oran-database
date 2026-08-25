@@ -309,6 +309,16 @@ This knowledge base is designed specifically for cloud platform operations profe
   - **Viavi Solutions/** - TM500, T-BERD, NITRO, and O-RAN testing solutions
   - **Keysight Technologies/** - UXM, PathWave, Open RAN Studio, and testing solutions
 
+### 5G NR Fundamentals
+
+- **35-5g-nr-fundamentals/** - 5G NR (New Radio) Fundamentals
+  - **5G NR System Overview** - Comprehensive 5G NR system overview document
+  - **5G NR Physical Layer** - Detailed 5G NR physical layer technical documentation
+  - **5G NR Protocol Stack** - Comprehensive 5G NR protocol stack documentation
+  - **5G NR Key Technologies** - Detailed 5G NR key technologies documentation
+  - **5G NR and O-RAN Integration** - 5G NR integration with O-RAN architecture
+  - **5G NR Learning Guide** - Comprehensive learning guide and path
+
 ### Resources
 
 - **resources/** - Learning Resources

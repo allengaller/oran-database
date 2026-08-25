@@ -1,3 +1,13 @@
+---
+title: "5G NR 关键技术"
+description: "详细描述5G NR的关键技术，包括OFDM、MIMO、波束管理、信道编码、调制技术等。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G', 'NR', '关键技术', 'OFDM', 'MIMO', '波束管理']
+---
+
 # 5G NR 关键技术
 
 ## 目录

@@ -66,10 +66,12 @@ This section provides a comprehensive technical overview of 5G NR (New Radio) sy
 
 ## Document Structure
 This knowledge base section contains:
-- **Main Overview**: Comprehensive 5G NR system overview document
-- **Protocol Stack**: Detailed 5G NR protocol stack technical documentation
-- **Physical Layer**: Comprehensive 5G NR physical layer technical documentation
-- **Subsections**: Detailed technical documents for each major topic
+- **[5G NR System Overview](./5g-nr-system-overview.md)**: Comprehensive 5G NR system overview document (398 lines)
+- **[5G NR Physical Layer](./5g-nr-physical-layer.md)**: Detailed 5G NR physical layer technical documentation (885 lines)
+- **[5G NR Protocol Stack](./5g-nr-protocol-stack.md)**: Comprehensive 5G NR protocol stack documentation (1341 lines)
+- **[5G NR Key Technologies](./5g-nr-key-technologies.md)**: Detailed 5G NR key technologies documentation (1914 lines)
+- **[5G NR and O-RAN Integration](./5g-nr-o-ran-integration.md)**: 5G NR integration with O-RAN architecture (1680 lines)
+- **[5G NR Learning Guide](./5g-nr-learning-guide.md)**: Comprehensive learning guide and path (1695 lines)
 - **Reference Materials**: Standards specifications and implementation guides
 
 ## Target Audience
