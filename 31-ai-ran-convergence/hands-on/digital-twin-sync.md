@@ -1,3 +1,13 @@
+---
+title: "Lab 4: Digital Twin Sync Agent"
+description: "> Build a real-time synchronization agent between physical RAN and NVIDIA AODT digital twin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Lab 4: Digital Twin Sync Agent
 
 > Build a real-time synchronization agent between physical RAN and NVIDIA AODT digital twin

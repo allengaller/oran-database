@@ -1,3 +1,13 @@
+---
+title: "O-RAN 在能源行业的应用方案"
+description: "能源行业正经历数字化转型，智能电网、分布式能源管理、电力专网等场景对高可靠、低时延、广覆盖的通信基础设施提出了全新要求。O-RAN 的开放解聚架构与智能化能力（RIC/AI-RAN）为能源通信网络提供"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 在能源行业的应用方案
 
 ## 概述

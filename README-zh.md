@@ -1,3 +1,13 @@
+---
+title: "O-RAN 专家知识库"
+description: "本知识库专为希望转型为 O-RAN 专家的云平台运维专业人员设计。它利用您现有的云技能，同时提供掌握 O-RAN 技术所需的专业知识。内容组织基于您的云平台背景，避免重复熟悉的概念。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 专家知识库
 
 ## 概述

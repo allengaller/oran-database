@@ -1,3 +1,13 @@
+---
+title: "O-RAN 监控可视化框架"
+description: "本文档概述了 O-RAN 监控系统的综合可视化框架，涵盖仪表板设计原则、实时数据展示、交互式分析以及用于网络性能和系统健康监控的高级可视化技术。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 监控可视化框架
 
 ## 概述

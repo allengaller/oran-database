@@ -1,3 +1,13 @@
+---
+title: "O-RAN Fault Handling and Troubleshooting Guide"
+description: "This comprehensive guide provides systematic approaches to fault identification, diagnosis, and reso"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Fault Handling and Troubleshooting Guide
 
 ## Overview

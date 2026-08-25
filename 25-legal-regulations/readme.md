@@ -1,3 +1,13 @@
+---
+title: "O-RAN Legal Regulations and Compliance"
+description: "This directory covers laws and regulations, regulatory policies, compliance requirements and risk co"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Legal Regulations and Compliance
 
 ## Overview

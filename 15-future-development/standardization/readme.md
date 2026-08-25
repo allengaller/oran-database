@@ -1,3 +1,13 @@
+---
+title: "标准化演进 (Standardization)"
+description: "本目录追踪 O-RAN 标准体系的未来演进路径，涵盖 O-RAN Alliance、3GPP、ETSI 等标准组织的工作计划、规范版本演进与行业协作机制，帮助从业者理解标准制定节奏并提前规划技术方案。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # 标准化演进 (Standardization)
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 性能优化与调优"
+description: "本目录提供 O-RAN 系统的性能优化策略、参数调优方法、容量规划指导和性能监控最佳实践。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 性能优化与调优
 
 ## 概述

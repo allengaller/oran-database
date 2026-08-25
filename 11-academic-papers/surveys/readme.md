@@ -1,3 +1,13 @@
+---
+title: "O-RAN Survey Papers"
+description: "This directory contains comprehensive survey papers providing overview of O-RAN technology landscape"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Survey Papers
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Performance Optimization Framework"
+description: "This document provides a comprehensive performance optimization framework for O-RAN systems, coverin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Performance Optimization Framework
 
 ## Overview

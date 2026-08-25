@@ -1,3 +1,13 @@
+---
+title: "Post-Quantum Cryptography for AI-RAN"
+description: "> **Updated: 2026-05** | NIST PQC Standards, O-RAN WG11 O-R006 v02.00, 6G Roadmap"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Post-Quantum Cryptography for AI-RAN
 
 > **Updated: 2026-05** | NIST PQC Standards, O-RAN WG11 O-R006 v02.00, 6G Roadmap

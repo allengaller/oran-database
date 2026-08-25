@@ -1,3 +1,13 @@
+---
+title: "O-RAN 成本效益分析"
+description: "本目录提供 O-RAN 部署的成本模型、投资回报分析、经济效益评估和财务规划指导。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 成本效益分析
 
 ## 概述

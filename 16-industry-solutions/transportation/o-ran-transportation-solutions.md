@@ -1,3 +1,13 @@
+---
+title: "O-RAN Transportation Solutions"
+description: "This document details O-RAN solutions for transportation applications, covering connected vehicles, "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Transportation Solutions
 
 ## Overview

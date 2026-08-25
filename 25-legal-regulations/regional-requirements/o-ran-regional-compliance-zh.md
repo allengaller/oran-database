@@ -1,3 +1,13 @@
+---
+title: "O-RAN 区域监管要求"
+description: "O-RAN部署的区域特定监管要求详细分析，包括中国的网络安全法律、欧盟的GDPR框架、美国电信法规以及其他关键区域合规标准。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 区域监管要求
 
 ## 概述

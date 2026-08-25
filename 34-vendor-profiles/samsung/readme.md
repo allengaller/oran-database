@@ -1,3 +1,13 @@
+---
+title: "Samsung Electronics Co., Ltd.（三星电子）企业档案"
+description: "- **公司名称**：Samsung Electronics Co., Ltd.（三星电子）"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Samsung Electronics Co., Ltd.（三星电子）企业档案
 
 ## 1. 企业概况

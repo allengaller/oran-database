@@ -1,3 +1,13 @@
+---
+title: "Case Study: T-Mobile + Nokia + NVIDIA AI-RAN Trials"
+description: "> **Status**: Field trials 2025-2026 | **Location**: United States (Bellevue, WA lab + field sites)"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: T-Mobile + Nokia + NVIDIA AI-RAN Trials
 
 > **Status**: Field trials 2025-2026 | **Location**: United States (Bellevue, WA lab + field sites)

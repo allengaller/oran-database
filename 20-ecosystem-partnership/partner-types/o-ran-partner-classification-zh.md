@@ -1,3 +1,13 @@
+---
+title: "O-RAN 合作伙伴类型与协作模式"
+description: "O-RAN 生态系统中不同类型合作伙伴的分类和分析，包括其角色、协作模式和价值主张。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 合作伙伴类型与协作模式
 
 ## 概述

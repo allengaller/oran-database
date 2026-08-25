@@ -1,3 +1,13 @@
+---
+title: "O-RAN Test Automation Framework"
+description: "The O-RAN test automation framework provides a comprehensive automated testing solution that enables"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Test Automation Framework
 
 ## Overview

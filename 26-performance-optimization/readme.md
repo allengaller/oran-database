@@ -1,3 +1,13 @@
+---
+title: "O-RAN Performance Optimization and Tuning"
+description: "This directory provides performance optimization strategies, parameter tuning methods, capacity plan"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Performance Optimization and Tuning
 
 ## Overview

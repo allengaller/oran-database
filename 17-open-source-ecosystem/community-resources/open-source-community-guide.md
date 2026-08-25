@@ -1,3 +1,13 @@
+---
+title: "O-RAN Open Source Community Resources Guide"
+description: "This guide provides comprehensive information about O-RAN open source communities, forums, and colla"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Open Source Community Resources Guide
 
 ## Overview

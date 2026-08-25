@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全架构参考"
+description: "本文档为 O-RAN 部署提供全面的安全架构指南，涵盖威胁建模、安全控制、加密要求和合规框架。它为安全的 O-RAN 系统设计和实施奠定了基础。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 安全架构参考
 
 ## 概述

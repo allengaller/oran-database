@@ -1,3 +1,13 @@
+---
+title: "解耦方案的成本效益分析"
+description: "不同的 CU/DU 解耦选项和前传分割点不仅影响网络性能，还会对部署成本和运营效益产生显著影响。本文档详细分析不同解耦方案的成本效益，为生产环境中的投资决策提供参考。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC', '5G']
+---
+
 # 解耦方案的成本效益分析
 
 ## 不同解耦方案的成本效益评估

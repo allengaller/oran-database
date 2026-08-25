@@ -1,3 +1,13 @@
+---
+title: "Troubleshooting Methodology"
+description: "This section provides comprehensive guidance for troubleshooting O-RAN network issues. It covers com"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Troubleshooting Methodology
 
 ## Overview

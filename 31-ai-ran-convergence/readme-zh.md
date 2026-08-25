@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 融合：2026 全景概览"
+description: "> **最后更新：2026-05** | 基于 MWC 2026、GTC 2026、O-RAN Alliance 2026 春季发布及 IEEE ICC 2026"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN 融合：2026 全景概览
 
 > **最后更新：2026-05** | 基于 MWC 2026、GTC 2026、O-RAN Alliance 2026 春季发布及 IEEE ICC 2026

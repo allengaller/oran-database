@@ -1,3 +1,13 @@
+---
+title: "Agentic AI Safety for Autonomous RAN"
+description: "> **Updated: 2026-05** | O-RAN WG11 Secure AI, IEEE CAI 2026 Agentic Safety Framework"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Agentic AI Safety for Autonomous RAN
 
 > **Updated: 2026-05** | O-RAN WG11 Secure AI, IEEE CAI 2026 Agentic Safety Framework

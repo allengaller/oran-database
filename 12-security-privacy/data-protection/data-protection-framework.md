@@ -1,3 +1,13 @@
+---
+title: "O-RAN Data Protection Framework"
+description: "This document outlines comprehensive data protection strategies for O-RAN systems, covering encrypti"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Data Protection Framework
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "Multi-vendor Integration Practices Deep Dive"
+description: "Multi-vendor integration is a fundamental aspect of O-RAN deployments, enabling operators to select "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Multi-vendor Integration Practices Deep Dive
 
 ## Overview

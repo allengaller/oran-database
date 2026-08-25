@@ -1,3 +1,13 @@
+---
+title: "O-RAN Interface Standards System"
+description: "O-RAN defines a comprehensive set of open interfaces that enable interoperability between disaggrega"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Interface Standards System
 
 ## Overview

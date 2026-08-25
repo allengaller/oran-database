@@ -1,3 +1,13 @@
+---
+title: "O-RAN 生态系统与合作伙伴"
+description: "本目录分析 O-RAN 产业链生态、合作伙伴关系、商业模式和生态建设策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 生态系统与合作伙伴
 
 ## 概述

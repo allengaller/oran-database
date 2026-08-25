@@ -1,3 +1,13 @@
+---
+title: "O-RAN 团队协作最佳实践"
+description: "本文档定义了 O-RAN 项目团队的有效协作实践，涵盖沟通框架、工作流协调、知识共享和团队动态，以确保在复杂的 O-RAN 环境中成功的多学科团队合作。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 团队协作最佳实践
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "E2 接口"
+description: "E2 接口是 O-RAN 架构中 Near-RT RIC 与 E2 Node（CU-CP、CU-UP、DU）之间的标准化接口，协议栈为 SCTP 承载 E2AP（E2 Application Prot"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # E2 接口
 
 ## 基于 SCTP 的标准化应用层接口

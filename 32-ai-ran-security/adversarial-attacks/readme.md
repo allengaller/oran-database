@@ -1,3 +1,13 @@
+---
+title: "Adversarial Attacks on RAN AI Systems"
+description: "> **Updated: 2026-05** | Based on OWASP Top 10 for LLM Apps, IEEE CAI 2026, academic research 2024-2"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Adversarial Attacks on RAN AI Systems
 
 > **Updated: 2026-05** | Based on OWASP Top 10 for LLM Apps, IEEE CAI 2026, academic research 2024-2026

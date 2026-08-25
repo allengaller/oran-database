@@ -1,3 +1,13 @@
+---
+title: "O-RAN 故障库和案例数据库"
+description: "O-RAN系统的综合性故障案例库，包含典型故障场景、根本原因分析、标准化解决方案和预防措施，以加速故障诊断和解决过程。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 故障库和案例数据库
 
 ## 概述

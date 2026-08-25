@@ -1,3 +1,13 @@
+---
+title: "Intelligent Algorithms and Machine Learning"
+description: "This section covers intelligent algorithms and machine learning techniques for O-RAN network optimiz"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Intelligent Algorithms and Machine Learning
 
 ## Overview

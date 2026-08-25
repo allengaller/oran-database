@@ -1,3 +1,13 @@
+---
+title: "O-RAN Performance Monitoring Tools and Systems"
+description: "Comprehensive monitoring toolchain and systems for O-RAN performance tracking, including observabili"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Performance Monitoring Tools and Systems
 
 ## Overview

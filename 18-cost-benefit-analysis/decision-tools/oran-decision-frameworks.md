@@ -1,3 +1,13 @@
+---
+title: "O-RAN Cost-Benefit Analysis Decision Tools"
+description: "This document provides comprehensive decision-making frameworks, analytical tools, and evaluation me"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Cost-Benefit Analysis Decision Tools
 
 ## Overview

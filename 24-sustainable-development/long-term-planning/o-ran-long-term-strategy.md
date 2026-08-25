@@ -1,3 +1,13 @@
+---
+title: "O-RAN Long-term Development Planning"
+description: "Strategic long-term development framework for O-RAN technology evolution, encompassing technology ro"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Long-term Development Planning
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Operations Monitoring and Alerting System"
+description: "This document describes the comprehensive monitoring and alerting framework for O-RAN operational en"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Operations Monitoring and Alerting System
 
 ## Overview

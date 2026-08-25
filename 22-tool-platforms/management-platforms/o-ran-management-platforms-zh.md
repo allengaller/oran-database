@@ -1,3 +1,13 @@
+---
+title: "O-RAN 管理平台"
+description: "专为O-RAN网络编排、配置管理和跨多厂商环境自动化运营而设计的综合管理平台和系统。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 管理平台
 
 ## 概述

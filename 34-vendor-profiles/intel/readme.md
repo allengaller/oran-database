@@ -1,3 +1,13 @@
+---
+title: "Intel Corporation 企业档案"
+description: "- **公司名称**：Intel Corporation（英特尔公司）"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # Intel Corporation 企业档案
 
 ## 1. 企业概况

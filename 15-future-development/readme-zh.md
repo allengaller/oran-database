@@ -1,3 +1,13 @@
+---
+title: "O-RAN 未来发展与前沿技术"
+description: "本目录探讨 O-RAN 技术的发展趋势、前沿研究方向和未来创新机遇。涵盖 6G 演进、AI 原生架构、量子通信集成等前瞻性技术主题。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 未来发展与前沿技术
 
 ## 概述

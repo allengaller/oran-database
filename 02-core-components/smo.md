@@ -1,3 +1,13 @@
+---
+title: "服务管理与编排 (SMO)"
+description: "Service Management and Orchestration (SMO) 是 O-RAN 架构中的关键组件，负责网络服务的生命周期管理、配置管理、故障管理和性能管理。SMO 通过标准化的接"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 服务管理与编排 (SMO)
 
 ## SMO 的核心功能

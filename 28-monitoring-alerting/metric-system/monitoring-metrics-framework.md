@@ -1,3 +1,13 @@
+---
+title: "O-RAN 监控指标体系设计"
+description: "本文档定义 O-RAN 系统的完整监控指标体系，包括基础设施、网络性能和应用服务三个层面的关键指标。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 监控指标体系设计
 
 ## 概述

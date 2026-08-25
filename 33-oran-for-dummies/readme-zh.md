@@ -1,3 +1,13 @@
+---
+title: "O-RAN for Dummies - 简易入门指南"
+description: "欢迎来到 O-RAN 世界！这是一个为完全新手设计的简易入门指南，用最简单的方式帮助您理解 O-RAN（开放无线接入网）技术。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # O-RAN for Dummies - 简易入门指南
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 学习路径"
+description: "针对 O-RAN 生态系统中不同角色和经验水平的结构化学习路径，提供清晰的进步路线和资源推荐。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 学习路径
 
 ## 概述

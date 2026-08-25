@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 厂商产品解决方案全景（2026）"
+description: "> **最后更新：2026-08** | 基于 MWC 2026、GTC 2026、厂商公开发布及 O-RAN Alliance 文档"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN 厂商产品解决方案全景（2026）
 
 > **最后更新：2026-08** | 基于 MWC 2026、GTC 2026、厂商公开发布及 O-RAN Alliance 文档

@@ -1,3 +1,13 @@
+---
+title: "Industrial Internet Applications"
+description: "This section explores O-RAN applications in industrial internet scenarios, covering industrial scena"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # Industrial Internet Applications
 
 ## Overview

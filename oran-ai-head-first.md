@@ -1,3 +1,13 @@
+---
+title: "Oran Ai Head First"
+description: "这是一个非常深刻的问题。如果说 **K8S** 是 O-RAN 的**躯体**（提供了运行环境），那么 **AI** 就是 O-RAN 的**灵魂**。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 这是一个非常深刻的问题。如果说 **K8S** 是 O-RAN 的**躯体**（提供了运行环境），那么 **AI** 就是 O-RAN 的**灵魂**。
 
 在传统的通信设备（华为、爱立信的黑盒子）里，优化算法是写死的，或者是厂商私有的“独门秘籍”。但在 O-RAN 中，引入 AI 不仅仅是为了“蹭热度”，而是为了解决 5G/6G 网络面临的**根本性生存难题**。

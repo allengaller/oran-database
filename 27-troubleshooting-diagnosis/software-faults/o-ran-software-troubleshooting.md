@@ -1,3 +1,13 @@
+---
+title: "O-RAN Software Faults and Application Issues"
+description: "Comprehensive guide for diagnosing and resolving software-related faults in O-RAN systems, covering "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Software Faults and Application Issues
 
 ## Overview

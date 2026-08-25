@@ -1,3 +1,13 @@
+---
+title: "垂直行业O-RAN应用案例"
+description: "详细的O-RAN在各个垂直行业实施案例，展示具体用例、技术解决方案和业务成果。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # 垂直行业O-RAN应用案例
 
 ## 概述

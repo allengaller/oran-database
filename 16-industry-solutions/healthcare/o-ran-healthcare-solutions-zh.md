@@ -1,3 +1,13 @@
+---
+title: "O-RAN 医疗解决方案"
+description: "本文档概述了O-RAN在医疗应用中的解决方案，包括远程医疗、远程患者监测、医疗物联网集成和医疗专用网络切片功能。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 医疗解决方案
 
 ## 概述

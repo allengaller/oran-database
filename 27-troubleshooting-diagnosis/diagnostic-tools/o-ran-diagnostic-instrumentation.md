@@ -1,3 +1,13 @@
+---
+title: "O-RAN Diagnostic Tools and Instrumentation"
+description: "Comprehensive diagnostic tool suite for O-RAN systems, including system-level diagnostics, network a"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Diagnostic Tools and Instrumentation
 
 ## Overview

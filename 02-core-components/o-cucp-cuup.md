@@ -1,3 +1,13 @@
+---
+title: "O-CUCP/O-CUUP 协调功能"
+description: "O-RAN 架构中的 O-CUCP (O-CU Control Plane) 和 O-CUUP (O-CU User Plane) 协调功能是实现 CU 控制面和用户面分离后高效协同的关键。本文档详细"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-CUCP/O-CUUP 协调功能
 
 ## 跨厂商协调和管理功能

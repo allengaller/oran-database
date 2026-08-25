@@ -1,3 +1,13 @@
+---
+title: "Lab 1: Building an Agentic AI Network Agent"
+description: "> Build a production-grade LLM-powered network agent for the Non-RT RIC"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Lab 1: Building an Agentic AI Network Agent
 
 > Build a production-grade LLM-powered network agent for the Non-RT RIC

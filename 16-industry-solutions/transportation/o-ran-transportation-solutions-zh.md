@@ -1,3 +1,13 @@
+---
+title: "O-RAN 交通运输解决方案"
+description: "本文档详细介绍了 O-RAN 在交通运输应用中的解决方案，涵盖车联网、智能交通系统和移动服务，重点关注 V2X 通信、低延迟要求和自动驾驶支持。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 交通运输解决方案
 
 ## 概述

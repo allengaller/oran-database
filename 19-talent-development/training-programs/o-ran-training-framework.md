@@ -1,3 +1,13 @@
+---
+title: "O-RAN Training Programs"
+description: "Comprehensive training program catalog for organizations implementing O-RAN technologies, covering v"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Training Programs
 
 ## Overview

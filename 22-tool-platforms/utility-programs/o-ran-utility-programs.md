@@ -1,3 +1,13 @@
+---
+title: "O-RAN Utility Programs"
+description: "Collection of essential command-line tools, scripts, and utility programs specifically designed for "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Utility Programs
 
 ## Overview

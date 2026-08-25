@@ -1,3 +1,13 @@
+---
+title: "O-RAN Implementation"
+description: "This section focuses on the practical implementation aspects of O-RAN, including deployment architec"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', '5G']
+---
+
 # O-RAN Implementation
 
 ## Overview

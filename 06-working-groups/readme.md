@@ -1,3 +1,13 @@
+---
+title: "O-RAN Alliance Working Groups"
+description: "The O-RAN Alliance operates through 11 technical working groups (WG1-WG11), each responsible for spe"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Alliance Working Groups
 
 ## Overview

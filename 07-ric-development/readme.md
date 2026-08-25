@@ -1,3 +1,13 @@
+---
+title: "O-RAN Advanced Technologies"
+description: "> **Updated: 2026-05** | Now incorporating Agentic AI, NVIDIA ARC GPU baseband, and multi-scale agen"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Advanced Technologies
 
 > **Updated: 2026-05** | Now incorporating Agentic AI, NVIDIA ARC GPU baseband, and multi-scale agent frameworks from MWC 2026 and GTC 2026.

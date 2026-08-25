@@ -1,3 +1,13 @@
+---
+title: "O-RAN Deployment Best Practices"
+description: "This document outlines proven deployment best practices for O-RAN systems, covering pre-deployment p"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Deployment Best Practices
 
 ## Overview

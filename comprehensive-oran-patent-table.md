@@ -1,3 +1,13 @@
+---
+title: "O-RAN 全面专利表 / Comprehensive O-RAN Patent Table / Полная таблица патентов O-RAN"
+description: "这是目前最全面的O-RAN相关专利表，涵盖核心技术、创新应用、标准必要专利等类别，提供中英文名称、简述，并加入俄文翻译。本专利表按照技术领域分类，便于技术研究和专利布局参考。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 全面专利表 / Comprehensive O-RAN Patent Table / Полная таблица патентов O-RAN
 
 ## 概述 / Overview / Обзор

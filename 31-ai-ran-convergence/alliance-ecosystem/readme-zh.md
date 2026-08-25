@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 联盟与生态（2026）"
+description: "> **更新：2026-05** | 来源：AI-RAN Alliance、MWC 2026、GTC 2026、Dell'Oro Group"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN 联盟与生态（2026）
 
 > **更新：2026-05** | 来源：AI-RAN Alliance、MWC 2026、GTC 2026、Dell'Oro Group

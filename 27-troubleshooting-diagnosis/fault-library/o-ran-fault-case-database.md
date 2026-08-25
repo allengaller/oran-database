@@ -1,3 +1,13 @@
+---
+title: "O-RAN Fault Library and Case Database"
+description: "Comprehensive fault case library for O-RAN systems, containing typical fault scenarios, root cause a"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Fault Library and Case Database
 
 ## Overview

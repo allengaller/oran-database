@@ -1,3 +1,13 @@
+---
+title: "Carrier O-RAN Deployment Cases"
+description: "Comprehensive analysis of major telecommunications operators' O-RAN deployment experiences, includin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # Carrier O-RAN Deployment Cases
 
 ## Overview

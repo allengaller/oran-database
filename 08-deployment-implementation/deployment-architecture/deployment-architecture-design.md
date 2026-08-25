@@ -1,3 +1,13 @@
+---
+title: "Deployment Architecture Design"
+description: "This document provides comprehensive guidance for designing O-RAN deployment architectures. It cover"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Deployment Architecture Design
 
 ## Overview

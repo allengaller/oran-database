@@ -1,3 +1,13 @@
+---
+title: "O-RAN 运维管理"
+description: "本目录涵盖 O-RAN 系统的日常运维实践、监控告警机制、故障处理流程和运营管理策略。包括自动化运维、性能优化、容量规划和生命周期管理等内容。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 运维管理
 
 ## 概述

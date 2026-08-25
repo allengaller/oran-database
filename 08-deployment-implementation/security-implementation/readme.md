@@ -1,3 +1,13 @@
+---
+title: "Security Implementation"
+description: "This section provides comprehensive guidance for implementing security measures in O-RAN deployments"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # Security Implementation
 
 ## Overview

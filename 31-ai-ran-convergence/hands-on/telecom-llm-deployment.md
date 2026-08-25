@@ -1,3 +1,13 @@
+---
+title: "Lab 3: Telecom-LLM Deployment"
+description: "> Deploy a telecom-tuned SLM as a Non-RT RIC rApp service for intent translation and root cause anal"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Lab 3: Telecom-LLM Deployment
 
 > Deploy a telecom-tuned SLM as a Non-RT RIC rApp service for intent translation and root cause analysis

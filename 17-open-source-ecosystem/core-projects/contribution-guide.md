@@ -1,3 +1,13 @@
+---
+title: "O-RAN 开源项目贡献指南"
+description: "本文档介绍如何参与 O-RAN 相关开源项目的贡献，包括代码提交、问题报告和社区参与的最佳实践。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 开源项目贡献指南
 
 ## 概述

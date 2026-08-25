@@ -1,3 +1,13 @@
+---
+title: "O-RAN Corporate Governance Framework"
+description: "Comprehensive corporate governance framework for O-RAN technology companies, ensuring transparent de"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Corporate Governance Framework
 
 ## Overview

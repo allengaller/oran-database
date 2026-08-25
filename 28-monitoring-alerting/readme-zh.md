@@ -1,3 +1,13 @@
+---
+title: "O-RAN 监控告警体系"
+description: "本目录提供 O-RAN 系统的完整监控指标体系、告警策略设计和可视化展示方案。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 监控告警体系
 
 ## 概述

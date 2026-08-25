@@ -1,3 +1,13 @@
+---
+title: "A1 Interface Policy Management"
+description: "This section covers the A1 interface policy management framework in O-RAN networks. It provides deta"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # A1 Interface Policy Management
 
 ## Overview

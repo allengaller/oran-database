@@ -1,3 +1,13 @@
+---
+title: "ETSI O-RAN Standards"
+description: "This section provides detailed exploration of ETSI standards relevant to O-RAN, including ETSI TS 10"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN']
+---
+
 # ETSI O-RAN Standards
 
 ## Overview

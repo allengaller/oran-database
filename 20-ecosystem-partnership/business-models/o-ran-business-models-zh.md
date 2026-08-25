@@ -1,3 +1,13 @@
+---
+title: "O-RAN 商业模式与盈利策略"
+description: "分析 O-RAN 生态系统中出现的商业模式，包括收入流、定价策略和不同利益相关者的货币化方法。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 商业模式与盈利策略
 
 ## 概述

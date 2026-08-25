@@ -1,3 +1,13 @@
+---
+title: "Connected Vehicle Applications Deep Dive"
+description: "This document provides a comprehensive exploration of O-RAN applications in connected vehicle scenar"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Connected Vehicle Applications Deep Dive
 
 ## Overview

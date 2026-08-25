@@ -1,3 +1,13 @@
+---
+title: "O-RAN Interoperability Testing"
+description: "O-RAN interoperability testing ensures seamless communication and functionality between different ve"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Interoperability Testing
 
 ## Overview

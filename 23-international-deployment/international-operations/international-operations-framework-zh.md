@@ -1,3 +1,13 @@
+---
+title: "O-RAN 国际运营框架"
+description: "本文档为国际 O-RAN 运营提供全面框架，涵盖区域部署策略、本地化适应、跨文化管理和国际运营最佳实践。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', '5G']
+---
+
 # O-RAN 国际运营框架
 
 ## 概述

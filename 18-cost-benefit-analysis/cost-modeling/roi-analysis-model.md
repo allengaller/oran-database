@@ -1,3 +1,13 @@
+---
+title: "O-RAN 部署 ROI 分析模型"
+description: "本文档提供 O-RAN 部署的投资回报率 (ROI) 分析框架和计算方法。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 部署 ROI 分析模型
 
 ## 概述

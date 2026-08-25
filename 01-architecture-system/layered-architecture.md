@@ -1,3 +1,13 @@
+---
+title: "O-RAN 分层架构"
+description: "O-RAN 采用清晰的分层架构设计，将网络功能划分为不同的层次，每个层次负责特定的功能域。这种分层设计提高了系统的模块化程度、可维护性和可扩展性。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 分层架构
 
 ## 分层架构的详细划分

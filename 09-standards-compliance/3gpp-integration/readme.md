@@ -1,3 +1,13 @@
+---
+title: "3GPP Standards Integration"
+description: "This section explores the integration of 3GPP standards with O-RAN architecture, covering 5G NR stan"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'RIC', '5G']
+---
+
 # 3GPP Standards Integration
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Business Models and Monetization Strategies"
+description: "Analysis of emerging business models in the O-RAN ecosystem, including revenue streams, pricing stra"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Business Models and Monetization Strategies
 
 ## Overview

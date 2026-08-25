@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全工具生态系统"
+description: "本文档描述了 O-RAN 系统的综合安全工具生态系统，涵盖网络安全、端点保护、威胁情报、取证分析和合规监控工具，这些都是维持稳健安全态势所必需的。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 安全工具生态系统
 
 ## 概述

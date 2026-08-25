@@ -1,3 +1,13 @@
+---
+title: "O-RAN 培训项目"
+description: "面向实施 O-RAN 技术的组织的综合培训项目目录，涵盖各种交付形式、目标受众和能力水平。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC', '5G']
+---
+
 # O-RAN 培训项目
 
 ## 概述

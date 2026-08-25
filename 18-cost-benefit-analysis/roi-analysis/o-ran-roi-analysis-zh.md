@@ -1,3 +1,13 @@
+---
+title: "O-RAN 部署 ROI 分析框架"
+description: "本文档提供了 O-RAN 部署投资回报率 (ROI) 分析的综合框架，包括方法论、指标体系和企业利益相关者的决策工具。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 部署 ROI 分析框架
 
 ## 概述

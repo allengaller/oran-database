@@ -1,3 +1,13 @@
+---
+title: "O-RAN 合规管理体系"
+description: "O-RAN技术部署的综合性合规管理框架，包括政策制定、组织结构、流程管理和持续监控系统，以确保所有运营领域的监管遵循。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 合规管理体系
 
 ## 概述

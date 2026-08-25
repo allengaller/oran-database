@@ -1,3 +1,13 @@
+---
+title: "2026 年 Agentic AI 架构"
+description: "这是一个非常前沿且切中要害的问题。在 O-RAN 领域，大家都在尝试把“大模型”（Foundation Models）塞进去，但并不是所有的模型都适合干“网优”（网络优化）这通活。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 这是一个非常前沿且切中要害的问题。在 O-RAN 领域，大家都在尝试把“大模型”（Foundation Models）塞进去，但并不是所有的模型都适合干“网优”（网络优化）这通活。
 
 直接给结论：**通用的语言大模型（如 GPT-4, Claude）并不直接适合实时的网优控制，最适合的是“时序决策大模型” (Time-Series / Decision Transformers) 和 “垂直领域的电信大模型”。**

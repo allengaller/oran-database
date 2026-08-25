@@ -1,3 +1,13 @@
+---
+title: "Zero Trust Architecture for AI-RAN"
+description: "> **Updated: 2026-05** | O-RAN WG11 ZTA Priority, NIST SP 800-207, SPIFFE/SPIRE, OPA/Cedar"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Zero Trust Architecture for AI-RAN
 
 > **Updated: 2026-05** | O-RAN WG11 ZTA Priority, NIST SP 800-207, SPIFFE/SPIRE, OPA/Cedar

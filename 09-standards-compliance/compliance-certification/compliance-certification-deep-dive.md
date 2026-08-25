@@ -1,3 +1,13 @@
+---
+title: "Compliance and Certification Deep Dive"
+description: "Compliance and certification are critical aspects of O-RAN deployments, ensuring that solutions meet"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # Compliance and Certification Deep Dive
 
 ## Overview

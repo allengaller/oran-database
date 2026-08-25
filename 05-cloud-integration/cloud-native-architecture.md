@@ -1,3 +1,13 @@
+---
+title: "云原生架构与 O-RAN 集成"
+description: "云原生技术正在深刻改变电信网络的架构和运营模式，O-RAN 作为新一代无线接入网络架构，与云原生技术的融合是其核心特征之一。本文将详细分析云原生架构与 O-RAN 的集成点、技术挑战和最佳实践。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 云原生架构与 O-RAN 集成
 
 ## 云原生技术与 O-RAN 的融合

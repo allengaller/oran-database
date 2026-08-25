@@ -1,3 +1,13 @@
+---
+title: "O-RAN 案例研究"
+description: "本目录收录 O-RAN 实施的成功案例、经验教训、最佳实践和失败案例分析。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 案例研究
 
 ## 概述

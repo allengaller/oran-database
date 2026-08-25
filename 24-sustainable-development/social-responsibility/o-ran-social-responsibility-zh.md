@@ -1,3 +1,13 @@
+---
+title: "O-RAN 社会责任框架"
+description: "O-RAN技术实施的综合性社会责任战略，涵盖数字包容性、员工福利、社区发展和利益相关者参与，以创造积极的社会影响。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 社会责任框架
 
 ## 概述

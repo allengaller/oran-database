@@ -1,3 +1,13 @@
+---
+title: "O-RAN 行业解决方案"
+description: "本目录提供针对不同垂直行业的 O-RAN 定制化解决方案，涵盖制造业、能源、交通、医疗、教育等领域的应用场景和实施策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 行业解决方案
 
 ## 概述

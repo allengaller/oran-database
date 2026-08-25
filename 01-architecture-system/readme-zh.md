@@ -1,3 +1,13 @@
+---
+title: "O-RAN 基础"
+description: "本节涵盖 O-RAN 技术的基本概念和基础知识，包括其定义、愿景、历史演进、核心价值、关键概念和整体架构。作为云平台运维专业人员，这些知识将构成您 O-RAN 专业知识的基础。本内容基于最新的 O-R"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 基础
 
 ## 概述

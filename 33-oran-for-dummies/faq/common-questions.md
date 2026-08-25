@@ -1,3 +1,13 @@
+---
+title: "O-RAN 常见问题解答 (FAQ)"
+description: "**A**: O-RAN 是实现 5G 网络的一种技术方式"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 常见问题解答 (FAQ)
 
 ## 🎯 新手最关心的问题

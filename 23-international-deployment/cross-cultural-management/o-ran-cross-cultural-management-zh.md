@@ -1,3 +1,13 @@
+---
+title: "O-RAN 跨文化管理"
+description: "在O-RAN部署中，针对多元文化团队、国际合作和跨境运营的全面管理框架，适用于全球不同市场和文化背景。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 跨文化管理
 
 ## 概述

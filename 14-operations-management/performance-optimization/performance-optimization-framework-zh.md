@@ -1,3 +1,13 @@
+---
+title: "O-RAN 性能优化框架"
+description: "本文档为 O-RAN 系统提供全面的性能优化框架，涵盖网络层优化、计算层优化、应用层调优和监控工具链。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 性能优化框架
 
 ## 概述

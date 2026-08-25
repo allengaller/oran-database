@@ -1,3 +1,13 @@
+---
+title: "O-RAN Localization Adaptation Strategies"
+description: "Comprehensive framework for adapting O-RAN technologies, solutions, and operations to meet specific "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Localization Adaptation Strategies
 
 ## Overview

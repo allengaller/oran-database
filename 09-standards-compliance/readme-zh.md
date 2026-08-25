@@ -1,3 +1,13 @@
+---
+title: "O-RAN 标准与规范"
+description: "本节提供 O-RAN 标准和行业实践的概述，包括 O-RAN 联盟规范、ETSI 标准、3GPP 标准和行业最佳实践。理解这些标准对于确保 O-RAN 部署中的互操作性和合规性至关重要。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'RIC', '5G']
+---
+
 # O-RAN 标准与规范
 
 ## 概述

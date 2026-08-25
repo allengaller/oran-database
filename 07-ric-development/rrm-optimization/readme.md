@@ -1,3 +1,13 @@
+---
+title: "Radio Resource Management (RRM) Optimization"
+description: "This section covers radio resource management optimization techniques for O-RAN networks. It provide"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Radio Resource Management (RRM) Optimization
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN财务规划和预算"
+description: "本文档提供专门为O-RAN部署项目设计的全面财务规划框架、预算策略和资金模型，包括资本规划、运营预算和长期财务可持续性考虑。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN财务规划和预算
 
 ## 概述

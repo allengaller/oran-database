@@ -1,3 +1,13 @@
+---
+title: "O-RAN 教育和研究应用"
+description: "本文档探讨了 O-RAN 在教育机构和研究环境中的应用，涵盖学术研究、学生培训、实验平台和协作研究计划。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 教育和研究应用
 
 ## 概述

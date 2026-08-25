@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Case Studies (2026)"
+description: "> **Updated: 2026-05** | Real-world AI-RAN deployments and demonstrations"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN Case Studies (2026)
 
 > **Updated: 2026-05** | Real-world AI-RAN deployments and demonstrations

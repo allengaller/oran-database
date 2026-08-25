@@ -1,3 +1,13 @@
+---
+title: "O-RAN Security Incident Response Framework"
+description: "This document establishes a comprehensive security incident response framework for O-RAN systems, de"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Security Incident Response Framework
 
 ## Overview

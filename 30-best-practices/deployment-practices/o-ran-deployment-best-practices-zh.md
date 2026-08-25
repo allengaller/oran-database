@@ -1,3 +1,13 @@
+---
+title: "O-RAN 部署最佳实践"
+description: "本文档概述了 O-RAN 系统的经过验证的部署最佳实践，涵盖部署前规划、实施策略、验证程序和部署后优化，以确保成功和可持续的 O-RAN 部署。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 部署最佳实践
 
 ## 概述

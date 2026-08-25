@@ -1,3 +1,13 @@
+---
+title: "O-RAN Network Security Framework"
+description: "This document provides a comprehensive network security framework for O-RAN systems, covering networ"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Network Security Framework
 
 ## Overview

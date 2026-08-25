@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Papers 2026 — Comprehensive Index"
+description: "> **Updated: 2026-05** | Papers on AI-RAN convergence, 6G AI-native, and agentic RAN"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN Papers 2026 — Comprehensive Index
 
 > **Updated: 2026-05** | Papers on AI-RAN convergence, 6G AI-native, and agentic RAN

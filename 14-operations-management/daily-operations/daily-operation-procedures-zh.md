@@ -1,3 +1,13 @@
+---
+title: "O-RAN 日常运维程序"
+description: "本文档为 O-RAN 环境中的日常运维活动提供全面的指导和程序。它涵盖了常规维护任务、健康检查、配置管理以及运维最佳实践，以确保系统的可靠性和性能。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 日常运维程序
 
 ## 概述

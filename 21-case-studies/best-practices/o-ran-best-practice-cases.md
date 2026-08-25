@@ -1,3 +1,13 @@
+---
+title: "O-RAN Best Practice Cases"
+description: "Collection of successful O-RAN implementation cases that demonstrate industry best practices, proven"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Best Practice Cases
 
 ## Overview

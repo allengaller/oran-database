@@ -1,3 +1,13 @@
+---
+title: "O-RAN Healthcare Solutions"
+description: "This document outlines O-RAN solutions for healthcare applications, including telemedicine, remote p"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN Healthcare Solutions
 
 ## Overview

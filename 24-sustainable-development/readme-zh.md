@@ -1,3 +1,13 @@
+---
+title: "O-RAN 可持续发展"
+description: "本目录探讨 O-RAN 技术的可持续发展战略，包括环境保护、社会责任、公司治理和长期发展规划。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 可持续发展
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "5G Network Applications Deep Dive"
+description: "This document provides a comprehensive exploration of O-RAN applications in 5G networks, covering En"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 5G Network Applications Deep Dive
 
 ## Overview

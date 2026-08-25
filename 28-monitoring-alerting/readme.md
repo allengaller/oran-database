@@ -1,3 +1,13 @@
+---
+title: "O-RAN Monitoring and Alerting System"
+description: "This directory provides a complete monitoring metric system, alert strategy design, and visualizatio"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Monitoring and Alerting System
 
 ## Overview

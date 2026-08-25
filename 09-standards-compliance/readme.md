@@ -1,3 +1,13 @@
+---
+title: "O-RAN Standards and Specifications"
+description: "This section provides an overview of the standards and industry practices that define O-RAN, includi"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Standards and Specifications
 
 ## Overview

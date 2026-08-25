@@ -1,3 +1,13 @@
+---
+title: "O-RAN RIC and AI Papers"
+description: "This directory contains academic papers and research studies focusing on RIC (RAN Intelligent Contro"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN RIC and AI Papers
 
 ## Overview

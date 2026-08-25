@@ -1,3 +1,13 @@
+---
+title: "O-RAN Security Monitoring and Alerting Framework"
+description: "This framework provides comprehensive security monitoring and alerting capabilities for O-RAN system"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Security Monitoring and Alerting Framework
 
 ## Overview

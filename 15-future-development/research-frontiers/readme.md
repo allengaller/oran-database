@@ -1,3 +1,13 @@
+---
+title: "研究前沿 (Research Frontiers)"
+description: "本目录追踪 O-RAN 及下一代无线网络的研究前沿方向，覆盖学术界与产业界的前沿探索，为研究者、架构师和技术决策者提供研究选题参考与技术预见。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # 研究前沿 (Research Frontiers)
 
 ## 概述

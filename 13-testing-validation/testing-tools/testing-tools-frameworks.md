@@ -1,3 +1,13 @@
+---
+title: "O-RAN Testing Tools and Frameworks"
+description: "This directory provides comprehensive information about testing tools, frameworks, and methodologies"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Testing Tools and Frameworks
 
 ## Overview

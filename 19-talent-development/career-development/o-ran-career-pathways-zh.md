@@ -1,3 +1,13 @@
+---
+title: "O-RAN 职业发展框架"
+description: "本文档概述了 O-RAN 生态系统中专业人士的综合职业发展路径，涵盖角色进阶、技能要求和发展策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 职业发展框架
 
 ## 概述

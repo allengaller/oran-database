@@ -1,3 +1,13 @@
+---
+title: "O-RAN 人才培养与发展"
+description: "本目录涵盖 O-RAN 领域的人才培养体系、技能培训路径、认证考试和职业发展指导。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 人才培养与发展
 
 ## 概述

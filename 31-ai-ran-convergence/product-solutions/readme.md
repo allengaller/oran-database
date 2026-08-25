@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Product & Solutions Landscape (2026)"
+description: "> **Updated: 2026-08** | Sources: MWC 2026, GTC 2026, vendor announcements"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN Product & Solutions Landscape (2026)
 
 > **Updated: 2026-08** | Sources: MWC 2026, GTC 2026, vendor announcements

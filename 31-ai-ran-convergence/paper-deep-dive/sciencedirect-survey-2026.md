@@ -1,3 +1,13 @@
+---
+title: "Paper Deep Dive: AI-Based Resource Management for O-RAN — A Comprehensive Survey"
+description: "> **Citation**: ScienceDirect, April 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # Paper Deep Dive: AI-Based Resource Management for O-RAN — A Comprehensive Survey
 
 > **Citation**: ScienceDirect, April 2026

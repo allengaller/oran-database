@@ -1,3 +1,13 @@
+---
+title: "O-RAN Security and Privacy Protection"
+description: "This directory covers security mechanisms, privacy protection strategies, threat prevention, and com"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN Security and Privacy Protection
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "Multi-vendor Integration Practices"
+description: "This section addresses multi-vendor integration challenges, strategies, Plugfest participation, and "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN']
+---
+
 # Multi-vendor Integration Practices
 
 ## Overview

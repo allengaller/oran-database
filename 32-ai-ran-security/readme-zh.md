@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 安全 (2026)"
+description: "> **更新：2026-05** | 基于 O-RAN WG11 Secure AI 规范、IEEE CAI 2026"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # AI-RAN 安全 (2026)
 
 > **更新：2026-05** | 基于 O-RAN WG11 Secure AI 规范、IEEE CAI 2026

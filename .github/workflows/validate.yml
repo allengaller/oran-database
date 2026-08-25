@@ -1,0 +1,92 @@
+name: O-RAN Knowledge Base Validation
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - '**/*.md'
+      - 'scripts/**'
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - '**/*.md'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Run validation script
+      run: |
+        python3 scripts/validate.py
+      continue-on-error: false
+      
+    - name: Check frontmatter coverage
+      run: |
+        echo "📋 Checking frontmatter coverage..."
+        total=$(find . -name "*.md" -not -path "./.github/*" -not -path "./.qoder/*" | wc -l)
+        with_fm=$(grep -rl "^---$" --include="*.md" . | wc -l)
+        coverage=$((with_fm * 100 / total))
+        echo "Frontmatter coverage: $coverage% ($with_fm/$total)"
+        
+        if [ $coverage -lt 95 ]; then
+          echo "⚠️ Warning: Frontmatter coverage below 95%"
+          exit 1
+        fi
+        
+    - name: Check for broken links
+      run: |
+        echo "🔗 Checking for broken links..."
+        python3 -c "
+        import re
+        import os
+        from pathlib import Path
+        
+        broken = []
+        for root, dirs, files in os.walk('.'):
+            for f in files:
+                if f.endswith('.md'):
+                    path = os.path.join(root, f)
+                    with open(path, 'r') as fp:
+                        content = fp.read()
+                    # Find markdown links
+                    links = re.findall(r'\[([^\]]+)\]\(([^)]+)\)', content)
+                    for text, link in links:
+                        if link.startswith('http'):
+                            continue
+                        # Resolve relative link
+                        target = os.path.normpath(os.path.join(root, link))
+                        if not os.path.exists(target):
+                            broken.append((path, link))
+        
+        if broken:
+            print('❌ Broken links found:')
+            for path, link in broken:
+                print(f'  {path}: {link}')
+            exit(1)
+        else:
+            print('✅ No broken links found')
+        "
+        
+    - name: Generate validation report
+      if: always()
+      run: |
+        echo "📊 Generating validation report..."
+        python3 scripts/validate.py --json > validation-report.json 2>&1 || true
+        
+    - name: Upload validation report
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: validation-report
+        path: validation-report.json
+        retention-days: 30

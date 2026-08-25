@@ -1,3 +1,13 @@
+---
+title: "O-RAN Legal Compliance Implementation Guide"
+description: "Practical implementation guide for establishing and maintaining legal compliance in O-RAN technology"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Legal Compliance Implementation Guide
 
 ## Overview

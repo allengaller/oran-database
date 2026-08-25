@@ -1,3 +1,13 @@
+---
+title: "O-RAN International Legal Framework"
+description: "Comprehensive analysis of international laws and regulations governing O-RAN technology deployment, "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN International Legal Framework
 
 ## Overview

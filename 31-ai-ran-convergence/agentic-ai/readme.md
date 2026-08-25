@@ -1,3 +1,13 @@
+---
+title: "Agentic AI in RAN (2026)"
+description: "> **Updated: 2026-05** | Sources: arXiv 2602.14117, IEEE CAI 2026, ZTE AIR RAN 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Agentic AI in RAN (2026)
 
 > **Updated: 2026-05** | Sources: arXiv 2602.14117, IEEE CAI 2026, ZTE AIR RAN 2026

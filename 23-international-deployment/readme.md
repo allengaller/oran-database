@@ -1,3 +1,13 @@
+---
+title: "O-RAN International Deployment"
+description: "This directory covers O-RAN deployment strategies in different regions worldwide, localization adapt"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN International Deployment
 
 ## Overview

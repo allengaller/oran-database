@@ -1,3 +1,13 @@
+---
+title: "Case Study: VIAVI + NVIDIA — Digital Twin and Test Integration"
+description: "> **Status**: Strategic partnership 2025-2026 | **Focus**: AI-RAN validation and digital twin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: VIAVI + NVIDIA — Digital Twin and Test Integration
 
 > **Status**: Strategic partnership 2025-2026 | **Focus**: AI-RAN validation and digital twin

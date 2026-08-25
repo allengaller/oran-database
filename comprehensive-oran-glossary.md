@@ -1,3 +1,13 @@
+---
+title: "O-RAN 全面术语表 / Comprehensive O-RAN Glossary / Полный глоссарий O-RAN"
+description: "这是目前最全面的O-RAN术语表，包含超过200个核心概念，涵盖中英文名称、简明定义，并提供俄文翻译。本术语表按照字母顺序排列，便于快速查找和学习。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 全面术语表 / Comprehensive O-RAN Glossary / Полный глоссарий O-RAN
 
 ## 概述 / Overview / Обзор

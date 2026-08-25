@@ -1,3 +1,13 @@
+---
+title: "O-RAN 联盟工作组概览"
+description: "O-RAN 联盟由多个工作组组成，每个工作组负责不同领域的标准制定和技术研究。这些工作组协同工作，共同推动 O-RAN 技术的发展和标准化。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 联盟工作组概览
 
 ## O-RAN 联盟工作组结构

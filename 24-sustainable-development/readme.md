@@ -1,3 +1,13 @@
+---
+title: "O-RAN Sustainable Development"
+description: "This directory explores O-RAN technology's sustainable development strategy, including environmental"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN Sustainable Development
 
 ## Overview

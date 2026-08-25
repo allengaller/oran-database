@@ -1,3 +1,13 @@
+---
+title: "云平台到O-RAN专家转型指南"
+description: "本指南专为希望转型为O-RAN专家的云平台运维专业人员设计。它利用您现有的云技能，同时规划成为O-RAN专家所需的额外知识。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 云平台到O-RAN专家转型指南
 
 ## 概述

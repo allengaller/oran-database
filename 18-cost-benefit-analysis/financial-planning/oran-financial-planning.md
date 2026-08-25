@@ -1,3 +1,13 @@
+---
+title: "O-RAN Financial Planning and Budgeting"
+description: "This document provides comprehensive financial planning frameworks, budgeting strategies, and fundin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Financial Planning and Budgeting
 
 ## Overview

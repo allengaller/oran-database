@@ -1,3 +1,13 @@
+---
+title: "容器编排与 O-RAN 部署"
+description: "容器编排是云原生架构的核心组成部分，而 Kubernetes 作为最流行的容器编排平台，在 O-RAN 部署中发挥着重要作用。本文将详细分析 Kubernetes 在 O-RAN 部署中的应用场景、技"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 容器编排与 O-RAN 部署
 
 ## Kubernetes 在 O-RAN 中的应用

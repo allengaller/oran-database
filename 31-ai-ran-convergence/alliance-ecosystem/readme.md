@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Alliance & Ecosystem (2026)"
+description: "> **Updated: 2026-05** | Sources: AI-RAN Alliance, MWC 2026, GTC 2026, Dell'Oro Group"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN Alliance & Ecosystem (2026)
 
 > **Updated: 2026-05** | Sources: AI-RAN Alliance, MWC 2026, GTC 2026, Dell'Oro Group

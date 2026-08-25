@@ -1,3 +1,13 @@
+---
+title: "Healthcare Applications"
+description: "This section explores O-RAN applications in healthcare scenarios, covering remote healthcare, medica"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # Healthcare Applications
 
 ## Overview

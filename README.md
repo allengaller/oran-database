@@ -1,3 +1,13 @@
+---
+title: "O-RAN Expert Knowledge Base"
+description: "This knowledge base is designed specifically for cloud platform operations professionals looking to "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Expert Knowledge Base
 
 ## Overview

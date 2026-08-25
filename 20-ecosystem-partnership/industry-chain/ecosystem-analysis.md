@@ -1,3 +1,13 @@
+---
+title: "O-RAN 产业链生态分析"
+description: "本文档分析 O-RAN 产业链各环节的价值分布、竞争格局和发展趋势。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 产业链生态分析
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "E2 Interface Deep Application"
+description: "This section provides comprehensive coverage of the E2 interface implementation in O-RAN networks. I"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # E2 Interface Deep Application
 
 ## Overview

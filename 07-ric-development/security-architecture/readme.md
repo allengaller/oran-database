@@ -1,3 +1,13 @@
+---
+title: "Security Architecture and Threat Detection"
+description: "This section covers the security architecture and threat detection mechanisms for O-RAN networks. It"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Security Architecture and Threat Detection
 
 ## Overview

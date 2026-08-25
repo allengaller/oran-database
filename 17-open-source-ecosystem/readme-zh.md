@@ -1,3 +1,13 @@
+---
+title: "O-RAN 开源生态系统"
+description: "本目录汇集 O-RAN 相关的开源项目、社区资源、代码示例和开发者工具，促进技术创新和生态发展。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC', '5G']
+---
+
 # O-RAN 开源生态系统
 
 ## 概述

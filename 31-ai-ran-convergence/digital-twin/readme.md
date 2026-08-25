@@ -1,3 +1,13 @@
+---
+title: "RAN Digital Twin (2026)"
+description: "> **Updated: 2026-05** | Sources: NVIDIA AODT, IEEE SA 6G-TWIN, VIAVI + NVIDIA MWC 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # RAN Digital Twin (2026)
 
 > **Updated: 2026-05** | Sources: NVIDIA AODT, IEEE SA 6G-TWIN, VIAVI + NVIDIA MWC 2026

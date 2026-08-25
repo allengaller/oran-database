@@ -1,3 +1,13 @@
+---
+title: "实战实验：AI-RAN 实现"
+description: "> **更新：2026-05** | 可运行的代码、K8S manifest 和实验室设置"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 实战实验：AI-RAN 实现
 
 > **更新：2026-05** | 可运行的代码、K8S manifest 和实验室设置

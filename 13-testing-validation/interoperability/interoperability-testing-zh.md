@@ -1,3 +1,13 @@
+---
+title: "O-RAN 互操作性测试"
+description: "O-RAN 互操作性测试确保 O-RAN 生态系统内不同厂商设备和组件之间的无缝通信和功能。该测试验证多厂商兼容性、接口标准合规性以及系统集成能力。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 互操作性测试
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "Automation and Orchestration"
+description: "This section provides comprehensive guidance for implementing automation and orchestration in O-RAN "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # Automation and Orchestration
 
 ## Overview

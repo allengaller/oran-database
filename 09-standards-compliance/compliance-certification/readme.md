@@ -1,3 +1,13 @@
+---
+title: "Compliance and Certification"
+description: "This section covers compliance requirements, certification processes, testing laboratories, and comp"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN']
+---
+
 # Compliance and Certification
 
 ## Overview

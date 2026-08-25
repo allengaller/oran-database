@@ -1,3 +1,13 @@
+---
+title: "6G AI-Native 架构（2026）"
+description: "> **更新：2026-05** | 来源：Springer 2026、ScienceDirect、IEEE ICC 2026、O-RAN Alliance"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # 6G AI-Native 架构（2026）
 
 > **更新：2026-05** | 来源：Springer 2026、ScienceDirect、IEEE ICC 2026、O-RAN Alliance

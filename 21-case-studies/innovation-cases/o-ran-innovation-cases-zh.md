@@ -1,3 +1,13 @@
+---
+title: "O-RAN 创新案例"
+description: "展示前沿的O-RAN实施案例，这些案例采用了突破性技术、新颖应用和开创性方法，推动了开放式RAN架构的可能性边界。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 创新案例
 
 ## 概述

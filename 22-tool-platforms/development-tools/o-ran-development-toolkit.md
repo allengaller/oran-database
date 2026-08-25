@@ -1,3 +1,13 @@
+---
+title: "O-RAN Development Toolkit"
+description: "Comprehensive collection of development tools, frameworks, and platforms specifically designed for O"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Development Toolkit
 
 ## Overview

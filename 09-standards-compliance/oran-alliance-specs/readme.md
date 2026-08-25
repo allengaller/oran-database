@@ -1,3 +1,13 @@
+---
+title: "O-RAN Alliance Specification System"
+description: "This section provides a comprehensive exploration of the O-RAN Alliance specification system, coveri"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Alliance Specification System
 
 ## Overview

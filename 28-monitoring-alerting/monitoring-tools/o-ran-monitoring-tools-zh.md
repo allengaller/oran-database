@@ -1,3 +1,13 @@
+---
+title: "O-RAN 监控工具套件"
+description: "本文档描述了 O-RAN 系统的综合监控工具生态系统，涵盖基础设施监控、网络遥测、应用性能管理和智能分析平台。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 监控工具套件
 
 ## 概述

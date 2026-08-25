@@ -1,3 +1,13 @@
+---
+title: "O-RAN 法律法规与合规"
+description: "本目录涵盖 O-RAN 部署涉及的法律法规、监管政策、合规要求和风险管控措施。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 法律法规与合规
 
 ## 概述

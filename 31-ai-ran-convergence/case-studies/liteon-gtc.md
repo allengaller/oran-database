@@ -1,3 +1,13 @@
+---
+title: "Case Study: LITEON DGX Spark at GTC 2026"
+description: "> **Status**: Announced at NVIDIA GTC, March 2026 | **Focus**: Edge AI + RAN compute platform"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: LITEON DGX Spark at GTC 2026
 
 > **Status**: Announced at NVIDIA GTC, March 2026 | **Focus**: Edge AI + RAN compute platform

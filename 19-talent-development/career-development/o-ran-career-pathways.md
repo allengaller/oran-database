@@ -1,3 +1,13 @@
+---
+title: "O-RAN Career Development Framework"
+description: "This document outlines comprehensive career development pathways for professionals in the O-RAN ecos"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Career Development Framework
 
 ## Overview

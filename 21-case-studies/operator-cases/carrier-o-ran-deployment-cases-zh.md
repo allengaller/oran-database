@@ -1,3 +1,13 @@
+---
+title: "运营商O-RAN部署案例"
+description: "对主要电信运营商O-RAN部署经验的全面分析，包括战略决策、实施挑战和不同地区及市场条件下的运营成果。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # 运营商O-RAN部署案例
 
 ## 概述

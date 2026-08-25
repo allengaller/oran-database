@@ -1,3 +1,13 @@
+---
+title: "O-RAN Capacity Planning and Resource Management"
+description: "Comprehensive capacity planning framework for O-RAN systems, including load prediction models, resou"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Capacity Planning and Resource Management
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 行业分析（2024-2030）"
+description: "> **最后更新：2026-08** | 基于 MWC 2026、GTC 2026、Dell'Oro Group、ABI Research、O-RAN Alliance 公开数据"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN 行业分析（2024-2030）
 
 > **最后更新：2026-08** | 基于 MWC 2026、GTC 2026、Dell'Oro Group、ABI Research、O-RAN Alliance 公开数据

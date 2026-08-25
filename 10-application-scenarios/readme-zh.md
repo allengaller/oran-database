@@ -1,3 +1,13 @@
+---
+title: "O-RAN 应用场景"
+description: "本节提供 O-RAN 应用于各种实际场景的概述，包括 5G 网络、边缘计算、工业互联网和车联网。了解这些应用场景将帮助您设计和优化针对特定用例的 O-RAN 部署。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 应用场景
 
 ## 概述

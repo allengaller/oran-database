@@ -1,3 +1,13 @@
+---
+title: "O-RAN 运营最佳实践"
+description: "本文档建立了 O-RAN 系统的综合运营最佳实践，涵盖日常运营、性能管理、事件处理和持续改进流程，以确保最佳的系统性能和可靠性。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 运营最佳实践
 
 ## 概述

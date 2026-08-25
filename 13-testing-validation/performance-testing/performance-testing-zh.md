@@ -1,3 +1,13 @@
+---
+title: "O-RAN 性能测试"
+description: "O-RAN 性能测试评估系统在各种负载条件下的能力，测量吞吐量、延迟、可扩展性和资源利用等关键性能指标。该测试确保 O-RAN 部署满足运营商级别的性能要求和服务水平协议。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 性能测试
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 最佳实践汇编"
+description: "本目录汇集 O-RAN 领域的行业最佳实践、经验总结、实用技巧和成功案例分享。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 最佳实践汇编
 
 ## 概述

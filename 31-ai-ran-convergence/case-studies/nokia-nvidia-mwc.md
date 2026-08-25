@@ -1,3 +1,13 @@
+---
+title: "Case Study: Nokia + NVIDIA MWC 2026 Live Demonstration"
+description: "> **Status**: Live demonstration at MWC Barcelona | **Date**: March 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: Nokia + NVIDIA MWC 2026 Live Demonstration
 
 > **Status**: Live demonstration at MWC Barcelona | **Date**: March 2026

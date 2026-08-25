@@ -1,3 +1,13 @@
+---
+title: "微服务架构在O-RAN中的应用"
+description: "微服务架构是一种将应用程序设计为一系列松耦合服务的方法，每个服务都实现特定的业务功能，并通过轻量级通信机制相互交互。在O-RAN环境中，微服务架构为网络功能的部署和管理提供了显著优势。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 微服务架构在O-RAN中的应用
 
 ## 1. 微服务架构概述

@@ -1,3 +1,13 @@
+---
+title: "O1 接口"
+description: "O1 接口是 O-RAN 架构中 SMO (Service Management and Orchestration) 与其他网络元素（如 CU、DU、RU、RIC 等）之间的标准化管理接口，基于 N"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O1 接口
 
 ## 基于 NETCONF/YANG 协议的管理接口

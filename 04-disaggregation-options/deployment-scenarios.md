@@ -1,3 +1,13 @@
+---
+title: "部署场景分析"
+description: "O-RAN 架构支持多种部署场景，从集中式到分布式，从核心区域到边缘区域，每种场景都有其独特的技术特点和适用条件。本文将详细分析各种部署场景的技术特性、性能要求和实施考量。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # 部署场景分析
 
 ## 不同部署场景的技术特点和适用条件

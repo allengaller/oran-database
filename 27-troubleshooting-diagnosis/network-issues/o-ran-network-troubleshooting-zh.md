@@ -1,3 +1,13 @@
+---
+title: "O-RAN 网络问题和故障排除"
+description: "专门针对O-RAN网络相关问题的故障排除指南，涵盖连接问题、性能下降、协议异常和安全事件，提供系统性诊断方法和解决策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 网络问题和故障排除
 
 ## 概述

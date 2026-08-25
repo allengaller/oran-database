@@ -1,3 +1,13 @@
+---
+title: "Industry Best Practices Deep Dive"
+description: "Industry best practices for O-RAN deployment represent the collective wisdom and experience of vendo"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Industry Best Practices Deep Dive
 
 ## Overview

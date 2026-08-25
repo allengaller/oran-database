@@ -1,3 +1,13 @@
+---
+title: "O-RAN 弹性扩展"
+description: "O-RAN 架构通过云原生设计和虚拟化技术，实现了网络资源的弹性扩展，能够根据业务需求和网络负载动态调整资源分配。本文档详细说明 O-RAN 架构的弹性扩展能力、设计原则以及生产环境中的实施考量。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 弹性扩展
 
 ## 弹性扩展能力和设计原则

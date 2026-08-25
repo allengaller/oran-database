@@ -1,3 +1,13 @@
+---
+title: "O-RAN 环境可持续发展框架"
+description: "O-RAN技术的综合性环境可持续发展战略，重点关注绿色通信、碳足迹减少和循环经济原则，以实现净零排放和环境管理责任。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 环境可持续发展框架
 
 ## 概述

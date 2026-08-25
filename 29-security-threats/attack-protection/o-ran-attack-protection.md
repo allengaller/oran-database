@@ -1,3 +1,13 @@
+---
+title: "O-RAN Attack Protection Framework"
+description: "This document defines a comprehensive attack protection framework for O-RAN systems, covering threat"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Attack Protection Framework
 
 ## Overview

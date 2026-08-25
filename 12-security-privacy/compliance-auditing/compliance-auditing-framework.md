@@ -1,3 +1,13 @@
+---
+title: "O-RAN Compliance and Auditing Framework"
+description: "This document provides a comprehensive compliance and auditing framework for O-RAN systems, covering"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Compliance and Auditing Framework
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Monitoring Systems"
+description: "Comprehensive monitoring and observability solutions specifically designed for O-RAN networks, cover"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Monitoring Systems
 
 ## Overview

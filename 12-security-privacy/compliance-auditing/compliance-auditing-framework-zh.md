@@ -1,3 +1,13 @@
+---
+title: "O-RAN 合规和审计框架"
+description: "本文档为 O-RAN 系统提供全面的合规和审计框架，涵盖 GDPR 合规、电信安全标准、第三方审计和监管要求。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', '5G']
+---
+
 # O-RAN 合规和审计框架
 
 ## 概述

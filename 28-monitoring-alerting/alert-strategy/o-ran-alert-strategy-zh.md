@@ -1,3 +1,13 @@
+---
+title: "O-RAN 告警策略框架"
+description: "本文档定义了 O-RAN 系统的综合告警策略框架，涵盖告警分类、优先级排序、路由分配和生命周期管理，以确保有效的事件响应和系统可靠性。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 告警策略框架
 
 ## 概述

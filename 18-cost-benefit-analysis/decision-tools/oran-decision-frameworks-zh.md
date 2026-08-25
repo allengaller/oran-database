@@ -1,3 +1,13 @@
+---
+title: "O-RAN成本效益分析决策工具"
+description: "本文档提供全面的决策框架、分析工具和评估方法，用于评估不同场景和部署模型下O-RAN部署的成本、收益和投资回报率。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN成本效益分析决策工具
 
 ## 概述

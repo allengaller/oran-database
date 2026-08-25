@@ -1,3 +1,13 @@
+---
+title: "O-RAN International Operations Framework"
+description: "This document provides a comprehensive framework for international O-RAN operations, covering region"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN International Operations Framework
 
 ## Overview

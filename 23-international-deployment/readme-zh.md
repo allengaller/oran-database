@@ -1,3 +1,13 @@
+---
+title: "O-RAN 国际化部署"
+description: "本目录涵盖 O-RAN 在全球不同地区的部署策略、本地化适配、跨文化管理和国际化运营实践。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 国际化部署
 
 ## 概述

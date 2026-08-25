@@ -1,3 +1,13 @@
+---
+title: "无线单元 (O-RU)"
+description: "O-RU (Radio Unit) 是 O-RAN 架构中的无线接入部分，负责射频信号的发射和接收，以及数字前端处理。O-RU 是连接无线空间和数字网络的桥梁，是整个 RAN 系统的重要组成部分。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # 无线单元 (O-RU)
 
 ## O-RU 的核心功能

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 区域部署策略"
+description: "O-RAN在全球不同地区的部署策略，包括北美、欧洲、亚太、拉美非洲等主要市场的技术特点、商业环境和实施路径。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 区域部署策略
 
 ## 概述

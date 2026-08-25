@@ -1,3 +1,13 @@
+---
+title: "O-RAN Authentication Framework"
+description: "This document provides a comprehensive authentication framework for O-RAN systems, covering multi-fa"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Authentication Framework
 
 ## Overview

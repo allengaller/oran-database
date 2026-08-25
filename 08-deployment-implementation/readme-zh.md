@@ -1,3 +1,13 @@
+---
+title: "O-RAN 实施"
+description: "本节关注 O-RAN 实际实施的各个方面，包括部署架构、集成测试、运维管理和故障排查。利用您云平台运维的专业知识，您将学习如何有效地设计、部署和管理 O-RAN 网络。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', '5G']
+---
+
 # O-RAN 实施
 
 ## 概述

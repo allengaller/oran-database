@@ -1,3 +1,13 @@
+---
+title: "xApp/rApp Development Framework"
+description: "This document provides a comprehensive guide to developing xApps and rApps for O-RAN networks. It co"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # xApp/rApp Development Framework
 
 ## Overview

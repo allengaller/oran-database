@@ -1,3 +1,13 @@
+---
+title: "Paper Deep Dive: AI for Next-Generation 6G Technologies and Networks"
+description: "> **Citation**: Springer, February 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Paper Deep Dive: AI for Next-Generation 6G Technologies and Networks
 
 > **Citation**: Springer, February 2026

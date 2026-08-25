@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全事件响应框架"
+description: "本文档建立了 O-RAN 系统的综合安全事件响应框架，定义了标准化程序、角色、工具和通信协议，以实现有效的安全事件管理和恢复。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 安全事件响应框架
 
 ## 概述

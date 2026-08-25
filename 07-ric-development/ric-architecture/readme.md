@@ -1,3 +1,13 @@
+---
+title: "RIC Architecture Deep Dive"
+description: "This section provides a comprehensive exploration of the RAN Intelligent Controller (RIC) architectu"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # RIC Architecture Deep Dive
 
 ## Overview

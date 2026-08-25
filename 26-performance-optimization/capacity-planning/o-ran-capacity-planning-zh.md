@@ -1,3 +1,13 @@
+---
+title: "O-RAN 容量规划和资源管理"
+description: "O-RAN系统的综合性容量规划框架，包括负载预测模型、资源配额管理、可扩展性规划和基于性能的容量优化策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 容量规划和资源管理
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 数据保护框架"
+description: "本文档概述了 O-RAN 系统的综合数据保护策略，涵盖加密、密钥管理、隐私增强技术和合规要求。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN']
+---
+
 # O-RAN 数据保护框架
 
 ## 概述

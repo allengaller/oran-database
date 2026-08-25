@@ -1,3 +1,13 @@
+---
+title: "RAN 数字孪生（2026）"
+description: "> **更新：2026-05** | 来源：NVIDIA AODT、IEEE SA 6G-TWIN、VIAVI + NVIDIA MWC 2026"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # RAN 数字孪生（2026）
 
 > **更新：2026-05** | 来源：NVIDIA AODT、IEEE SA 6G-TWIN、VIAVI + NVIDIA MWC 2026

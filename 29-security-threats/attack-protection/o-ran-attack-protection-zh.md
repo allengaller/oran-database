@@ -1,3 +1,13 @@
+---
+title: "O-RAN 攻击防护框架"
+description: "本文档定义了 O-RAN 系统的综合攻击防护框架，涵盖威胁预防、检测、缓解和恢复策略，以确保针对各种网络威胁的稳健安全态势。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 攻击防护框架
 
 ## 概述

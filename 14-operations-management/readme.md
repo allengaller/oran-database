@@ -1,3 +1,13 @@
+---
+title: "O-RAN Operations and Management"
+description: "This directory covers daily operational practices, monitoring and alerting mechanisms, fault handlin"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Operations and Management
 
 ## Overview

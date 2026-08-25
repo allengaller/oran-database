@@ -1,3 +1,13 @@
+---
+title: "O-RAN Industry Solutions"
+description: "This directory provides customized O-RAN solutions for different vertical industries, covering appli"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN Industry Solutions
 
 ## Overview

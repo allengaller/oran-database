@@ -1,3 +1,13 @@
+---
+title: "O-RAN 术语词典 - 新手友好版"
+description: "遇到不懂的术语？来这里查！每个词条都有："
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 术语词典 - 新手友好版
 
 ## 🎯 使用说明

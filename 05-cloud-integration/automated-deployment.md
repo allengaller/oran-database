@@ -1,3 +1,13 @@
+---
+title: "O-RAN自动化部署最佳实践"
+description: "自动化部署是O-RAN网络实现敏捷性和可靠性的关键组成部分。通过标准化和自动化部署流程，可以显著减少人为错误，提高部署速度，并确保网络配置的一致性。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN自动化部署最佳实践
 
 ## 1. 自动化部署概述

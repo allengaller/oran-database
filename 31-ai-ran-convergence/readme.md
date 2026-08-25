@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Convergence: The 2026 Landscape"
+description: "> **Last Updated: 2026-05** | Based on MWC 2026, GTC 2026, O-RAN Alliance Spring 2026 Releases, and "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN Convergence: The 2026 Landscape
 
 > **Last Updated: 2026-05** | Based on MWC 2026, GTC 2026, O-RAN Alliance Spring 2026 Releases, and IEEE ICC 2026

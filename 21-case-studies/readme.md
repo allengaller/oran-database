@@ -1,3 +1,13 @@
+---
+title: "O-RAN Case Studies"
+description: "This directory collects successful O-RAN implementation cases, lessons learned, best practices and f"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Case Studies
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Testing and Validation"
+description: "This directory provides comprehensive testing methodologies, validation procedures, and quality assu"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Testing and Validation
 
 ## Overview

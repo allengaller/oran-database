@@ -1,3 +1,13 @@
+---
+title: "Paper Deep Dive: AI-RAN — The Pathway to Future Wireless Networks"
+description: "> **Citation**: ScienceDirect, 2026"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # Paper Deep Dive: AI-RAN — The Pathway to Future Wireless Networks
 
 > **Citation**: ScienceDirect, 2026

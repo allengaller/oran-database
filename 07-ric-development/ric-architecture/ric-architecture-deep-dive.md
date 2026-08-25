@@ -1,3 +1,13 @@
+---
+title: "RIC Architecture Deep Dive"
+description: "The RAN Intelligent Controller (RIC) is the core intelligence component of the O-RAN architecture, r"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # RIC Architecture Deep Dive
 
 ## Overview

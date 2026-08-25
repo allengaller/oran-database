@@ -1,3 +1,13 @@
+---
+title: "行业案例研究：2026 AI-RAN 部署"
+description: "> **更新：2026-05** | 真实世界的 AI-RAN 部署、试验和启动"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # 行业案例研究：2026 AI-RAN 部署
 
 > **更新：2026-05** | 真实世界的 AI-RAN 部署、试验和启动

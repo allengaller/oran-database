@@ -1,3 +1,13 @@
+---
+title: "O-RAN 公司治理框架"
+description: "O-RAN技术公司的综合性公司治理框架，确保透明决策、道德商业实践、利益相关者问责制和可持续价值创造。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 公司治理框架
 
 ## 概述

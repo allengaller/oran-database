@@ -1,3 +1,13 @@
+---
+title: "AI-RAN 架构与平台（2026）"
+description: "> **更新：2026-05** | 来源：NVIDIA Developer、Nokia MWC 2026、GTC 2026"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # AI-RAN 架构与平台（2026）
 
 > **更新：2026-05** | 来源：NVIDIA Developer、Nokia MWC 2026、GTC 2026

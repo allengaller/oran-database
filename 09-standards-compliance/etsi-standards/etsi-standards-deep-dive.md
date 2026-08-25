@@ -1,3 +1,13 @@
+---
+title: "ETSI O-RAN Standards Deep Dive"
+description: "ETSI (European Telecommunications Standards Institute) has developed several technical specification"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # ETSI O-RAN Standards Deep Dive
 
 ## Overview

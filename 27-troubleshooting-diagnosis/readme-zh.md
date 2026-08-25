@@ -1,3 +1,13 @@
+---
+title: "O-RAN 故障诊断与排除"
+description: "本目录提供 O-RAN 系统的系统性故障排查方法、诊断工具使用指南和常见问题解决方案。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 故障诊断与排除
 
 ## 概述

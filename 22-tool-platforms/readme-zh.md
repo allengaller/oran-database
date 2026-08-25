@@ -1,3 +1,13 @@
+---
+title: "O-RAN 工具与平台"
+description: "本目录介绍 O-RAN 开发、部署、运维所需的各种工具平台、软件系统和实用程序。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 工具与平台
 
 ## 概述

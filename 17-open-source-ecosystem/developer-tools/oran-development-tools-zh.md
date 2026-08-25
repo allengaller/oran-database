@@ -1,3 +1,13 @@
+---
+title: "O-RAN 开发者工具和SDK"
+description: "本文档提供专门针对O-RAN开发的开发工具、SDK和框架的全面信息，包括IDE插件、测试框架、模拟工具和开发环境。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 开发者工具和SDK
 
 ## 概述

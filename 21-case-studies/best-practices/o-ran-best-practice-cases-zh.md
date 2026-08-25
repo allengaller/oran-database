@@ -1,3 +1,13 @@
+---
+title: "O-RAN 最佳实践案例"
+description: "收集成功的 O-RAN 实施案例，展示行业最佳实践、经过验证的方法论和可复制的成功模式。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 最佳实践案例
 
 ## 概述

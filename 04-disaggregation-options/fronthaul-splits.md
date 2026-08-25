@@ -1,3 +1,13 @@
+---
+title: "前传分离选项分析"
+description: "前传分离是 O-RAN 架构中的重要组成部分，不同的前传分离点对应不同的技术特点和要求。本文将详细分析各种前传分离选项的技术特性、性能影响和部署考量。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # 前传分离选项分析
 
 ## 不同前传分离点的技术特点和要求

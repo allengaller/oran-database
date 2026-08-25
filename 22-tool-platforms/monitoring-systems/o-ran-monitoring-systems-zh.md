@@ -1,3 +1,13 @@
+---
+title: "O-RAN 监控系统"
+description: "专为O-RAN网络设计的综合监控和可观察性解决方案，涵盖性能监控、日志分析、故障诊断和预测性维护功能。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 监控系统
 
 ## 概述

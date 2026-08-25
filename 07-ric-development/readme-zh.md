@@ -1,3 +1,13 @@
+---
+title: "O-RAN 高级技术"
+description: "本节涵盖 O-RAN 高级技术，重点关注 RIC 架构、xApps/rApps 开发、智能算法和性能优化。利用您云平台的专业知识，您将学习如何利用这些先进技术来增强 O-RAN 网络性能和能力。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 高级技术
 
 ## 概述

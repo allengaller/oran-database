@@ -1,3 +1,13 @@
+---
+title: "O-RAN Innovation Cases"
+description: "Showcase of cutting-edge O-RAN implementations featuring breakthrough technologies, novel applicatio"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Innovation Cases
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "Edge Computing Integration Deep Dive"
+description: "This document provides a comprehensive exploration of the integration of O-RAN with edge computing, "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # Edge Computing Integration Deep Dive
 
 ## Overview

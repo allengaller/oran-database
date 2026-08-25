@@ -1,3 +1,13 @@
+---
+title: "O-RAN 生态系统战略框架"
+description: "构建和参与 O-RAN 生态系统的战略框架，涵盖生态系统发展、合作伙伴策略和竞争定位。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 生态系统战略框架
 
 ## 概述

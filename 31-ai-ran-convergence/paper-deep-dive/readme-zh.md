@@ -1,3 +1,13 @@
+---
+title: "论文深度解读：2026 AI-RAN 研究"
+description: "> **更新：2026-05** | 里程碑 AI-RAN 论文的深入技术分析"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # 论文深度解读：2026 AI-RAN 研究
 
 > **更新：2026-05** | 里程碑 AI-RAN 论文的深入技术分析

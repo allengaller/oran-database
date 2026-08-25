@@ -1,3 +1,13 @@
+---
+title: "O-RAN Emerging Applications and Future Use Cases"
+description: "This document explores emerging applications and future use cases for O-RAN technology, covering 6G "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Emerging Applications and Future Use Cases
 
 ## Overview

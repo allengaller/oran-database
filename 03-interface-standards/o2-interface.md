@@ -1,3 +1,13 @@
+---
+title: "O2 接口"
+description: "O2 接口是 O-RAN 架构中 SMO (Service Management and Orchestration) 与 O-Cloud 之间的标准化接口，用于云资源管理。本文档详细说明 O2 接口"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O2 接口
 
 ## 云资源管理接口

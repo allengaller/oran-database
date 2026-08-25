@@ -1,3 +1,13 @@
+---
+title: "O-RAN 架构论文"
+description: "本目录包含专注于 O-RAN 架构设计、参考模型和系统级分析的学术论文和研究报告。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 架构论文
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 测试与验证"
+description: "本目录提供 O-RAN 系统的全面测试方法论、验证流程和质量保证实践。涵盖一致性测试、互操作性验证、性能基准测试和自动化测试框架。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 测试与验证
 
 ## 概述

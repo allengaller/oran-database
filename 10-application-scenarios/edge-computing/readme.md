@@ -1,3 +1,13 @@
+---
+title: "Edge Computing Integration"
+description: "This section explores the integration of O-RAN with edge computing, covering Mobile Edge Computing ("
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # Edge Computing Integration
 
 ## Overview

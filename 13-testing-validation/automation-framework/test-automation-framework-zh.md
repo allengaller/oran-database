@@ -1,3 +1,13 @@
+---
+title: "O-RAN 测试自动化框架"
+description: "O-RAN 测试自动化框架提供了一个全面的自动化测试解决方案，支持 O-RAN 系统的持续集成、持续交付和持续测试。该框架支持多种测试类型，包括单元测试、集成测试、系统测试和验收测试。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 测试自动化框架
 
 ## 概述

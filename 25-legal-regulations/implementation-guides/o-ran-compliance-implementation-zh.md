@@ -1,3 +1,13 @@
+---
+title: "O-RAN 法律合规实施指南"
+description: "建立和维护O-RAN技术部署法律合规的实用实施指南，涵盖逐步程序、最佳实践、资源分配和持续改进方法。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 法律合规实施指南
 
 ## 概述

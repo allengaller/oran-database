@@ -1,3 +1,13 @@
+---
+title: "O-RAN 联盟工作组详细职责"
+description: "O-RAN 联盟由多个工作组组成，每个工作组负责特定领域的标准制定和技术开发。本文档详细介绍各工作组的具体职责、工作范围和核心任务，为理解 O-RAN 标准化流程和技术演进提供参考。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 联盟工作组详细职责
 
 ## 各工作组的核心职责和工作范围

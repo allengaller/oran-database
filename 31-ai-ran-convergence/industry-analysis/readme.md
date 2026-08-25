@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Industry Analysis (2026)"
+description: "> **Updated: 2026-08** | Sources: MWC 2026, GTC 2026, Dell'Oro Group, O-RAN Alliance"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # AI-RAN Industry Analysis (2026)
 
 > **Updated: 2026-08** | Sources: MWC 2026, GTC 2026, Dell'Oro Group, O-RAN Alliance

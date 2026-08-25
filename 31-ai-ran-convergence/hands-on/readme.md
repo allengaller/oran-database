@@ -1,3 +1,13 @@
+---
+title: "AI-RAN Hands-On Labs (2026)"
+description: "> **Updated: 2026-05** | For K8S Engineers building real AI-RAN systems"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # AI-RAN Hands-On Labs (2026)
 
 > **Updated: 2026-05** | For K8S Engineers building real AI-RAN systems

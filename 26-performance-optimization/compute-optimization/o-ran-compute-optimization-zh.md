@@ -1,3 +1,13 @@
+---
+title: "O-RAN 计算层优化"
+description: "O-RAN系统的综合性计算层优化策略，涵盖CPU调度、内存管理、存储I/O和网络I/O性能增强，以最大化资源利用率和系统效率。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 计算层优化
 
 ## 概述

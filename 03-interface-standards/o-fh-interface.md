@@ -1,3 +1,13 @@
+---
+title: "开放前传接口 (O-FH)"
+description: "开放前传接口 (O-FH) 是 O-RAN 联盟定义的标准化前传接口，用于连接 O-DU (分布式单元) 和 O-RU (无线单元)。O-FH 接口支持 eCPRI (增强型通用公共无线电接口) 和 "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # 开放前传接口 (O-FH)
 
 ## O-FH 接口概述

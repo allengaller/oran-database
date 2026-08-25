@@ -1,3 +1,13 @@
+---
+title: "O-RAN 开发工具包"
+description: "专为O-RAN软件开发、测试和部署而设计的开发工具、框架和平台的综合集合。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 开发工具包
 
 ## 概述

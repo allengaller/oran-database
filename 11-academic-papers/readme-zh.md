@@ -1,3 +1,13 @@
+---
+title: "O-RAN 学术论文集合"
+description: "本目录包含与 O-RAN（开放无线接入网）技术相关的学术论文、研究出版物和技术研究报告的综合集合。论文按技术领域组织，便于研究和学习。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 学术论文集合
 
 ## 概述

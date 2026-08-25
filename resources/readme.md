@@ -1,3 +1,13 @@
+---
+title: "O-RAN Learning Resources"
+description: "This section provides a comprehensive collection of resources to support your journey from cloud pla"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Learning Resources
 
 ## Overview

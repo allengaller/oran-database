@@ -1,3 +1,13 @@
+---
+title: "O-RAN Open Source Projects Catalog"
+description: "This catalog provides a comprehensive overview of major open source projects related to O-RAN techno"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Open Source Projects Catalog
 
 ## Overview

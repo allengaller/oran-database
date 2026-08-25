@@ -1,3 +1,13 @@
+---
+title: "O-RAN 网络层安全威胁分析"
+description: "本文档深入分析 O-RAN 网络层面临的主要安全威胁及其防护策略。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 网络层安全威胁分析
 
 ## 概述

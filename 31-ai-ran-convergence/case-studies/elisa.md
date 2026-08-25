@@ -1,3 +1,13 @@
+---
+title: "Case Study: Elisa (Finland) — AI-RAN Field Trials"
+description: "> **Status**: Active field trials since 2025 | **Location**: Helsinki, Finland"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: Elisa (Finland) — AI-RAN Field Trials
 
 > **Status**: Active field trials since 2025 | **Location**: Helsinki, Finland

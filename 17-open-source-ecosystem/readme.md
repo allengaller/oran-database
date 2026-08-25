@@ -1,3 +1,13 @@
+---
+title: "O-RAN Open Source Ecosystem"
+description: "This directory aggregates O-RAN related open source projects, community resources, code examples and"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Open Source Ecosystem
 
 ## Overview

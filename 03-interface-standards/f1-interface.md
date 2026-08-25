@@ -1,3 +1,13 @@
+---
+title: "F1 接口"
+description: "F1 接口是 3GPP 定义的 CU-DU 接口，支持控制平面和用户平面分离。在 O-RAN 架构中，F1 接口保持与 3GPP 标准的一致性，同时通过 O-RAN 联盟的规范进行了进一步的增强和开放"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # F1 接口
 
 ## F1 接口概述

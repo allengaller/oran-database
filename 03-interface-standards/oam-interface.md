@@ -1,3 +1,13 @@
+---
+title: "OAM 接口"
+description: "OAM (Operation, Administration, and Maintenance) 接口是 O-RAN 架构中的整体网络管理和监控接口，提供端到端的网络管理能力。本文档详细说明 OAM "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # OAM 接口
 
 ## 整体网络管理和监控接口

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Talent Development"
+description: "This directory covers talent cultivation systems, skill training paths, certification exams and care"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Talent Development
 
 ## Overview

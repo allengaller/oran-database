@@ -1,3 +1,13 @@
+---
+title: "Cloud to O-RAN Expert Transition Guide"
+description: "This guide is designed specifically for cloud platform operations professionals looking to transitio"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Cloud to O-RAN Expert Transition Guide
 
 ## Overview

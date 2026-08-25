@@ -1,3 +1,13 @@
+---
+title: "Industry Best Practices"
+description: "This section provides industry best practices for O-RAN deployment, including deployment guides, int"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN']
+---
+
 # Industry Best Practices
 
 ## Overview

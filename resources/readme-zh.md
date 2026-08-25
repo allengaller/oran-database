@@ -1,3 +1,13 @@
+---
+title: "O-RAN 学习资源"
+description: "本节提供全面的资源集合，支持您从云平台运维到O-RAN专家的转型之旅。这些资源包括技术文档、案例研究、培训材料和工具，帮助您掌握O-RAN技术。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN 学习资源
 
 ## 概述

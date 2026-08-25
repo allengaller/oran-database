@@ -1,3 +1,13 @@
+---
+title: "O-RAN 认证框架"
+description: "本文档为 O-RAN 系统提供全面的认证框架，涵盖多因素认证、证书管理和安全凭证处理。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 认证框架
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN Security Threats and Protection"
+description: "This directory provides security threat analysis, attack protection strategies, and emergency respon"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN Security Threats and Protection
 
 ## Overview

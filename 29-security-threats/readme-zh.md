@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全威胁与防护"
+description: "本目录提供 O-RAN 系统的安全威胁分析、攻击防护策略和应急响应机制。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN']
+---
+
 # O-RAN 安全威胁与防护
 
 ## 概述

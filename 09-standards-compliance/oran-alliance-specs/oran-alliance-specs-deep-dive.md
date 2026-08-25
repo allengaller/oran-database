@@ -1,3 +1,13 @@
+---
+title: "O-RAN Alliance Specification System Deep Dive"
+description: "The O-RAN Alliance specification system is the foundation of the O-RAN ecosystem, defining the archi"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Alliance Specification System Deep Dive
 
 ## Overview

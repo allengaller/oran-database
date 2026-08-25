@@ -1,3 +1,13 @@
+---
+title: "Case Study: SynaXG + Eridan — 6G AI-Native Radio Collaboration"
+description: "> **Status**: Active R&D partnership | **Focus**: AI-native 6G radio (terahertz)"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Case Study: SynaXG + Eridan — 6G AI-Native Radio Collaboration
 
 > **Status**: Active R&D partnership | **Focus**: AI-native 6G radio (terahertz)

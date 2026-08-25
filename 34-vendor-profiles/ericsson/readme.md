@@ -1,3 +1,13 @@
+---
+title: "Ericsson（爱立信）企业档案"
+description: "| 项目 | 详情 |"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Ericsson（爱立信）企业档案
 
 ## 1. 企业概况

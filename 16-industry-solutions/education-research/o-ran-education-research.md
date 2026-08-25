@@ -1,3 +1,13 @@
+---
+title: "O-RAN Education and Research Applications"
+description: "This document explores O-RAN applications in educational institutions and research environments, cov"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Education and Research Applications
 
 ## Overview

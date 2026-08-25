@@ -1,3 +1,13 @@
+---
+title: "O-RAN Regional Deployment Strategies"
+description: "Strategic framework for deploying O-RAN solutions across different global regions, considering regio"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Regional Deployment Strategies
 
 ## Overview

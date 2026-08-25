@@ -1,3 +1,13 @@
+---
+title: "O-RAN 国际法律框架"
+description: "O-RAN技术部署所涉及的国际法律和法规的综合分析，包括电信法规、网络安全要求、知识产权保护和跨境合规考虑。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # O-RAN 国际法律框架
 
 ## 概述

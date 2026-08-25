@@ -1,3 +1,13 @@
+---
+title: "O-RAN Developer Tools and SDKs"
+description: "This document provides comprehensive information about development tools, SDKs, and frameworks speci"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # O-RAN Developer Tools and SDKs
 
 ## Overview

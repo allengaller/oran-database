@@ -1,3 +1,13 @@
+---
+title: "功能分离选项分析"
+description: "3GPP 定义了 8 种不同的 CU/DU 功能分离选项，从 RRC-PDCP 分离到模拟-数字分离，每种选项都有其独特的技术特点和应用场景。"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # 功能分离选项分析
 
 ## 3GPP 定义的 8 种 CU/DU 分离选项

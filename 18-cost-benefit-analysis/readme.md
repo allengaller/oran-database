@@ -1,3 +1,13 @@
+---
+title: "O-RAN Cost-Benefit Analysis"
+description: "This directory provides cost models, return on investment analysis, economic benefit evaluation and "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Cost-Benefit Analysis
 
 ## Overview

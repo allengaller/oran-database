@@ -1,3 +1,13 @@
+---
+title: "O-RAN 性能监控工具和系统"
+description: "O-RAN性能跟踪的综合性监控工具链和系统，包括可观测性框架、指标收集系统、日志分析平台和自动化警报机制，以确保最佳系统性能和快速问题检测。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 性能监控工具和系统
 
 ## 概述

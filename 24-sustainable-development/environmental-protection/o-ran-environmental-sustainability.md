@@ -1,3 +1,13 @@
+---
+title: "O-RAN Environmental Sustainability Framework"
+description: "Comprehensive environmental sustainability strategy for O-RAN technology, focusing on green communic"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Environmental Sustainability Framework
 
 ## Overview

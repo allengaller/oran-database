@@ -1,3 +1,13 @@
+---
+title: "O-RAN Monitoring Visualization Framework"
+description: "This document outlines the comprehensive visualization framework for O-RAN monitoring systems, cover"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN Monitoring Visualization Framework
 
 ## Overview

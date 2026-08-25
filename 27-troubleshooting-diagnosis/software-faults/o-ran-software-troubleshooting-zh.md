@@ -1,3 +1,13 @@
+---
+title: "O-RAN 软件故障和应用问题"
+description: "诊断和解决O-RAN系统中软件相关故障的综合指南，涵盖操作系统问题、应用故障、容器问题和服务中断，提供系统性故障排除方法。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 软件故障和应用问题
 
 ## 概述

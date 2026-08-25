@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全与隐私保护"
+description: "本目录涵盖 O-RAN 系统中的安全机制、隐私保护策略、威胁防护和合规要求。包括网络安全、身份认证、数据保护等方面的技术实现和最佳实践。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['documentation']
+---
+
 # O-RAN 安全与隐私保护
 
 ## 概述

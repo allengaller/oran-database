@@ -1,3 +1,13 @@
+---
+title: "Vertical Industry O-RAN Applications"
+description: "Detailed case studies of O-RAN implementations across various vertical industries, demonstrating spe"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC', '5G']
+---
+
 # Vertical Industry O-RAN Applications
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 本地化适应策略"
+description: "全面的框架，用于适应O-RAN技术、解决方案和运营，以满足全球部署市场中的特定区域要求、监管标准和本地市场条件。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['5G']
+---
+
 # O-RAN 本地化适应策略
 
 ## 概述

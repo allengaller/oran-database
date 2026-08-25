@@ -1,3 +1,13 @@
+---
+title: "O-RAN 故障处理和故障排除指南"
+description: "这份全面的指南提供了在 O-RAN 环境中进行故障识别、诊断和解决的系统性方法。它涵盖了常见故障场景、诊断方法论以及经过验证的故障排除技术，用于维护系统可靠性和最小化停机时间。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 故障处理和故障排除指南
 
 ## 概述

@@ -1,3 +1,13 @@
+---
+title: "O-RAN 诊断工具和仪器"
+description: "O-RAN系统的综合性诊断工具套件，包括系统级诊断、网络分析工具、应用调试工具和专门的O-RAN诊断仪器，以促进高效的故障识别和解决。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN 诊断工具和仪器
 
 ## 概述

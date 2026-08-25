@@ -1,3 +1,13 @@
+---
+title: "O-RAN 应用性能调优"
+description: "专门针对O-RAN应用的性能调优策略，包括RIC xApps/rApps、接口协议、服务编排和容器化部署，以优化端到端系统性能。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['RIC']
+---
+
 # O-RAN 应用性能调优
 
 ## 概述

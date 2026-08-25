@@ -1,3 +1,13 @@
+---
+title: "O-RAN 长期发展规划"
+description: "O-RAN技术演进的战略性长期发展框架，涵盖技术路线图规划、创新投资策略、生态系统发展和未来十年的可持续增长倡议。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', '5G']
+---
+
 # O-RAN 长期发展规划
 
 ## 概述

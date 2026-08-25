@@ -1,3 +1,13 @@
+---
+title: "O-RAN Network Issues and Troubleshooting"
+description: "Specialized troubleshooting guide for O-RAN network-related issues, covering connectivity problems, "
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Network Issues and Troubleshooting
 
 ## Overview

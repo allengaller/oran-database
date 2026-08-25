@@ -1,3 +1,13 @@
+---
+title: "O-RAN Alert Strategy Framework"
+description: "This document defines a comprehensive alert strategy framework for O-RAN systems, covering alert cla"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['AI-RAN', 'RIC']
+---
+
 # O-RAN Alert Strategy Framework
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+title: "E2 Interface Deep Application"
+description: "The E2 interface is a critical component of the O-RAN architecture, providing the communication chan"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # E2 Interface Deep Application
 
 ## Overview

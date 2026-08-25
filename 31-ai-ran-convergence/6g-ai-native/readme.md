@@ -1,3 +1,13 @@
+---
+title: "6G AI-Native Architecture (2026)"
+description: "> **Updated: 2026-05** | Sources: Springer 2026, ScienceDirect, IEEE ICC 2026, O-RAN Alliance"
+category: "documentation"
+language: "en-US"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
+---
+
 # 6G AI-Native Architecture (2026)
 
 > **Updated: 2026-05** | Sources: Springer 2026, ScienceDirect, IEEE ICC 2026, O-RAN Alliance

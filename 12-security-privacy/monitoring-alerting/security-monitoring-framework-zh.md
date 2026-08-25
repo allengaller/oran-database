@@ -1,3 +1,13 @@
+---
+title: "O-RAN 安全监控告警框架"
+description: "本框架为 O-RAN 系统提供全面的安全监控和告警能力，涵盖威胁检测、异常识别、合规监控和事件响应协调。"
+category: "documentation"
+language: "zh-CN"
+version: "1.0"
+last_updated: "2026-08-25"
+keywords: ['O-RAN', 'AI-RAN', 'RIC']
+---
+
 # O-RAN 安全监控告警框架
 
 ## 概述
