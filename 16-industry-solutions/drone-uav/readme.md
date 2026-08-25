@@ -20,8 +20,8 @@ keywords: ['无人机', 'UAV', 'AI-RAN', 'DJI', '低空经济', '5G']
 |:---|:---|:---|
 | **[无人机 AI-RAN 技术架构](./drone-ai-ran-architecture.md)** | 总体架构、5G NR 集成、边缘 AI、编队与应急通信、xApp/rApp 设计 | 486 |
 | **[DJI 定制化 AI-RAN 解决方案](./dji-custom-ai-ran-solution.md)** | DJI 产品生态分析、四大核心方案、合作模式、实施路线图、成本效益 | 326 |
-| **[无人机通信协议与接口](./drone-communication-protocols.md)** | 协议栈全景、Uu/E2/PC5 接口、C2/视频/遥测协议、标准化进展 | 267 |
-| **[无人机应用场景与案例](./drone-application-scenarios.md)** | 八大垂直场景、典型案例、市场分析与未来趋势 | 241 |
+| **[无人机通信协议与接口](./drone-communication-protocols.md)** | 协议栈全景、C2/数据/视频链路、编队与应急协议、安全与多模通信、标准化进展、DJI 生态集成附录 | 2810 |
+| **[无人机应用场景与案例](./drone-application-scenarios.md)** | 十二大垂直场景、成功案例、挑战与市场分析、2025-2026 典型案例附录 | 2785 |
 
 ## 核心主题
 
