@@ -263,6 +263,10 @@ This knowledge base is designed specifically for cloud platform operations profe
   - **agentic-ai/** - Multi-Scale Agentic AI Framework (arXiv 2602.14117), LLM-powered autonomous agents, safety guardrails
   - **digital-twin/** - NVIDIA AODT, 6G-TWIN framework, closed-loop optimization, VIAVI validation
   - **6g-ai-native/** - AI-native RAN design, terahertz AI, federated learning, physics-informed ML
+  - **projects/** - AI-RAN Project Research and Startup Guide
+    - NVIDIA Aerial CUDA-Accelerated RAN, O-RAN SC RIC Platform, xApp Framework
+    - srsRAN Project (OCUDU), OpenAirInterface
+    - AI-RAN Startup Ideas and Career Development
 
 ### Transition Guide
 
