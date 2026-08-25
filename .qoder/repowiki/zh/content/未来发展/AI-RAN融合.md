@@ -13,6 +13,11 @@
 - [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md)
 - [31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md](file://31-ai-ran-convergence/case-studies/nokia-nvidia-mwc.md)
 - [31-ai-ran-convergence/case-studies/softbank.md](file://31-ai-ran-convergence/case-studies/softbank.md)
+- [31-ai-ran-convergence/projects/readme.md](file://31-ai-ran-convergence/projects/readme.md)
+- [31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md](file://31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md)
+- [31-ai-ran-convergence/projects/oran-sc-ric-platform.md](file://31-ai-ran-convergence/projects/oran-sc-ric-platform.md)
+- [31-ai-ran-convergence/projects/oran-sc-xapp-framework.md](file://31-ai-ran-convergence/projects/oran-sc-xapp-framework.md)
+- [31-ai-ran-convergence/projects/openairinterface.md](file://31-ai-ran-convergence/projects/openairinterface.md)
 - [07-ric-development/readme.md](file://07-ric-development/readme.md)
 - [02-core-components/o-ric.md](file://02-core-components/o-ric.md)
 - [01-architecture-system/o-cloud-architecture.md](file://01-architecture-system/o-cloud-architecture.md)
@@ -20,11 +25,11 @@
 
 ## 更新摘要
 **所做更改**
-- 新增AI-RAN行业分析章节，包含市场规模预测、价值链分析和竞争格局评估
-- 新增供应商解决方案全景文档，涵盖NVIDIA、Ericsson、Samsung、Nokia等厂商详细评估
-- 更新案例研究部分，增加MWC 2026和GTC 2026的实际部署案例
-- 增强技术经济学分析，包含ROI模型和TCO对比
-- 扩展政策与监管环境分析，覆盖全球主要市场
+- 新增AI-RAN项目研究目录章节，包含NVIDIA Aerial CUDA-Accelerated RAN、O-RAN SC RIC Platform、xApp Framework、OpenAirInterface等核心项目的详细分析
+- 增强实践指导部分，提供从概念到部署的完整技术路径
+- 扩展开源生态系统分析，涵盖主要开源项目和社区生态
+- 增加创业和职业发展指导，为从业者提供实用建议
+- 完善学习路径规划，支持不同层次的技术人员需求
 
 ## 目录
 1. [引言](#引言)
@@ -32,23 +37,25 @@
 3. [核心组件](#核心组件)
 4. [架构总览](#架构总览)
 5. [详细组件分析](#详细组件分析)
-6. [行业分析与市场展望](#行业分析与市场展望)
-7. [供应商解决方案全景](#供应商解决方案全景)
-8. [实际部署案例](#实际部署案例)
-9. [依赖关系分析](#依赖关系分析)
-10. [性能考量](#性能考量)
-11. [故障排查指南](#故障排查指南)
-12. [结论](#结论)
-13. [附录](#附录)
+6. [AI-RAN项目研究](#ai-ran项目研究)
+7. [行业分析与市场展望](#行业分析与市场展望)
+8. [供应商解决方案全景](#供应商解决方案全景)
+9. [实际部署案例](#实际部署案例)
+10. [依赖关系分析](#依赖关系分析)
+11. [性能考量](#性能考量)
+12. [故障排查指南](#故障排查指南)
+13. [结论](#结论)
+14. [附录](#附录)
 
 ## 引言
 本文件聚焦"AI-RAN融合"主题，基于仓库中2026年最新资料，系统梳理AI与RAN的融合范式、平台架构、智能体（Agentic AI）体系、数字孪生闭环以及面向6G的AI原生演进路径。文档同时结合O-RAN RIC与O-Cloud基础设施，为云平台工程师提供从Kubernetes编排到GPU资源调度、从xApp/rApp到自治Agent的完整技术视角。
 
-**更新** 新增全面的行业分析和供应商解决方案评估，为决策者提供市场洞察和技术选型指导。
+**更新** 新增全面的AI-RAN项目研究目录，包含NVIDIA Aerial、O-RAN SC、xApp Framework、OpenAirInterface等核心开源项目的深度分析，为开发者提供从理论到实践的完整技术路线。
 
 ## 项目结构
 该知识库围绕O-RAN全栈知识组织，其中与AI-RAN融合直接相关的章节集中在：
 - 31-ai-ran-convergence：AI-RAN融合全景（联盟生态、架构平台、智能体、数字孪生、6G AI原生）
+- 31-ai-ran-convergence/projects：**新增** AI-RAN项目研究（核心开源项目、创业机会、学习路径）
 - 31-ai-ran-convergence/industry-analysis：AI-RAN行业分析（市场预测、价值链、竞争格局）
 - 31-ai-ran-convergence/product-solutions：供应商解决方案全景（厂商产品对比、选型指南）
 - 31-ai-ran-convergence/case-studies：实际部署案例（运营商试验、商业验证）
@@ -69,12 +76,15 @@ H["RIC开发与高级技术<br/>07-ric-development/readme.md"] --> I["O-RIC核�
 J["O-Cloud架构<br/>01-architecture-system/o-cloud-architecture.md"] --> I
 K["行业趋势速览<br/>LATEST_TRENDS.md"] --> A
 L["案例研究<br/>case-studies/*.md"] --> A
+M["AI-RAN项目研究<br/>projects/*"] --> N["NVIDIA Aerial SDK"]
+M --> O["O-RAN SC RIC"]
+M --> P["xApp Framework"]
+M --> Q["OpenAirInterface"]
 ```
 
 **图表来源**
 - [31-ai-ran-convergence/readme.md:1-199](file://31-ai-ran-convergence/readme.md#L1-L199)
-- [31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md:1-331](file://31-ai-ran-convergence/industry-analysis/ai-ran-industry-analysis.md#L1-L331)
-- [31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md:1-498](file://31-ai-ran-convergence/product-solutions/vendor-solutions-landscape.md#L1-L498)
+- [31-ai-ran-convergence/projects/readme.md:15-26](file://31-ai-ran-convergence/projects/readme.md#L15-L26)
 
 **章节来源**
 - [README.md:247-480](file://README.md#L247-L480)
@@ -257,6 +267,168 @@ C --> D["6G 完全AI原生"]
 **章节来源**
 - [31-ai-ran-convergence/6g-ai-native/readme.md:27-117](file://31-ai-ran-convergence/6g-ai-native/readme.md#L27-L117)
 - [31-ai-ran-convergence/6g-ai-native/readme.md:169-189](file://31-ai-ran-convergence/6g-ai-native/readme.md#L169-L189)
+
+## AI-RAN项目研究
+
+### NVIDIA Aerial CUDA-Accelerated RAN
+NVIDIA Aerial™ CUDA-Accelerated RAN是AI-RAN领域的核心开源SDK，提供完整的GPU加速5G/6G基站实现。
+
+**核心特性：**
+- **GPU加速物理层**：cuPHY实现LDPC/Polar编解码、MIMO处理、FFT/IFFT
+- **GPU加速MAC层**：cuMAC提供亚毫秒级调度决策，支持1000+ UE并发
+- **Python API**：pyAerial支持ML模型集成和AI增强调度
+- **容器化部署**：支持Docker和Kubernetes环境
+- **O-RAN兼容**：完整支持E2/A1/O1接口
+
+**应用场景：**
+- 5G基站基带处理（宏站、微站、室内小站）
+- AI-with-RAN模式（RAN与AI共享GPU资源）
+- 边缘AI推理（视频分析、自然语言处理）
+- 数字孪生（网络仿真与优化）
+
+**技术栈：**
+```
+应用层: xApps/rApps/AI工作负载
+控制层: cuMAC-CP/cuPHY-CP
+数据层: GPU加速处理单元
+硬件层: NVIDIA GPU (L4, A100, H100)
+射频层: O-RU (eCPRI接口)
+```
+
+**章节来源**
+- [31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md:34-119](file://31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md#L34-L119)
+- [31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md:122-452](file://31-ai-ran-convergence/projects/nvidia-aerial-cuda-accelerated-ran.md#L122-L452)
+
+### O-RAN Software Community (OSC) RIC Platform
+O-RAN SC RIC Platform是O-RAN联盟主导的开源RIC实现，提供完整的RAN智能控制框架。
+
+**架构组成：**
+- **Near-RT RIC**：近实时控制（10ms-1s响应），支持E2接口和xApp管理
+- **Non-RT RIC**：非实时策略管理（>1s响应），支持A1接口和rApp环境
+- **E2接口实现**：标准E2AP协议，支持多种服务模型
+- **A1接口实现**：策略管理和分发机制
+- **xApp/rApp框架**：应用程序开发和生命周期管理
+
+**核心功能：**
+- **消息路由**：RMR（RIC Message Router）提供可靠的消息传递
+- **策略管理**：QoS优化、负载均衡、干扰管理、节能策略
+- **数据管理**：性能数据收集、时间序列存储、数据分析
+- **AI/ML集成**：模型训练、部署、监控和版本管理
+
+**开发环境：**
+```yaml
+开发工具链:
+  - 编程语言: Python, C++, Go
+  - SDK: xApp SDK (Python), xApp C++ SDK
+  - 构建工具: CMake, Make, Docker
+  - 测试框架: pytest, Google Test
+  - 调试工具: gdb, dlv, 日志系统
+```
+
+**章节来源**
+- [31-ai-ran-convergence/projects/oran-sc-ric-platform.md:32-65](file://31-ai-ran-convergence/projects/oran-sc-ric-platform.md#L32-L65)
+- [31-ai-ran-convergence/projects/oran-sc-ric-platform.md:68-227](file://31-ai-ran-convergence/projects/oran-sc-ric-platform.md#L68-L227)
+
+### O-RAN SC xApp Framework
+xApp Framework是O-RAN SC提供的xApp开发框架，简化RIC应用程序开发流程。
+
+**框架架构：**
+```
+xApp 应用程序
+    ↓
+xApp Framework Core
+    ↓
+┌─────────────────────────────┐
+│ RMR 消息路由               │
+│ REST API 服务              │
+│ SDL 数据层                 │
+│ 配置管理                   │
+│ 日志与监控                 │
+│ ASN.1 编解码               │
+└─────────────────────────────┘
+```
+
+**核心特性：**
+- **RMR消息路由**：支持E2AP消息、RIC指示、控制消息、A1策略消息
+- **REST API服务**：健康检查、配置管理、统计信息、控制命令、监控数据
+- **Shared Data Layer**：统一的数据访问接口，支持Redis、PostgreSQL等后端
+- **ASN.1编解码**：支持E2SM-KPM、E2SM-RC、E2AP等协议
+- **安全特性**：认证、授权、加密、审计日志
+
+**开发示例：**
+```go
+// xApp Framework 核心架构
+type XAppFramework struct {
+    RmrClient      *RMRClient      // RMR 消息路由客户端
+    RestServer     *RestServer     // REST API 服务器
+    SdlClient      *SDLClient      // Shared Data Layer 客户端
+    ConfigManager  *ConfigManager  // 配置管理器
+    MetricsManager *MetricsManager // 指标管理器
+    Logger         *Logger         // 日志记录器
+}
+```
+
+**章节来源**
+- [31-ai-ran-convergence/projects/oran-sc-xapp-framework.md:13-82](file://31-ai-ran-convergence/projects/oran-sc-xapp-framework.md#L13-L82)
+- [31-ai-ran-convergence/projects/oran-sc-xapp-framework.md:84-386](file://31-ai-ran-convergence/projects/oran-sc-xapp-framework.md#L84-L386)
+
+### OpenAirInterface (OAI)
+OpenAirInterface是由EURECOM创立的开源无线通信平台，提供完整的4G/5G RAN和核心网络软件。
+
+**项目特点：**
+- **完整协议栈**：支持4G LTE和5G NR的完整实现
+- **O-RAN兼容**：支持F1、E1、E2等O-RAN接口
+- **硬件无关**：支持多种SDR硬件平台（USRP、BladeRF、LimeSDR）
+- **学术研究**：广泛用于无线通信研究和教育
+- **AI集成**：支持NVIDIA Aerial GPU加速和AI驱动的网络优化
+
+**技术架构：**
+```
+应用层 (Application)
+    ↓
+SDAP 层
+    ↓
+PDCP 层
+    ↓
+RLC 层
+    ↓
+MAC 层
+    ↓
+物理层 (PHY)
+```
+
+**核心功能：**
+- **5G NR支持**：FR1/FR2频段、MIMO、双工模式
+- **O-RAN实现**：RU/DU/CU分离架构、前传接口
+- **仿真工具**：L1仿真器、信道仿真器、测试工具
+- **UE实现**：完整的用户设备协议栈
+
+**章节来源**
+- [31-ai-ran-convergence/projects/openairinterface.md:32-72](file://31-ai-ran-convergence/projects/openairinterface.md#L32-L72)
+- [31-ai-ran-convergence/projects/openairinterface.md:74-215](file://31-ai-ran-convergence/projects/openairinterface.md#L74-L215)
+
+### 学习路径与职业发展
+
+#### 初学者路径
+1. **了解基础**：先阅读AI-RAN融合概览了解行业背景
+2. **选择方向**：根据兴趣选择1-2个开源项目深入学习
+3. **动手实践**：按照项目文档搭建开发环境，运行示例代码
+4. **参与贡献**：从简单的bug修复或文档改进开始参与开源社区
+
+#### 开发者路径
+1. **技术深入**：深入研究选定项目的技术架构和代码实现
+2. **技能提升**：掌握相关技术栈（CUDA、Go、Python、Kubernetes等）
+3. **项目实战**：开发自己的xApp或AI-RAN应用
+4. **社区参与**：参与O-RAN SC或OpenAirInterface社区贡献
+
+#### 创业者路径
+1. **市场研究**：阅读创业项目思路了解市场机会
+2. **技术验证**：基于开源项目构建技术原型
+3. **商业设计**：设计商业模式、制定商业计划
+4. **团队组建**：寻找技术合伙人、组建核心团队
+
+**章节来源**
+- [31-ai-ran-convergence/projects/readme.md:33-52](file://31-ai-ran-convergence/projects/readme.md#L33-L52)
 
 ## 行业分析与市场展望
 
@@ -451,6 +623,8 @@ K8S --> GPU
 AI-RAN融合在2026已从概念走向商业验证，形成"AI-for/on/with RAN"三范式并存格局。以NVIDIA ARC为代表的GPU加速基带、三层智能体架构与数字孪生闭环，使RAN成为分布式智能平台。对云平台工程师而言，掌握K8S+GPU调度、RIC应用开发与智能体安全护栏，是进入AI-RAN的关键技能迁移点。未来向6G AI原生演进将强调内生AI、语义通信与自组织智能。
 
 **更新** 新增的行业分析和供应商解决方案评估显示，AI-RAN市场正处于快速增长期，预计2030年将达到150-200亿美元规模。NVIDIA、Nokia、Ericsson等主要厂商都在积极布局，SoftBank等运营商已开始商业部署。对于技术决策者而言，理解市场格局、技术成熟度和投资回报至关重要。
+
+**新增项目研究价值** 新添加的AI-RAN项目研究目录为开发者提供了从理论到实践的完整技术路线，包括NVIDIA Aerial、O-RAN SC、xApp Framework、OpenAirInterface等核心开源项目的深度分析，涵盖了学习路径、创业指导和职业发展建议，大大增强了文档的实用性和指导性。
 
 ## 附录
 - 学习路径建议：先理解联盟生态与平台，再深入智能体与数字孪生，最后展望6G AI原生。
