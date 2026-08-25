@@ -119,12 +119,13 @@ This knowledge base is designed specifically for cloud platform operations profe
 ### Industry Solutions
 
 - **16-industry-solutions/** - Industry-Specific Solutions
-  - Education and research, energy sector, healthcare, manufacturing 4.0, transportation solutions
+  - Education and research, energy sector, healthcare, manufacturing 4.0, transportation, drone/UAV solutions
   - **healthcare/** - O-RAN healthcare solutions including telemedicine, remote patient monitoring, medical IoT integration, and healthcare-specific network slicing
   - **manufacturing-4.0/** - Industrial automation, smart factory solutions, and Industry 4.0 integration
   - **energy-sector/** - Smart grid applications, renewable energy integration, and energy efficiency optimization
   - **transportation/** - Connected vehicle solutions, intelligent transportation systems, and mobility services
   - **education-research/** - Academic research applications and educational institution deployments
+  - **drone-uav/** - Drone/UAV AI-RAN solutions for the low-altitude economy: 5G connected drones, DJI customized solutions (Dock edge nodes, Cloud API), swarm/emergency communication, and application scenarios
 
 ### Open Source Ecosystem
 

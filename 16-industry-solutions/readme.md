@@ -45,6 +45,13 @@ This directory provides customized O-RAN solutions for different vertical indust
 - **Research Collaboration** - Data sharing, computing resource pools, collaborative research
 - **Digital Library** - Electronic resource management, knowledge service platforms
 
+### Drone/UAV (Low-Altitude Economy)
+- **5G Connected Drones** - Cellular-connected UAV communication, BVLOS operations, UAS/UTM regulatory integration
+- **DJI Customized AI-RAN Solution** - DJI Dock edge nodes, Cloud API integration, ecosystem partnership paths
+- **Drone Swarm & Emergency Communication** - MBS multicast swarm control, UAV-mounted portable O-RU rapid network restoration
+- **Low-Altitude Intelligent Network** - ISAC sensing, low-altitude coverage planning, aerial UE handover/beam xApps
+- 📁 **[drone-uav/](./drone-uav/readme.md)** - Drone AI-RAN solution documents (architecture, DJI solution, protocols, scenarios)
+
 ## Solution Elements
 
 ### Technical Architecture
