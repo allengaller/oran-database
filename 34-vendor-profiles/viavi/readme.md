@@ -2,7 +2,7 @@
 title: "Viavi Solutions Inc. 企业档案"
 description: "- **公司名称**：Viavi Solutions Inc."
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

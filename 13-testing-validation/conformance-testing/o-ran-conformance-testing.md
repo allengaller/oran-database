@@ -2,7 +2,7 @@
 title: "O-RAN 测试一致性验证"
 description: "O-RAN 一致性测试是验证 O-RAN 设备、软件和系统是否符合 O-RAN Alliance 规范要求的系统性验证过程。该测试确保不同厂商的 O-RAN 组件能够实现互操作性，并满足性能、安全性和"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

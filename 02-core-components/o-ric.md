@@ -2,7 +2,7 @@
 title: "RAN 智能控制器 (O-RIC)"
 description: "O-RIC (RAN Intelligent Controller) 是 O-RAN 架构中的智能化核心，负责实现网络的智能控制和优化。O-RIC 分为近实时 RIC (Near-RT RIC) 和非"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['RIC']

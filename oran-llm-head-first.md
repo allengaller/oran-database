@@ -2,7 +2,7 @@
 title: "2026 年 Agentic AI 架构"
 description: "这是一个非常前沿且切中要害的问题。在 O-RAN 领域，大家都在尝试把“大模型”（Foundation Models）塞进去，但并不是所有的模型都适合干“网优”（网络优化）这通活。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

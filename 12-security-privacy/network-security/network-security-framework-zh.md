@@ -2,7 +2,7 @@
 title: "O-RAN 网络安全框架"
 description: "本文档为 O-RAN 系统提供全面的网络安全框架，涵盖网络分段、入侵检测、DDoS 防护和安全通信协议。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC']

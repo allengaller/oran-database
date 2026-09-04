@@ -2,7 +2,7 @@
 title: "Huawei Technologies Co., Ltd. - 企业档案"
 description: "- **公司全称**：Huawei Technologies Co., Ltd.（华为技术有限公司）"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -325,9 +325,9 @@ keywords: ['AI-RAN', 'RIC', '5G']
 ## 8. 相关资源
 
 ### 内部资源
-- [02. 核心组件](../02-core-components/)
-- [31. AI-RAN 融合](../31-ai-ran-convergence/)
-- [21. 案例研究](../21-case-studies/)
+- [02. 核心组件](../../02-core-components/)
+- [31. AI-RAN 融合](../../31-ai-ran-convergence/)
+- [21. 案例研究](../../21-case-studies/)
 
 ### 外部资源
 - [华为官方网站](https://www.huawei.com/)

@@ -2,7 +2,7 @@
 title: "O-RAN 实际应用例子"
 description: "**场景**: 你在大型购物中心购物"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN']

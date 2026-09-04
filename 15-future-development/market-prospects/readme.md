@@ -2,7 +2,7 @@
 title: "市场前景分析 (Market Prospects)"
 description: "本目录分析 O-RAN 与 AI-RAN 的市场前景、商业模型创新、投资机会与竞争格局，为战略规划、投资决策和商业拓展提供数据支撑与分析框架。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC']

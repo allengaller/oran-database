@@ -2,7 +2,7 @@
 title: "O-RAN 容量规划框架"
 description: "本文档为 O-RAN 系统提供全面的容量规划框架，涵盖负载预测、可扩展性设计、成本优化和资源利用规划。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC']

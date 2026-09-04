@@ -2,7 +2,7 @@
 title: "O-RAN 架构设计最佳实践"
 description: "本文档总结 O-RAN 架构设计的核心最佳实践，帮助构建高质量、可扩展的 O-RAN 系统。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC']

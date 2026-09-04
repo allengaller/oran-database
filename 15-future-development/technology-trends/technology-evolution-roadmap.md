@@ -2,7 +2,7 @@
 title: "O-RAN 技术演进路线图"
 description: "O-RAN 技术演进路线图是指导无线接入网开放化、智能化、云原生化发展的战略性规划。该路线图覆盖 **2024-2030+** 时间跨度，以 **3GPP 标准演进** 和 **O-RAN Allia"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

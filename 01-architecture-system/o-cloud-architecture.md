@@ -2,7 +2,7 @@
 title: "O-Cloud 架构"
 description: "O-Cloud 是 O-RAN 架构中的基础设施层，为上层网络功能提供云原生的运行环境。O-Cloud 采用现代云原生技术，实现了基础设施的虚拟化、容器化和自动化管理，为 O-RAN 网络的灵活性、可"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

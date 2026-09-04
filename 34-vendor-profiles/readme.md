@@ -2,7 +2,7 @@
 title: "34. O-RAN/AI-RAN 主要厂商档案"
 description: "本章节为 O-RAN 和 AI-RAN 生态系统中的主要厂商建立独立企业档案，涵盖设备商、芯片商、云服务商和测试厂商的产品线、技术能力和市场定位。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

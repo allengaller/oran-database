@@ -2,7 +2,7 @@
 title: "2025-2026 O-RAN 与电信趋势速览"
 description: "> 本章节汇总 2025-2026 年 O-RAN / Open RAN / 5G-Advanced / 6G 领域的关键趋势与行业动态，帮助云平台和电信工程师快速把握技术演进方向。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

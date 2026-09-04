@@ -2,7 +2,7 @@
 title: "O-RAN 功能分布"
 description: "O-RAN 架构通过清晰的功能分布，实现了网络资源的高效利用和灵活部署。本文档详细说明 O-RAN 各层的功能分布、职责边界以及生产环境中的实施考量。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

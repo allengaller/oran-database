@@ -2,7 +2,7 @@
 title: "O-RAN 基础概念入门指南"
 description: "**O-RAN = Open Radio Access Network**"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['5G']

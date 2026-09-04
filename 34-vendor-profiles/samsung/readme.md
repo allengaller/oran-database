@@ -2,7 +2,7 @@
 title: "Samsung Electronics Co., Ltd.（三星电子）企业档案"
 description: "- **公司名称**：Samsung Electronics Co., Ltd.（三星电子）"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -116,9 +116,9 @@ keywords: ['AI-RAN', 'RIC', '5G']
 
 ## 8. 相关资源
 
-- [31. AI-RAN 融合 - Samsung](../31-ai-ran-convergence/product-solutions/#3-samsung)
-- [31. AI-RAN 融合 - 案例研究](../31-ai-ran-convergence/case-studies/)
-- [05. 云集成](../05-cloud-integration/)
+- [31. AI-RAN 融合 - Samsung](../../31-ai-ran-convergence/product-solutions/#3-samsung)
+- [31. AI-RAN 融合 - 案例研究](../../31-ai-ran-convergence/case-studies/)
+- [05. 云集成](../../05-cloud-integration/)
 
 ---
 

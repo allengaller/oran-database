@@ -2,7 +2,7 @@
 title: "O-RAN 研究前沿方向全景"
 description: "本文档系统梳理 O-RAN 与 AI-RAN 领域的前沿研究方向，覆盖学术热点与产业前沿，帮助研究者、架构师和技术决策者把握下一代无线网络的技术演变脉络。研究前沿从"AI 辅助"向"AI 原生"范式转"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

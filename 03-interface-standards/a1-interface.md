@@ -2,7 +2,7 @@
 title: "A1 接口"
 description: "A1 接口是 O-RAN 架构中 Non-RT RIC 与 Near-RT RIC 之间的标准化接口，基于 RESTful 架构，用于策略管理。本文档详细说明 A1 接口的功能、协议栈、技术实现以及生"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

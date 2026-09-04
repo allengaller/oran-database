@@ -2,7 +2,7 @@
 title: "分布式单元 (O-DU)"
 description: "O-DU (Distributed Unit) 是 O-RAN 架构中的分布式处理单元，负责物理层处理和部分 MAC 层功能。O-DU 位于 O-CU 和 O-RU 之间，是连接控制平面和用户平面的重"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

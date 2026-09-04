@@ -41,6 +41,10 @@ dist/
 build/
 out/
 
+# AI tool generated content
+.qoder/
+.trae/
+
 # IDE / editors
 .idea/
 .vscode/

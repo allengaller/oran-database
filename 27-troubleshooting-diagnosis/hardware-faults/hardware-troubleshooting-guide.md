@@ -2,7 +2,7 @@
 title: "O-RAN 硬件故障诊断指南"
 description: "本文档提供 O-RAN 系统硬件故障的系统性诊断方法和处理流程。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN']

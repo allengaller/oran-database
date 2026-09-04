@@ -386,6 +386,14 @@ keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
 3. **应用动手学习** - 使用实施指南和测试框架
 4. **保持最新** - 定期更新确保与最新的 O-RAN 标准和实践保持一致
 
+## 贡献指南
+
+欢迎为本知识库贡献内容。请确保所有贡献遵循既定规范,并聚焦云平台专业人员转型 O-RAN 相关主题。完整的中英双语贡献指南(目录命名规范、双语 readme 要求、frontmatter 字段、内部链接写法、提交信息约定与提交流程)请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+## 许可证
+
+本知识库采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) 许可证授权。
+
 ---
 
 *最后更新：2026年5月（AI-RAN 融合更新）*

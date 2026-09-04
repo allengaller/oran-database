@@ -447,7 +447,11 @@ This knowledge base is regularly updated to reflect the latest developments in O
 
 ## Contributing
 
-Contributions to improve this knowledge base are welcome. Please ensure all contributions follow the established standards and focus on content relevant to cloud platform professionals transitioning to O-RAN expertise.
+Contributions to improve this knowledge base are welcome. Please ensure all contributions follow the established standards and focus on content relevant to cloud platform professionals transitioning to O-RAN expertise. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full bilingual contributing guide (directory naming, bilingual readme requirements, frontmatter, internal links, and commit conventions).
+
+## License
+
+This knowledge base is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license.
 
 ## Recent Updates and Enhancements
 

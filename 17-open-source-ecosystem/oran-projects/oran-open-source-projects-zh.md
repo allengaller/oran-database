@@ -2,7 +2,7 @@
 title: "O-RAN开源项目目录"
 description: "本目录提供与O-RAN技术相关的主要开源项目的全面概述，包括其功能、架构、用例和贡献机会。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

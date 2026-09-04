@@ -2,7 +2,7 @@
 title: "Head First"
 description: "作为一个 K8S 运维工程师，想要切入 O-RAN（Open Radio Access Network，开放无线接入网）领域，其实你已经握有一手好牌了。🃏"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

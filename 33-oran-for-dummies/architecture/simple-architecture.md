@@ -2,7 +2,7 @@
 title: "O-RAN 架构简介 - 像搭积木一样理解网络"
 description: "想象 O-RAN 网络就像一套高级乐高积木："
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

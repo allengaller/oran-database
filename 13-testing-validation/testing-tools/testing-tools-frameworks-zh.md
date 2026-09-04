@@ -2,7 +2,7 @@
 title: "O-RAN 测试工具和框架"
 description: "此目录提供关于专门为 O-RAN 系统验证设计的测试工具、框架和方法论的全面信息。它包括商业和开源解决方案，用于各种测试场景，包括一致性、互操作性、性能和安全测试。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

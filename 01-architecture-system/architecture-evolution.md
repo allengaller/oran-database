@@ -2,7 +2,7 @@
 title: "O-RAN 架构演进"
 description: "传统 RAN（Radio Access Network）架构在 4G LTE 时代主要采用集中式设计，存在以下局限性："
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

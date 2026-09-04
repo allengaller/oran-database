@@ -2,7 +2,7 @@
 title: "O-RAN 网络性能优化实践"
 description: "O-RAN 网络性能调优是指通过系统化的方法，对 O-RAN 架构中的各个网络组件进行参数优化、资源配置和策略调整，以实现网络性能的最大化。其主要目标包括："
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

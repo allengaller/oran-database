@@ -2,7 +2,7 @@
 title: "O-RAN 实用程序"
 description: "专为O-RAN网络管理、故障排除和日常运营任务而设计的命令行工具、脚本和实用程序集合。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC']

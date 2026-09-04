@@ -2,7 +2,7 @@
 title: "O-RAN 商业模型创新与竞争格局分析"
 description: "本文档系统分析 O-RAN 产业的商业模型演进路径、投资机会与竞争格局。O-RAN 通过解耦硬件与软件、开放标准化接口，从根本上改变了传统 RAN 市场以整设备商为核心的垂直一体化格局，催生了软件订阅"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

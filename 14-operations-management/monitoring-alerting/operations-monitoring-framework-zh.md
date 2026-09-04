@@ -2,7 +2,7 @@
 title: "O-RAN 运营监控告警系统"
 description: "本文档描述了 O-RAN 运营环境的综合监控和告警框架，涵盖基础设施监控、服务健康跟踪、性能指标收集和智能告警管理。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC']

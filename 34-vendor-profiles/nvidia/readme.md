@@ -2,7 +2,7 @@
 title: "NVIDIA Corporation 企业档案"
 description: "- **公司名称**：NVIDIA Corporation"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -250,11 +250,11 @@ NVIDIA 是全球领先的 GPU 和 AI 计算平台公司，近年来积极布局�
 ## 8. 相关资源
 
 ### 8.1 内部资源链接
-- [31. AI-RAN 融合 - NVIDIA 生态系统](../31-ai-ran-convergence/product-solutions/#1-nvidia-生态系统)
-- [31. AI-RAN 融合 - 案例研究](../31-ai-ran-convergence/case-studies/)
-- [31. AI-RAN 融合 - 架构与平台](../31-ai-ran-convergence/architecture-platforms/)
-- [31. AI-RAN 融合 - 数字孪生](../31-ai-ran-convergence/digital-twin/)
-- [17. 开源生态](../17-open-source-ecosystem/)
+- [31. AI-RAN 融合 - NVIDIA 生态系统](../../31-ai-ran-convergence/product-solutions/#1-nvidia-生态系统)
+- [31. AI-RAN 融合 - 案例研究](../../31-ai-ran-convergence/case-studies/)
+- [31. AI-RAN 融合 - 架构与平台](../../31-ai-ran-convergence/architecture-platforms/)
+- [31. AI-RAN 融合 - 数字孪生](../../31-ai-ran-convergence/digital-twin/)
+- [17. 开源生态](../../17-open-source-ecosystem/)
 
 ### 8.2 外部资源
 - [NVIDIA AI-RAN 官方解决方案](https://www.nvidia.com/en-us/industries/telecommunications/ai-ran/)

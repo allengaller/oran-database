@@ -2,7 +2,7 @@
 title: "E2 接口"
 description: "E2 接口是 O-RAN 架构中 Near-RT RIC 与 E2 Node（CU-CP、CU-UP、DU）之间的标准化接口，协议栈为 SCTP 承载 E2AP（E2 Application Prot"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -52,7 +52,7 @@ E2 接口是 O-RAN 架构中 Near-RT RIC 与 E2 Node（CU-CP、CU-UP、DU）之�
   - RIC 可在 E2 Node 的特定协议流程（如切换、承载建立）中插入自定义决策逻辑
   - 用于实现 xApp 在 RRC/PDCP 流程中的实时干预
 
-### 2. 协议栈功能
+### 4. 协议栈功能
 
 E2 接口基于 SCTP/STREAMS 协议栈，其核心功能包括：
 
@@ -68,7 +68,7 @@ E2 接口基于 SCTP/STREAMS 协议栈，其核心功能包括：
   - 消息编解码
   - 错误处理和异常管理
 
-### 2. E2SM 服务模型
+### 5. E2SM 服务模型
 
 E2AP 通过 E2SM（E2 Service Model）定义具体服务能力，当前标准化的服务模型包括：
 

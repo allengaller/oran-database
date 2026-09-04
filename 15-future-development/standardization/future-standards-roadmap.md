@@ -2,7 +2,7 @@
 title: "O-RAN 标准化演进路线图"
 description: "本文档梳理 O-RAN 相关标准体系的未来演进路径，涵盖 O-RAN Alliance、3GPP、ETSI 等核心标准组织的工作计划与里程碑，分析标准演进对产品开发与商业部署的影响，并给出行业协作框架"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

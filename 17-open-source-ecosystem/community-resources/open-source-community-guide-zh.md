@@ -2,7 +2,7 @@
 title: "O-RAN 开源社区资源指南"
 description: "本指南提供关于O-RAN开源社区、论坛和协作平台的全面信息，开发者、研究人员和行业专业人士可以在这些平台上交流、贡献并了解O-RAN技术的最新发展。"
 category: "documentation"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']

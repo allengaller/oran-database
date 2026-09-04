@@ -2,7 +2,7 @@
 title: "Oran Ai Head First"
 description: "这是一个非常深刻的问题。如果说 **K8S** 是 O-RAN 的**躯体**（提供了运行环境），那么 **AI** 就是 O-RAN 的**灵魂**。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

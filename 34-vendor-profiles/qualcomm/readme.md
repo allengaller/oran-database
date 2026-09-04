@@ -2,7 +2,7 @@
 title: "Qualcomm Incorporated 企业档案"
 description: "- **公司名称**：Qualcomm Incorporated（高通公司）"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -408,9 +408,9 @@ Qualcomm 是全球领先的无线技术创新公司，在移动通信、半导�
 ### 8.1 内部资源链接
 - [34. 厂商档案 - NVIDIA](../nvidia/)
 - [34. 厂商档案 - Intel](../intel/)
-- [04. 解聚选项](../04-disaggregation-options/)
-- [31. AI-RAN 融合](../31-ai-ran-convergence/)
-- [07. RIC 开发](../07-ric-development/)
+- [04. 解聚选项](../../04-disaggregation-options/)
+- [31. AI-RAN 融合](../../31-ai-ran-convergence/)
+- [07. RIC 开发](../../07-ric-development/)
 
 ### 8.2 外部资源
 - [Qualcomm 官方网站](https://www.qualcomm.com/)

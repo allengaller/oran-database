@@ -2,7 +2,7 @@
 title: "O-RAN 人才认证体系"
 description: "本文档介绍 O-RAN 领域的主要认证项目、考试要求和职业发展路径。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['RIC', '5G']

@@ -2,7 +2,7 @@
 title: "O-RAN Software Community xApp Framework 项目研究"
 description: "全面研究 O-RAN SC xApp Framework 项目，包括技术架构、功能特性、应用场景、开发环境、代码结构、性能基准、竞品对比、创业机会、求职技能、学习资源与未来发展方向"
 category: "research"
-language: "zh-CN"
+language: "en-US"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'xApp', 'RIC', 'RMR', 'REST API', 'AI-RAN', '网络优化', '智能运维']

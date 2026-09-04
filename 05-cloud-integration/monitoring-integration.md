@@ -2,7 +2,7 @@
 title: "O-RAN监控集成最佳实践"
 description: "在O-RAN网络中，有效的监控集成是确保网络可靠性、性能和安全性的关键。通过整合各种监控工具和系统，可以实现对O-RAN网络的全方位可见性，及时发现和解决问题，确保服务质量。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC']

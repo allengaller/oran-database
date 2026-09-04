@@ -2,7 +2,7 @@
 title: "Mavenir Systems, Inc. 企业档案"
 description: "| 项目 | 详情 |"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC']
@@ -117,9 +117,9 @@ keywords: ['AI-RAN', 'RIC']
 
 ## 8. 相关资源
 
-- [31. AI-RAN 融合 - Mavenir](../31-ai-ran-convergence/product-solutions/#5-mavenir)
-- [31. AI-RAN 融合 - 案例研究](../31-ai-ran-convergence/case-studies/)
-- [17. 开源生态](../17-open-source-ecosystem/)
+- [31. AI-RAN 融合 - Mavenir](../../31-ai-ran-convergence/product-solutions/#5-mavenir)
+- [31. AI-RAN 融合 - 案例研究](../../31-ai-ran-convergence/case-studies/)
+- [17. 开源生态](../../17-open-source-ecosystem/)
 
 ---
 

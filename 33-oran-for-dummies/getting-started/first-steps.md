@@ -2,7 +2,7 @@
 title: "O-RAN 学习第一步指南"
 description: "**技术小白型** (完全没接触过)"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['RIC', '5G']

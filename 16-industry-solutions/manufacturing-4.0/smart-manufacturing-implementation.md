@@ -2,7 +2,7 @@
 title: "O-RAN 行业解决方案实施指南"
 description: "随着工业 4.0 的深入推进，制造业正经历着从自动化向智能化的深刻变革。O-RAN（开放无线接入网）架构凭借其开放性、智能化和云原生特性，为智能制造提供了理想的无线通信基础设施。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']

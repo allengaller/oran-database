@@ -2,7 +2,7 @@
 title: "Intel Corporation 企业档案"
 description: "- **公司名称**：Intel Corporation（英特尔公司）"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['O-RAN', 'AI-RAN', 'RIC', '5G']
@@ -340,10 +340,10 @@ Intel 是全球领先的半导体芯片制造商，近年来积极布局 5G/6G �
 ## 8. 相关资源
 
 ### 8.1 内部资源链接
-- [31. AI-RAN 融合 - Intel 生态系统](../31-ai-ran-convergence/product-solutions/)
-- [31. AI-RAN 融合 - 架构与平台](../31-ai-ran-convergence/architecture-platforms/)
-- [17. 开源生态](../17-open-source-ecosystem/)
-- [05. 云集成](../05-cloud-integration/)
+- [31. AI-RAN 融合 - Intel 生态系统](../../31-ai-ran-convergence/product-solutions/)
+- [31. AI-RAN 融合 - 架构与平台](../../31-ai-ran-convergence/architecture-platforms/)
+- [17. 开源生态](../../17-open-source-ecosystem/)
+- [05. 云集成](../../05-cloud-integration/)
 
 ### 8.2 厂商档案参考
 - [34. 厂商档案 - NVIDIA](../nvidia/)

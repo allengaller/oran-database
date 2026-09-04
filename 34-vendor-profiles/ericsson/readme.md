@@ -2,7 +2,7 @@
 title: "Ericsson（爱立信）企业档案"
 description: "| 项目 | 详情 |"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', 'RIC', '5G']
@@ -222,11 +222,11 @@ Ericsson 在 O-RAN 领域面临的战略挑战在于如何平衡传统优势保�
 
 ## 8. 相关资源
 
-- [31. AI-RAN 融合 - Ericsson](../31-ai-ran-convergence/product-solutions/#2-ericsson)
-- [31. AI-RAN 融合 - 案例研究](../31-ai-ran-convergence/case-studies/)
-- [06. 工作组](../06-working-groups/)
-- [02. 核心组件](../02-core-components/)
-- [03. 接口标准](../03-interface-standards/)
+- [31. AI-RAN 融合 - Ericsson](../../31-ai-ran-convergence/product-solutions/#2-ericsson)
+- [31. AI-RAN 融合 - 案例研究](../../31-ai-ran-convergence/case-studies/)
+- [06. 工作组](../../06-working-groups/)
+- [02. 核心组件](../../02-core-components/)
+- [03. 接口标准](../../03-interface-standards/)
 
 ---
 

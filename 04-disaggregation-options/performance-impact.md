@@ -2,7 +2,7 @@
 title: "解耦选项的性能影响"
 description: "不同的 CU/DU 解耦选项和前传分割点会对网络性能产生显著影响，包括延迟、带宽和同步精度等关键指标。本文档详细分析不同解耦选项的性能影响，为生产环境中的部署决策提供参考。"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['AI-RAN', '5G']

@@ -2,7 +2,7 @@
 title: "集中式单元 (O-CU)"
 description: "O-CU (Centralized Unit) 是 O-RAN 架构中的集中处理单元，负责处理非实时性的高层协议栈功能。O-CU 进一步分为控制面 (CU-CP) 和用户面 (CU-UP)，实现了控制"
 category: "documentation"
-language: "en-US"
+language: "zh-CN"
 version: "1.0"
 last_updated: "2026-08-25"
 keywords: ['5G']

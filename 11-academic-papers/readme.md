@@ -4,7 +4,7 @@ description: "This directory contains a comprehensive collection of academic pap
 category: "documentation"
 language: "en-US"
 version: "1.0"
-last_updated: "2026-08-25"
+last_updated: "2026-09-03"
 keywords: ['AI-RAN', 'RIC', '5G']
 ---
 
@@ -105,6 +105,19 @@ Cutting-edge papers on **AI-RAN convergence** published in 2026, covering agenti
 6. **Post-Quantum Transition** — NIST PQC standards (Kyber, Dilithium) integrated into O-RAN interfaces
 
 ---
+
+## Paper Catalog Files
+
+Each subdirectory contains a curated `papers-list.md` with representative real publications (title, authors, year, venue, one-sentence abstract). Unverified entries are marked [需核实].
+
+- [Architecture papers](./architecture/papers-list.md)
+- [RIC and AI papers](./ric-ai/papers-list.md)
+- [Interface standards papers](./interfaces/papers-list.md)
+- [Deployment papers](./deployment/papers-list.md)
+- [Standards and compliance papers](./standards/papers-list.md)
+- [Application papers](./applications/papers-list.md)
+- [Survey papers](./surveys/papers-list.md)
+- [2026 AI-RAN papers](./ai-ran-2026/) (full catalog in that directory's README)
 
 ## Paper Metadata Format
 
